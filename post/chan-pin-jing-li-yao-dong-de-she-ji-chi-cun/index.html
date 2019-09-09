@@ -1,0 +1,244 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    
+<meta charset="utf-8" >
+
+<title>产品经理要懂的设计尺寸 | 南宫七洛</title>
+<meta name="description" content="一个有趣的互联网创业者">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568046319896">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="https://lvhaibing.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+
+  </head>
+  <body>
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://lvhaibing.github.io">
+        <img class="avatar" src="https://lvhaibing.github.io/images/avatar.png?v=1568046319896" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://lvhaibing.github.io">
+        <h1 class="site-title">南宫七洛</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">产品经理要懂的设计尺寸</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2019-09-10</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://lvhaibing.github.io/tag/89utepV5ts">
+                    产品经理
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p>对于产品经理来讲，掌握一些设计方面的知识，往往可以更轻松的和设计师交流。而首先我们应该了解的就是移动端设计尺寸规范。众所周知，当前移动端屏幕尺寸非常多，碎片化非常严重。不管是IOS还是安卓，有很多种分辨率。总结如下：<br>
+#####安卓主流的分辨率有以下几种：<br>
+480x800, 480x854, 540x960, 720x1280,800x1280,1080x1920，2560x1440（2k屏）。<br>
+####苹果主流的分辨率有以下几种：<br>
+640x960, 640x1136, 750x1334, 1242x2208。</p>
+<p>那么在我们设计的时候要采用哪种分辨率才是最合适的呢？<br>
+要回答这个问题，我要先科普几个概念。</p>
+<p>###1）像素密度PPI<br>
+首先是像素密度也就是PPI（Pixels per inch）。要知道屏幕是由很多个像素点构成的，这些像素点的个数也就是屏幕的分辨率构成屏幕的像素尺寸。而手机屏幕的物理尺寸和像素尺寸是不成比例的。如下图：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ab96f465157425b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="iphone主流型号尺寸"><br>
+可以看出，虽然iphone4和iphone3GS的物理尺寸都是3.5英寸，但是iphone4的屏幕分辨率为640x960px,而iphone3GS的分辨率为320x480px,刚好是iphone4的1/4。这也就是iphone3gs和iphone4的物理尺寸相同，但是像素尺寸不同，这个不同我们用一个概念来表述，也就是上面提到的像素密度。那么这个像素密度是怎么计算的呢？如下图：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-0699546fec4bb0b2.jpg?imageMogr2/auto-orient/strip" alt="ppi.jpg"><br>
+如果你能够理解下面这个计算，我相信你就理解了iphone各个分辨率与参数之间的关系。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-38250d2366958a69.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="计算范例"><br>
+###2）倍率与逻辑像素</p>
+<p>在解释这个概念前？我想问问大家有没有想过为什么不同分辨率的手机，像iphone6plus和iphone6的显示内容会相同，比如同样一个邮件列表，两个屏幕显示的邮件数是相同的。按理说iphone6plus的分辨率更高，同样一张图片的话，在iphone6plus上不是应该看起来更小，所以显示的邮件数更多么？<br>
+这里就牵扯到一个概念也就是逻辑像素。如上图，iphone6plus的逻辑像素是414x736，它的分辨率是它的逻辑像素的3倍，也就是说它把3x3个像素当成一个像素来用，原本1个像素中显示的内容，现在用9个像素来显示，自然显示效果就非常细腻逼真了。同样iphone6的逻辑像素是375x667，它的分辨率是它的逻辑像素的2倍，也就是说在iphone6中，原本一个像素的内容用了2*2个像素点来显示。只要两个屏幕的逻辑像素相同，显示的画面就是相同的，屏幕分辨率不同的问题就用倍率解决了。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2813547e3af9d214.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种iphone屏幕尺寸"></p>
+<p>安卓把不同像素密度的设备划分了好几个范围，给不同范围的设备定义了不同的倍率，来保证不同设备显示效果的相同。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-eef325040e07d077.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种安卓屏幕尺寸.png"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-9ae06a955ea150c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安卓市场尺寸规范"></p>
+<p>如图所示，像素密度在120左右的屏幕归为ldpi，160左右的归为mdpi，以此类推。这样，所有的Android屏幕都找到了自己的位置，并赋予了相应的倍率：</p>
+<blockquote>
+<p>ldpi [0.75倍]<br>
+mdpi [1倍]<br>
+hdpi [1.5倍]<br>
+xhdpi [2倍]<br>
+xxhdpi [3倍]<br>
+xxxhdpi [4倍]</p>
+</blockquote>
+<p>目前的市场状况：</p>
+<blockquote>
+<p>ldpi 如今已绝迹，不用考虑<br>
+mdpi [320x480]（市场份额不足5%，新手机不会有这种倍率，屏幕通常都特别小）<br>
+hdpi [480x800、480x854、540x960]（早年的低端机，屏幕在3.5英寸档位；如今的低端机，屏幕在4.7-5.0英寸档位）<br>
+xhdpi [720x1280]（早年的中端机，屏幕在4.7-5.0英寸档位；如今的中低端机，屏幕在5.0-5.5英寸档位）<br>
+xxhdpi [1080x1920]（早年的高端机，如今的中高端机，屏幕通常都在5.0英寸以上）<br>
+xxxhdpi [1440x2560]（极少数2K屏手机，比如Google Nexus 6）<br>
+自然地，以1倍的mdpi作为基准。像素密度更高或者更低的设备，只需乘以相应的倍率，就能得到与基准倍率近似的显示效果。</p>
+</blockquote>
+<p>不过需要注意的是，Android设备的逻辑像素尺寸并不统一。比如两种常见的屏幕480x800和1080x1920，它们分别属于hdpi和xxhdpi。除以各自倍率1.5倍和3倍，得到逻辑像素为320x533和360x640。很显然，后者更宽更高，能显示更多内容。所以，即使有倍率的存在，各种Android设备的显示效果仍然无法做到完全一致。</p>
+<p>###3）单位：<br>
+不难发现，真正决定显示效果的，是逻辑像素尺寸。为此，iOS和Android平台都定义了各自的逻辑像素单位。iOS的尺寸单位为pt，Android的尺寸单位为dp。说实话，两者其实是一回事。<br>
+单位之间的换算关系随倍率变化：</p>
+<p>1倍：1pt=1dp=1px（mdpi、iPhone 3gs）<br>
+1.5倍：1pt=1dp=1.5px（hdpi）<br>
+2倍：1pt=1dp=2px（xhdpi、iPhone 4s/5/6）<br>
+3倍：1pt=1dp=3px（xxhdpi、iPhone 6）<br>
+4倍：1pt=1dp=4px（xxxhdpi）</p>
+<p>单位决定了我们的思考方式。在设计和开发过程中，应该尽量使用逻辑像素尺寸来思考界面。Android的最小点击区域尺寸是48x48dp，这就意味着在xhdpi的设备上，按钮尺寸至少是96x96px。而在xxhdpi设备上，则是144x144px。</p>
+<p>无论画布设成多大，我们设计的是基准倍率的界面样式，而且开发人员需要的单位都是逻辑像素。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c5e62fad215f9af6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="常用逻辑像素"><br>
+移动端web的单位是px，使用代码可以实现让浏览器用APP的渲染方式来显示页面，根据像素密度，按照相应倍率缩放。<br>
+制作页面时按照基准倍率制作，按照逻辑像素来设计和开发页面就好了。在准备图的时候可以准备逻辑像素2倍大小的图，通过代码缩成一倍，这样就会比较清晰了。<br>
+最后补充一点，电脑屏幕的分辨率一般为72px,因此在作图的时候，可以在PS中把分辨率设置为144Px,这样就是倍率为2的屏幕了。在ps中通常是控制DPI的大小，其实就是PPI，像素密度来控制设计倍率。<br>
+对于产品经理来讲，不用设计具体的UI界面。不过在设计产品原型的时候，我们要考虑按什么样的尺寸去设计，通常都是选择逻辑像素尺寸。</p>
+
+          </div>
+        </div>
+
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://lvhaibing.github.io/post/hu-lian-wang-chan-pin-shu-ju-tong-ji-zhi-shi-xiao-ji">
+              <h3 class="post-title">
+                下一篇：互联网产品数据统计知识小记
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
+  <div class="slogan">一个有趣的互联网创业者</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'aa418fc4d0af90118f54',
+        clientSecret: '7dfbef4fa60d2d505351422faa16514452d8b731',
+        repo: 'lvhaibing.github.io',
+        owner: 'lvhaibing',
+        admin: ['lvhaibing'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
