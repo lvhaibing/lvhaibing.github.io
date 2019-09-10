@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-09-10T12:45:37.305Z</updated>
+    <updated>2019-09-10T12:48:13.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,235 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[如果你没看《增长黑客》可以看这份PPT]]></title>
+        <id>https://lvhaibing.github.io/post/ru-guo-ni-mei-kan-lesslesszeng-chang-hei-ke-greatergreater-ke-yi-kan-zhe-fen-ppt</id>
+        <link href="https://lvhaibing.github.io/post/ru-guo-ni-mei-kan-lesslesszeng-chang-hei-ke-greatergreater-ke-yi-kan-zhe-fen-ppt">
+        </link>
+        <updated>2019-09-10T12:47:31.000Z</updated>
+        <content type="html"><![CDATA[<p>增长黑客一词几年前在硅谷就已经炒的火热，而真正在国内为人们所熟知还是在范冰的《增长黑客》问世之后。正如苏杰将《人人都是产品经理》一词炒的火热，增长黑客在国内也越来越为互联网公司所重视。</p>
+<p>那么什么是增长黑客呢？</p>
+<p>“增长黑客”这一说法源于硅谷，最早在2010年由Qualaroo的创始人兼首席执行官肖恩·埃利斯（Sean Ellis）提出。但它真正引起业界广泛关注与交流，却是因为安德鲁·陈（Andrew Chen）在2012年4月发表的《Growth Hacker is the new VP Marketing》一文。</p>
+<p>他在文中谈到，增长黑客们试图用更聪明的方式解答产品得以增长的奥秘，并使之成为助力产品增长的长效机制。他们通常采用的手段包括A/B测试、搜索引擎优化、电子邮件召回、病毒营销等，而页面加载速度、注册转化率、E-mail到达水平、病毒因子这些指标成为他们日常关注的对象。</p>
+<p>换句话说，这是一群以数据驱动营销、以市场指导产品，通过技术化手段贯彻增长目标的人。他们通常既了解技术，又深谙用户心理，擅长发挥创意、绕过限制，通过低成本的手段解决初创公司产品早期的增长问题。</p>
+<p>在外行人眼里，他们就像是极客、发明家和广告狂人的混合体。再通俗一点形容，他们的职责接近于专门为初创公司设立的市场推广部门，因为很少有用于营销的大笔经费，所以更多的是将注意力聚焦在产品策略本身带来的自发增长上。</p>
+<p>用户增长在产品的不同阶段有着不同的指标，根据不同阶段用户参与的深度和类型，我们可以将增长目标拆分并概括为“AARRR”转化漏斗模型，即：Acqui si t i on（获取用户）、Act i vat i on（激发活跃）、Ret ent i on（提高留存）、Revenue（增加收入）、Refer r al（传播推荐）。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-22922c50c32f47db?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>在这个漏斗中，被导入的一部分用户会在某个环节流失，而剩下的那部分用户则在继续使用中抵达下一环节，在层层深入中实现最终转化。</p>
+<p>在产品的每一个阶段都有一定的技巧和策略来实现用户的增长目标。在获取用户阶段，我们可以向Hotmail学习，用一行文字收获两千万用户。知乎：早期的邀请注册机制造成邀请码难求的情况，饥饿营销也未尝不是一种不错的吸引用户的手段。</p>
+<p>激发活跃的实例则更多，像新浪微博的推送，简书的邮件提醒都是会让你在快忘掉它们的时候再次回到APP。而这种推送又不会给你造成反感，从而逐渐的让你增加在该APP内的社交关系，内容沉淀等。当你在该APP沉淀了一定的价值，你也就很难离开它了。</p>
+<p>说到提高留存就不得不想到PC上各种软件以及手机上各种APP在卸载页面的文案。像Facebook在你注销账号的时候通常页面会出现与你互动比较多的好友头像，然后问你一句你真的想要离开了么？这一举措极大的减少了注销账号的用户，从而提高了用户留存。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-9e21afb451d26a3f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>提到2016年新出现的独角兽公司就不得不提映客，还记得映客那句火遍朋友圈的广告么：“你丑你先睡，我美我直播”，以及“上映客，直播我”主题的宣传短片。要知道在16年初春节后，映客生生为这只广告片砸下一亿，买断爱奇艺，优酷，腾讯视频，各大院线广告。之后DAU迅速到达500万，跻身直播平台第一行业。</p>
+<p>映客之所以如此大手笔是因为其拥有超强的盈利能力，用户在映客平台打赏的钱，映客差不多拿走了2/3。所以映客在日活不到500万时，每天就能有接近200万的收入。能够快速的取得商业变现，找到赢利点，也难怪其能够在短短2年间成为估值10亿美元的独角兽公司了。</p>
+<p>传播推荐其实是用户增长中最难的一部分，因为只有在用户已经充分认可产品的情况下才会给出正面的传播。反之如果用户获得很糟糕的体验，那么他的传播对产品的伤害是很大的。</p>
+<p>比如某同学骑了摩拜单车后，将骑车里程分享到朋友圈，本来是正向的传播，但由于mobike比较沉，骑着比较费力，所以骑行体验不好，于是该同学在发朋友圈的同时给出负面评价。那么他的朋友看到了可能对mobike的初始认知就改变了。</p>
+<p>当然，最后要说的一点是：任何“增长黑客”都无法挽回一个无药可救的垃圾产品。</p>
+<p>点击阅读原文即可获得七洛总结的PPT：如何用最低的成本获取最多的用户。</p>
+<p>在公众号回复：增长黑客，即可获得《增长黑客》电子书。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-e420c187e0f7018f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么广告这么了解我们]]></title>
+        <id>https://lvhaibing.github.io/post/wei-shi-me-guang-gao-zhe-me-liao-jie-wo-men</id>
+        <link href="https://lvhaibing.github.io/post/wei-shi-me-guang-gao-zhe-me-liao-jie-wo-men">
+        </link>
+        <updated>2019-09-10T12:47:11.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-02dbe1ad996b4d17?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
+不知道你有没有发现，当你早上在某东或者某宝上搜索了某件商品后，下午的时候该商品的广告就出现在你QQ聊天面板的右侧。</p>
+<p>甚至当你打开网页的时候，不知道为什么推荐内容全都是与近期浏览相关的页面，比如我搜索了感冒，网页上就会出现感冒药。难道他真的知道我感冒了么？</p>
+<p>再比如，我在某东上看了看了手机，手机上就收到某米的推送短信。当我流量不够了时，移动一天能给我打三个电话让我换套餐。</p>
+<p>是谁和谁出卖了我们的信息？<br>
+又是谁把我们的个人数据换成了他们口袋的钱？<br>
+还有谁和谁比我们自己更了解我们自己，让广告变得如此精准？</p>
+<p>要回答上面这些问题，让我们从广告的定义出发。<br>
+广告作为一项商业活动，想要完成一次完整的展示，以下3个元素必不可少：<br>
+1）广告主：即出钱请你看广告的那个人。<br>
+2）用户：也就是你。<br>
+3）媒介：传单、广播、杂志、公共展位、报纸、电视、互联网等传播途径。</p>
+<p>这三者之间的关系很奇妙。</p>
+<p>对广告主和用户来说，广告主有进行品牌宣传和产品营销的需求，用户有了解品牌更好的选择产品的需求。</p>
+<p>对广告主和媒介来说，广告主为了更好的广告效果，有选择合适媒介的需求，选择一个投入产出比（ROI）最高的媒介。而媒介有出租广告位赚钱的需求。</p>
+<p>对用户和媒介来说，用户有通过媒介收集信息，了解外部世界的需求，而媒介有吸引眼球，发展用户的需求。因为用户多了，广告主就来了。</p>
+<p>对于传统的广告而言，广告效果很难被衡量。比如你为某个餐厅发了100张传单，你很难判断这100张传单的真实效果，带来了多少客户和收入。</p>
+<p>但是互联网广告的效果是可衡量的，通过网站的日志系统，通过对用户上网HTTP请求的解析，网站可以得到当前时间，访问用户的IP地址，用户的操作系统和浏览器版本等基本信息，甚至可以通过脚本获得更多信息，比如你的点击行为，鼠标停留区域，停留时间等。</p>
+<p>广告从线下走到了线上，由于广告效果可被衡量的属性，深受广告主的青睐。</p>
+<p>此时的广告模式是按照广告位展示时间计费（CPT/CPD），就是广告位展示了多久就给多久的钱。但是这样媒介的收入就有天花板了，于是他们想呀想，终于想到一个好办法。</p>
+<p>既然可以对用户的行为数据做收集和分析，那么当然也可以把网站的男女用户区分出来。给男用户推送剃须刀的广告，给女性用户推送化妆品的广告。这样不就可以获得2份收入了么？</p>
+<p>这里就用到了一个受众定向技术，广告主为了达到预期的广告效果会和媒介网站签订一份展示量合约。约定好每前次展示的价格（CPM），乘以总的展示次数即是广告总的花费。若不能完成合约的展示量，那么算媒体网站违约。</p>
+<p>在保证CPM的合约广告中，广告主和媒体网站都赚的盆满钵满。于是每天网站意识到广告复用的关键在于用户定向的精准度。于是用户的画像越来越清晰，给用户打的标签也越来越多。甚至可以根据你的上网痕迹判断出你是否为单身想找对象或者不想找对象。</p>
+<p>在受众定向技术的支持下，广告的商业模式从CPT变成了CPM，保证展示量效果的合约形成，广告进入可计算的时代。</p>
+<p>接着为了取得最大化收益，受众定向技术被用的登峰造极。但是用户的上网行为是不可预测的。这样就造成了如果媒体网站接了很多的展示量合约，有可能完不成的情况。</p>
+<p>于是非保量合约出现了，竞价广告商业模式开始展露头角。一句话解释竞价广告就是：谁出价高就是谁的。</p>
+<p>当你访问某个媒体网站时，媒体网站会通过标签分析，发现你的标签是“标识XXX，男性，20-25岁，跑鞋爱好者”，然后媒体网站将你上网了以及标签信息出售。不同的需求方会竞价来取得你打开首页后的广告展示机会，竞价采取的是密封拍卖的形式，最终的价格是广义第二高价。也就是拍卖中出的第二高的价格。</p>
+<p>这样媒体网站就能够把每一个用户的每一次展示机会卖出一个最高的价格，同时广告效果也得以保证。而竞价的整个过程都是在你打开网页的100毫秒之内完成的。所有的交易都是程序化进行。</p>
+<p>最后广告到了今天，已经成为了绝大多数互联网公司商业变现的主要途径，作为用户我们要保护好自己的隐私和个人数据。尽可能多的用隐私模式浏览网页。</p>
+<p>更要擦亮自己的双眼去识别广告，因为现在流行的广告趋势是原声广告，也就是所谓的软文，他让你很难分清楚究竟是内容还是广告，这也是因为移动世界的来临，移动端屏幕本来就很小，不适合展示传统的广告。于是各种软文层出不穷，据我所知，粉丝达百万级别的公众号一篇软文的价格已经达到40多万。</p>
+<p>好吧。读到这里，你对广告为什么这么了解我们有一个自己的答案呢？我们在享受网络时代带来的信息，便利的同时，我们的数据也就无偿的被其采集。这是否违背了道德和法律还不得而知。不过深处互联网的浪潮，我们更应该保护好自己，不要让自己成为透明人。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一行文字带来1200万用户]]></title>
+        <id>https://lvhaibing.github.io/post/yi-xing-wen-zi-dai-lai-1200-wan-yong-hu</id>
+        <link href="https://lvhaibing.github.io/post/yi-xing-wen-zi-dai-lai-1200-wan-yong-hu">
+        </link>
+        <updated>2019-09-10T12:46:52.000Z</updated>
+        <content type="html"><![CDATA[<p>如何用最低的成本来获取最多的用户一直都是产品运营人不得不思考的一个问题，而其实只需要一行文字就够了。</p>
+<p>1996年，两个年轻的工程师杰克·史密斯（Jack Smith）和沙比尔·巴蒂亚（Sabeer Bhatia）开发了一套基于网页的邮件系统。</p>
+<p>Hotmail刚推出时反响平平，这种全新的产品形态并没有立即获得市场的认可。而他们也没有太多的预算来做宣传，另外线下广告牌投放广告的效果也不是特别理想。</p>
+<p>他们需要一种更精准的方式来找到真正的用户。</p>
+<p>既然如此，与其从线下锁定用户，不如直接考虑在他们线上的使用场景里做文章，也就是收发电子邮件这个过程本身。</p>
+<p>于是聪明的投资人蒂莫西·德拉佩尔（Timothy Draper）替他们想出了一个绝妙的主意——他们在每一封用Hotmail 发出的邮件末尾签名处，增加了一行附言：“我爱你。快来 Hotmail 申请你的免费邮箱。”（PS: I love you. Get your free E-mail at  Hotmail.）</p>
+<p>这一改动在仅仅几个小时之后，使Hotmail 的用户注册曲线发生了戏剧性的变化，原本无人问津的服务，开始以每天3000个新用户的速度增长。</p>
+<p>Hotmail在用户间逐渐形成口碑，每封发出的邮件成为了病毒式的广告宣传，被另一个原本就有电子邮件使用习惯的人接收，这种一传十十传百的放大效应，使用户增长如滚雪球般越来越快。</p>
+<p>为了探究这种增长究竟有多么疯狂，创始人巴蒂亚给他的印度朋友发送了一封邮件，结果三周之后Hotmail 就在当地斩获了30万用户。</p>
+<p>在六个月的时间内，Hotmail 迅速成为互联网新兴服务的翘楚，成功斩获了100万用户。</p>
+<p>随后凭借这一庞大的基数，仅五周之后，Hotmail 就获得了第二个100万用户。</p>
+<p>直至一年半后出售给微软之前，Hotmail 的全球用户总量达到了惊人的1200万人——要知道当时全球的网民数量也才不过区区7000万人。</p>
+<p>我们一直在思考怎样的传播更有效率，能像病毒一样疯传。其实答案就在你的产品当中。</p>
+<p>就像你使用微信的很大一个原因是因为你的好友，同学，同事，家人都在使用它，假如你不用微信，你的沟通效率就会变低，同时你也会在人群中显得格格不入。</p>
+<p>这就是一个产品自身所具有的吸引力，这种吸引力可能是一句来这里免费申请邮箱的话语，也有可能是一封感谢注册的电子邮件，甚至是一个排行榜，1元钱的奖励。</p>
+<p>总之它就是让你无法自拔的使用产品的诱因，同时你又不自觉地把这种病毒因子传播出去。</p>
+<p>那么如何让你的产品具有这种旺盛的增长力呢？首先你需要找对合适的用户，裂变就像道德经里说的一生二，二生三，三生万物。首先你要找到那个一。也就是乐于一开始就使用你的产品的人。这些就是种子用户。</p>
+<p>在种子用户的使用过程中，通过产品机制来让他们影响他们圈子里的人，进而形成列表。比如摩拜单车骑行后的一次里程分享，在朋友圈中，有好友看到后或许就会下载摩拜APP,进而使用其产品。</p>
+<p>而作为产品运营人员，你要思考的就是将这种产品机制做到极致，让用户在不自觉中影响了他人，给了他们这个APP的概念。</p>
+<p>就像你的一个好朋友假如每天都会告诉你同一个人有多么有趣，那么你一定想见见或者认识一下这个人看看他是否真的有趣。</p>
+<p>那么是否能够形成列表传播的关键也就是在于种子用户的参与度与分享度，只有种子用户能够体会到这个产品的价值。</p>
+<p>或者给他们提高了效率，或者满足了他们的虚荣心，或者让他们觉得有趣好玩。他们总是会因为一个什么特别的原因才去告诉他的朋友。</p>
+<p>就像谣言，需要一个主人翁，一个导火索。</p>
+<p>好了，今天的分享就到这里了。如果你觉得看的不过瘾的话可以打赏七洛。七洛会加快速度更新内容。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三个月我用手机赚了10000]]></title>
+        <id>https://lvhaibing.github.io/post/san-ge-yue-wo-yong-shou-ji-zhuan-liao-10000</id>
+        <link href="https://lvhaibing.github.io/post/san-ge-yue-wo-yong-shou-ji-zhuan-liao-10000">
+        </link>
+        <updated>2019-09-10T12:46:28.000Z</updated>
+        <content type="html"><![CDATA[<p>好了，我知道你们都是冲着标题进来的。</p>
+<p>其实今天我要介绍的呢，就是一款可以在手机上赚钱的APP---友钱。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-fda9af6d46dcba76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="友钱"></p>
+<p>友钱的玩法主要是通过试玩APP来获得收益，一般试玩一个APP可以获得1到3元不等。假如你每天有足够的时间来做任务，月入万元也不是问题。</p>
+<p>下面我就给大家讲讲用这个APP赚钱的流程吧。</p>
+<p>直接访问iyouqian.com即可。</p>
+<p>使用教程如下：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-9486c9dc387663c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="ios|iyouqian.com"></p>
+<p>####对于ios用户来说。</p>
+<p>在打开iyouqian.com之后，你需要下载一个叫“影片钥匙”的APP来激活友钱。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3c6ceccc8fd8b749.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="影片钥匙"></p>
+<p>按照页面提示激活影片钥匙。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d70114b494a89a40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="激活"></p>
+<p>点击激活后就到了这个页面。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-38b1dd082900939d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="激活页"></p>
+<p>点击返回友钱，即可进入友钱主页面。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-17eeacd831435207.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="友钱"></p>
+<p>点击开始赚钱，即可进行任务啦~</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-e04b6a8aeb943b3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="任务界面"></p>
+<p>任务都是1元以上，这个平台赚钱还是很良心的。</p>
+<p>来看下任务详情吧。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2653ddde92e8d617.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="任务详情"></p>
+<p>任务完成后会有提示。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2ccc750b2694f8d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="任务完成"></p>
+<p>在我的账本也可以看到到账记录，只有满10元就可以提现了哟，不想说注册就送2元，邀请一个好友送1元。比起刷单什么的赚钱快多了好么？</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-8e7641430e62921a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="我的账本"></p>
+<p>经常看到各种微商，刷单手发布垃圾信息占据朋友圈，简直想把这个APP砸到他们脸上，不用发各种乱七八糟的信息，还可以体验各种不同的APP，顺便就把钱赚了。简直完美有木有？</p>
+<p>####对于安卓用户来说。</p>
+<p>进入iyouqian.com后，看到的就是下面这个页面:</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-315a8fa3a9a9b7f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安卓|iyouqian.com"></p>
+<p>安卓是有客户端的，下载完成后就能做任务啦。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ee0ad0757d051eec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="友钱"></p>
+<p>安卓的奖励没有ios那么多，但是任务量会更多。所以充分利用你的闲暇时间，每月轻轻松松躺着赚几千块不是问题。</p>
+<p>众所周知，苹果的APPstore的排名优化（ASO）已然成了一条巨大的产业链，任何产品的比拼到最后都是策略和资本的比拼。ASO也越来越受到各家互联网公司的重视，对于关键词的把控，简直要运营人员使出浑身解数。下面这张图可见一斑。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-19ac8175c0a79582.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="ASO优化"></p>
+<p>作为吃瓜群众的我们，选择一个好的平台，坐收一波红利，未尝不是一个明智的选择。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道怎么把照片发到天上去么？]]></title>
+        <id>https://lvhaibing.github.io/post/ni-zhi-dao-zen-me-ba-zhao-pian-fa-dao-tian-shang-qu-me</id>
+        <link href="https://lvhaibing.github.io/post/ni-zhi-dao-zen-me-ba-zhao-pian-fa-dao-tian-shang-qu-me">
+        </link>
+        <updated>2019-09-10T12:46:06.000Z</updated>
+        <content type="html"><![CDATA[<p>最近真的忙成狗，所以公众号没有日更了，给大家发了红包作为补偿，只要在公众号回复：<strong>我要讨红包</strong>，就可以收到七洛为您准备的红包啦~<br>
+红包有限，要拼手速和运气哟！</p>
+<p>今天要给大家介绍的是最近发现的两款很好玩儿的APP。</p>
+<p><strong>一</strong></p>
+<hr>
+<p>应用名称：<strong>我的天</strong><br>
+平台：<strong>android、IOS</strong><br>
+主要功能：<strong>RT，你知道怎么把照片发到天上去么？</strong></p>
+<p>就像它的名字一样骚气，整个APP的功能也是很有新意，这是一款AR应用，在这个APP中你可以把你的照片贴在固定区域的天空，可以是你在旅行途中的风景，也可以是城市的中心，其他人打开这个APP扫描该处的天空就能看到你的照片了。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3eb6c0e03eb40b0e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
+你可以把你的照片分享到校园上方的天空，这样校园中的其他同学就可以通过扫描发现你的照片了。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c6e26f0fd5ec4377?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
+也可以通过时空照片交到朋友，还可以聊天。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-0b993182a257e7c1?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
+在旅行目的地的天空永远留下属于自己的印记。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-1227695230b4fe2b?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
+它的主界面是这样的，你可以发现扫描区域内存在的照片，也可以上传照片到指定区域的天空。还可以移动，放大缩小照片，和照片的上传者聊天。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-854d8d27205edc12?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
+试了一下，没想到发现了这张照片竟然在我的卧室里。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d9c01b0b59212a16?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">在世界频道里，可以发现你所在城市上空各种好玩儿有趣的照片。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-57657d16ac11e91a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
+通过这个APP，你真的可以在你去过的任何地方留下去过的痕迹了。想想所有走过地方的天空还留着你的照片，是不是也挺有趣的呢？</p>
+<p><strong>二</strong></p>
+<p>应用名称：<strong>平行空间</strong><br>
+平台：<strong>android、IOS</strong><br>
+主要功能：<strong>可以在手机里同时打开两个QQ，或者微信等其他应用。</strong></p>
+<p>也就是应用双开，这个功能很多最新的智能手机已经自带了，但是这个APP其实就可以做到，而且最多可以同时支持6个应用的双开，也是非常强大。另外它还有非常好玩儿的表情功能，集合了当下最流行的聊天表情。</p>
+<p>[图片上传中。。。（8）]大号小号同时上线，两个微信，一个工作，一个生活。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-4f5f408257658107?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">有了表情广场，斗图再也没输过。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c45e34223258b928?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">在应用双开页，你可以选择添加需要双开的应用，最多一次可以添加6个，如上图，我已经添加了微信、QQ和天猫。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-7cd1b4b4583fd0e9?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">表情广场做的也是比较良心的，不用付费下载，而且支持分享到微信和QQ。</p>
+<p>不管是我的天，还是平行空间，我玩儿了简直停不下来。你也可以试试哟~</p>
+<p><strong>支付宝昨日已发布了IOS9.9.3版本，不知道你有没有更新呢？</strong></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-f153719568aed01c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>新版本最大的亮点就是上线了“到位”功能，当你有需求时，你可以在到位上发布你的需求，支付宝会把这个需求传达给你附近的能够帮助你的用户。当然在交易达成后，帮你的人可以拿到你发布需求时设置的钱。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-09cd74819d8234fb?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>这样来看，这个功能其实脑洞非常大。</p>
+<p>很多网友已经YY出上厕所时找人送手纸，啪啪时找人送TT的奇葩需求了。据说这个功能最初是支付宝在愚人节时的一个玩笑，没想到现在真的实现了，具体怎么用，就看您的脑洞了~</p>
+<p>没准你还可以在上面贩卖技能赚钱呢。</p>
+<p>不知道送TT这种服务会不会很尴尬？哈哈，你也可以发现你身边的有钱人了。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-e050839d4e6bf439?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+<p>目前仅IOS可以用“到位”功能哟，安卓的话估计还要再等等啦~</p>
+<p>小伙伴们有没有很想试试呢？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你们要的短信轰炸机在这里]]></title>
+        <id>https://lvhaibing.github.io/post/ni-men-yao-de-duan-xin-hong-zha-ji-zai-zhe-li</id>
+        <link href="https://lvhaibing.github.io/post/ni-men-yao-de-duan-xin-hong-zha-ji-zai-zhe-li">
+        </link>
+        <updated>2019-09-10T12:45:41.000Z</updated>
+        <content type="html"><![CDATA[<p>当我们收到骚扰短信的时候，我们都会想自己的电话号码是在哪里泄露的。是注册在哪个网站还是APP的信息被人以几毛钱一条的价格卖了。<br>
+可惜我们往往很难查到。<br>
+<strong>所以，你根本不知道谁拥有你的电话号码，你也根本不知道，究竟是谁向你发动了短信轰炸攻击。</strong></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-794be533776e32d6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="骚扰短信"></p>
+<p>那么短信轰炸究竟是怎么回事呢？</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d2fd7a8568619033.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="短信轰炸原理"></p>
+<p>短信轰炸平台会用被轰炸的电话号码依次访问注册多个网站APP，然后利用这些网站的注册验证码向该号码发动短信轰炸，使其在短时间内收到大量短信信息，致使手机出现卡死等故障。</p>
+<p><strong>一般我们在打车，外卖，网购等服务平台给差评的时候极容易遭到报复，收到短信轰炸。小伙伴们要注意啦~</strong></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-50a013531d425986.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="取消订单了"></p>
+<p>立马收到短信轰炸。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-91995f089d915772.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="被轰炸"></p>
+<p>不过一旦你受到了短信轰炸，记得要启用短信拦截，或者彻底关机，以免被连续而来的短信逼疯。尤其是处女座的同学，眼不见不净，不要为删除每一条骚扰短信而心疲力竭。</p>
+<p>######那么有哪些途径可以对别人发起短信轰炸呢？######<br>
+</br></p>
+<p>网上的短信轰炸平台也是非常多，有网页版，也有exe，还有apk。对别人发动短信轰炸成本简直低到几乎没有。</p>
+<p>在这里科普几个网站吧！</p>
+<p>一、http://www.duanxinhongzha.com/</p>
+<p>网站就是这么简单粗暴，只需输入一个电话号码，你就可以指挥短信大军入侵。<br>
+<img src="http://upload-images.jianshu.io/upload_images/1346433-b7f5883aed5ef384.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="轰炸机"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-913137db21856dbf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="轰炸机"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-4491178106626270.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="轰炸机官网"></p>
+<p>二、http://www.batman110.help/</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ffa82e09d173dbba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="轰炸机"></p>
+<p>如果觉得用着还不够爽的话，还可以在公众号回复：短信轰炸机。即可收到七洛收藏多年的神器哟~</p>
+<p>好啦，各位老司机，快去飙车吧！</p>
+<p>记得不要出车祸！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[给钱看照片这个功能就这么被玩儿坏了]]></title>
         <id>https://lvhaibing.github.io/post/gei-qian-kan-zhao-pian-zhe-ge-gong-neng-jiu-zhe-me-bei-wan-er-pi-liao</id>
@@ -239,251 +468,6 @@ RT<br>
 <strong>还在苦逼奋斗中的文案狗们</strong><br>
 <strong>致敬！</strong></p>
 <hr>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些APP，你不知道有多好玩]]></title>
-        <id>https://lvhaibing.github.io/post/zhe-xie-appni-bu-zhi-dao-you-duo-hao-wan</id>
-        <link href="https://lvhaibing.github.io/post/zhe-xie-appni-bu-zhi-dao-you-duo-hao-wan">
-        </link>
-        <updated>2019-09-10T12:40:14.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>1&lt; <strong>groopic</strong>  |   **ios ** |  <strong>照片合成应用</strong></p>
-</blockquote>
-<p>有了这款应用你再也不用担心拍照的时候摄影师没办法上镜了，只用在同一个场景拍两张照片，就能轻松把两张照片上的所有人合成在一张照片上。是不是很神奇？</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-f4aa7ceac513ae01?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<blockquote>
-<p>2&lt;<strong>隐身相机  |  ios  |  拍照应用</strong></p>
-</blockquote>
-<p>如下图，在拍照的时候你可以选择模板来隐藏身体的一部分，是不是有点像魔法？相信把你拍好的照片发到朋友圈，你的朋友一定会感到惊讶~</p>
-<hr>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-68308b1d166b484d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<blockquote>
-<p>3&lt;<strong>微不信  |  ios/android  |  恶搞软件</strong></p>
-</blockquote>
-<p>对，它就是用来恶搞微信的APP，可以让你一秒变土豪，横扫朋友圈。虽然有点无聊，不过还是挺有意思的，基本可以满足装逼的需求。如图：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-7703d4c96fdcd08d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<blockquote>
-<p>4&lt;<strong>魔力盒  |  ios/android  | 视频短片</strong></p>
-</blockquote>
-<p>这个APP在你有wifi的情况下会自动下载3部短片，在你看完之后会自动销毁。真的是良心，一点也不占内存。如果你收藏的话，销毁的短片还能找回来。短片的类型很丰富，质量也挺高的，手机有了这个APP，从此再也不无聊。<br>
-<img src="http://upload-images.jianshu.io/upload_images/1346433-e8e5a96015472fdd?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<blockquote>
-<p>5&lt;<strong>echo回声  |  ios  |  音乐社交</strong></p>
-</blockquote>
-<p>一款能让你耳朵怀孕的APP。在到处都讲求音乐版权的今天，echo全开放、全免费的用户设定，能满足你对音乐的一切想象！   让我们开启这场奇幻的音乐之旅echo是一款基于声音/音乐内容的社交媒体型产品，它收录了各种高音质的好玩音乐，专业的音乐编辑们每天精心筛选最优质的歌曲，推荐给听友。用户除了听歌发弹屏，还可以分享歌曲、自制创意的有声图片，填充微信表情包。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2ff6aa140537a4fd?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<blockquote>
-<p>6&lt;<strong>在在  |  ios/android  |  修图换脸</strong></p>
-</blockquote>
-<p>一款奇葩的可以帮你换脸改台词的APP，你可以把偶像剧中的男女主换成自己的脸，也可以恶搞好盆友，随意编段子。随意和明星合影秀恩爱。感觉这个APP要被玩儿坏，哈哈。效果如下图：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-368702f67399cdd9?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><strong>&gt;...&lt;</strong></p>
-<hr>
-<p>好啦，今天的介绍就到这里啦<sub>这么多有趣的APP，还不赶紧去体验一番？如果你有什么好玩有趣的事情，也欢迎分享给七洛。我不会告诉你在公众号随意撩或者在文章下方留言就好了</sub>！我一直在哟~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是怎么赚到人生中的第一个一百万的]]></title>
-        <id>https://lvhaibing.github.io/post/wo-shi-zen-me-zhuan-dao-ren-sheng-zhong-de-di-yi-ge-yi-bai-wan-de</id>
-        <link href="https://lvhaibing.github.io/post/wo-shi-zen-me-zhuan-dao-ren-sheng-zhong-de-di-yi-ge-yi-bai-wan-de">
-        </link>
-        <updated>2019-09-10T12:39:02.000Z</updated>
-        <content type="html"><![CDATA[<p>别多想。<br>
-这个我并不是七洛，七洛还是个苦逼哈哈的小屌丝，每天都得上班和写公号。<br>
-这个我，是别人家的孩子，别人家的孩纸都有一个共同的名字。<br>
-对，<br>
-<strong>小明。</strong><br>
-让我们来看看小明是怎么是怎么赚到他人生中的第一个一百万吧。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-a3483316788019a6.gif?imageMogr2/auto-orient/strip" alt="哈哈"><br>
-<strong>那是在遥远的2014年，小明和我一样，一开始也是一个一文不值的小屌丝。<br>
-在一个朦胧的清晨，小明蓬头垢面的从街边的网吧里走出来，通宵后的他显得又累又困，此时只想找个床，睡它个天昏地暗惊天动地。摸摸兜里仅剩的10块钱，心里想着这点钱只够吃点早餐了，不禁一阵酸楚。</strong></p>
-<p>“草泥马，我终于找到你了”，突然一个西装革履的男人气喘吁吁冲到小明面前，差点没吓得他把10块钱丢掉。</p>
-<p>小明一阵懵逼。</p>
-<p>“啊，对不起，对不起，我不是草泥马，我是想预约你的草泥马。”</p>
-<p>“哈哈哈哈，我就知道。”小明瞬间高兴地手舞足蹈，熬夜一晚的疲倦一扫而光。仿佛整个世界只属于他一个人，心里默念着属于我的一百万终于要来了。</p>
-<p><strong>属于他的一百万真的要来了！</strong></p>
-<p>因为他养了草泥马，也就是羊驼，而且还不止一只。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-58f61f482ca5c7aa.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="草泥马"><br>
-<strong>2013年初，神兽草泥马在网络上已经非常火爆了，几乎已经到了无人不知无人不晓的地步。于是小明有一天在被人骂草泥马后突发奇想，为什么我不养几只草泥马呢？这神兽这么火，如果用来做活动，也就是商演的话，应该很赚钱吧！</strong></p>
-<p>哈哈，想到这里，小明很激动，觉得他屌丝逆袭赢取白富美之路就要开始了。虽然他除了草泥马这个名字外对神兽一无所知，虽然他上班几年也没攒下什么资本。但他还是决定要干这件事，哪怕是向朋友借了10万块在北京羊驼市场买了2只羊驼。</p>
-<p>2014年初，全国对羊驼市场还没有进行太大的挖掘，北京的羊驼市场开发处于全国前列，而江浙沪一带却几乎还没有人做这件事情。小明几乎是全国第一批将羊驼公司化市场化经营的人。小明很兴奋，就像哥伦布发现了新大陆一样。这片市场空白让小明的业务处于爆发性扩散，最好时一天净赚2万+，这也成就了他的第一个一百万，就此，小明完成了他的逆袭之路。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-4f8428d4a869760f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="神兽"><br>
-<strong>然而一切都没有那么简单，所有美好的开端都是困难。</strong></p>
-<p>在开始这个计划之后，小明就遇到了一系列的问题。</p>
-<p><em>羊驼该养在哪里？<br>
-羊驼如何饲养？<br>
-这种动物商演是否合法？<br>
-在外地做活动超过2天以上，晚上羊驼安置如何解决？<br>
-怎么给它洗澡？气味太大客户肯定会不满意。<br>
-怎么给它定价？高了接不到商演，低了无法收回成本。<br>
-如何找出客户？</em></p>
-<p>每一个都差点让他放弃，但凭着年轻人的疯狂和冲劲儿，他硬是把困难一个个的解决掉了。哪怕是在网吧通宵查资料，哪怕是请教了很多动物专家羊驼的饮食习性，哪怕是带着羊驼在闹市区做地推推广。</p>
-<p>互联网思维还不够成熟，推广预算也不多的小明硬生生的让自己的草泥马变成了全民的草泥马。一波波吃瓜群众朋友圈晒照帮他做了免费宣传，媒体报纸数次采访，大版面报道让小明瞬间成了创业英雄，一时间风光无两。</p>
-<p><strong>然而，这些并没有什么卵用。小明还是没有给他的羊驼接到一单商业演出。</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-e90b162c983c8af6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="神兽"><br>
-他没明白的是游客和路人并不是他的客户，他们只是看个热闹。能够负担的起一天三五千商演费用的公司也不是在大街上就能遇到的。小明买下羊驼后一个月都没接到一单生意，这让他有点怀疑自己了。</p>
-<p>然而，屋漏偏逢连夜雨，小明的一只羊驼甚至在淋了一场雨后死去。小明用5万块学习成本知道了羊驼是不能淋雨的。羊驼一般不会生病，吃粗粮。但是毛要保持干燥，一旦淋雨感冒，死亡率非常高。</p>
-<p><strong>小明差点放弃了，承担着公司的运营成本，羊驼的饲料钱，羊驼死去的压力，接不到订单的无奈。然而小明虽然是个屌丝，但也是个一根筋的屌丝，他坚持要把这件事情做到底，坚持要创造一个奇迹。</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-09bedf237e1759bb.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="羊驼"><br>
-终于，事情出现了转机。在一个沿海城市，一个房地产开发商找到了在网吧通宵后刚出来的小明。他希望小明的羊驼能够给他们的楼盘做一次活动，费用3000。活动办的非常成功，吸引了大量的人群和媒体，使得楼盘得到了极大的曝光。而这次活动一下使得公司的名声在圈子内传开，各大房地产商也纷纷效仿这次活动。小明也明白了要把神兽养在农庄，一来是这里的环境比较好。二来是农庄里的有钱人比较多，公司领导自然不少，所以机会也比较多。</p>
-<p><strong>从此，小明的订单如雪花般，不，是漫天雪花般飞来。</strong></p>
-<p>小明通过一次又一次的活动积累了名气和客户圈子。从杭州到上海，从上海到江苏，从江苏到江西...小明就像一个拉皮条的，硬生生的把他的羊驼卖了百万。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ec6d51d46d6598f0.jpg?imageMogr2/auto-orient/strip" alt="萌物"><br>
-从14年5月到15年5月，整整一年的时间。小明带着他的羊驼足迹几乎遍布整个中国。做过万达广场的大型活动，也做过阿里巴巴的周年庆活动，还有很多次小店开业，楼盘商演，商场活动。</p>
-<p>最好的时候甚至一个星期净赚了10万。也做过羊驼买卖，但是还是觉得不划算，一只羊驼卖掉也就赚1万，而羊驼商演一天就能赚1万多。这买卖不划算，小明放弃了。</p>
-<p><strong>每个月的周末、法定节假日，小明接到的活动从来没断过。一个月工作10天，休息20天。而每天的租金都在5000元以上，不到3个月，小明就收回了成本。因为接到的每一单都是纯利润，运费吃住等开销都被客户包了。</strong></p>
-<p>每次活动2天，一个月平均大概接5场活动。遇到节假日活动旺季，一个月能接到10场活动。整个2014年，小明带着他的草泥马做了100多场商演。总行程超过5000公里，这期间也引入了9只羊驼，都是从国外引进的，但是很可惜死了2只。</p>
-<p>小明也遇到过行业中的潜规则。所有的羊驼经过北京的检疫即可全国流通。但是羊驼质量不一，对于品相好的羊驼往往要有人脉，甚至付出双倍的价钱才能买到。</p>
-<p>小明遭遇过黑商，也遇到过同行黑手，甚至遭到其他人妒恨。这一切让小明认识到一个屌丝要逆袭，资源和人脉有多重要。小明的微信除了女神还有上千个公司、楼盘的主管，几十家知名媒体记者，甚至还有几家动物研究公司。这一些让小明深深的明白了在一个行业先入为主的红利究竟有多大。</p>
-<p><strong>你以为小明赚了几百万之后就守着草泥马过一辈子了么？<br>
-当然，你错了。</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-70d35c6e381a58b8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="萌萌哒"><br>
-<strong>在赚到了几百万后，2015年，小明离开了这个前景极好的行业。</strong></p>
-<p>虽然在网上还有很多小明养草泥马创业的新闻，但那已经是过去式。这次经历带给小明的不仅是财富，更是见识和视野的提升，以及培养了他对市场的敏锐洞察力和嗅觉。</p>
-<p>在羊驼商演的价格战愈演愈烈时，小明意识到进入这个行业的公司已经越来越多了，神兽也没有当年在互联网上那么火爆了，商演需求急剧下降。毕竟吃瓜群众的新鲜劲儿过去了，大家对神兽也就见怪不怪了。</p>
-<p>其次是小明认识到这个项目的门槛其实并不高，可复制性很强，这必然导致这个行业最终将处于严重的同质化竞争状态。</p>
-<p><strong>所以，小明机智的赚了几百万后不玩儿了。</strong><br>
-16年卖掉了所有的羊驼后，小明哭了。与他们两年不到的相处时间里，小明感受到这些萌物的惊恐、无助、兴奋，他深深的喜欢上了羊驼神兽。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-afe9368390815f51.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="神兽"><br>
-<strong>而神兽带给他的不仅仅是第一个一百万，更是一次奇妙的人生经历。经历过从充满希望到绝望，再从绝望到斗志昂扬的重生之旅，小明对待人生中的变幻莫测已经充满了勇气。他说，世界永远在变化，所以我们永远要学习。</strong></p>
-<p>好啦，这就是小明人生第一个一百万的故事。</p>
-<p>听完了？</p>
-<p><strong>一百万没那么好赚吧？</strong><br>
-<strong>还是老老实实搬砖吧！</strong></p>
-<p>不然</p>
-<p>#####你也养头草泥马？#####</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你见过最神奇的APP么？]]></title>
-        <id>https://lvhaibing.github.io/post/ni-jian-guo-zui-shen-qi-de-app-me</id>
-        <link href="https://lvhaibing.github.io/post/ni-jian-guo-zui-shen-qi-de-app-me">
-        </link>
-        <updated>2019-09-09T16:24:58.000Z</updated>
-        <content type="html"><![CDATA[<p>你托着疲惫的身躯回到宿舍，室友的LOL还没打完，早上没吃完的黄焖鸡还放在桌子上。昏昏欲睡的你爬上床耗尽了身上的最后一丝力气，该死，明明又困又累却睡不着，你习惯性的拿起你的小米手机，寂寞成狗的你鼓了半天的勇气给女神发了一条“在么？”</p>
-<p>却收到“你还不是她的朋友，请先发送验证请求，对方验证通过后，才能聊天”的提示。</p>
-<p>你的心如死水，果断的删了女神的微信。退出微信，你打开应用商店，输入了聊天交友四个字，你就不相信你找不到女朋友。</p>
-<p>果然，你看到了一款名叫<strong>blued</strong>的软件。你相信，它能带给你幸福，于是你果断下载相信在这里会遇到你的另一半。</p>
-<p><strong>注册界面还是很小清新，你欢喜不已。</strong><br>
-<img src="http://upload-images.jianshu.io/upload_images/1346433-292a2ac03e666364.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="注册"></p>
-<p>上传了头像，填好了昵称，出生日期，身高体重后，你被一个角色0or0.5or1的选择搞懵了，你不知道该选哪个，算了不管了，选个1吧！</p>
-<p><strong>接下来，你选择了你的体型和特点，心想这款APP做的还挺细心嘛，一定能在这里遇到优质妹纸。</strong><br>
-<img src="http://upload-images.jianshu.io/upload_images/1346433-0e6548798cbf1a1a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="注册2"></p>
-<p><strong>填完了这一页，还有下一页。</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-00c0422c59cc1ac9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="注册3"></p>
-<p>你不甘心的在我喜欢的体型选了匀称，因为其他好像没什么能选了，你有点奇怪的是为什么没有找女友的选项，<strong>你感觉有点怪怪的，还是在我喜欢的特点里选了小清新。</strong></p>
-<p>果然，你又一次明白了什么叫做<strong>前方高能。</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-b498848783e34651.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="前方高能"></p>
-<p>这时候你才意识到这NM是一款<strong>同性交友软件</strong>，还是男的和男的，心中一万匹草泥马奔腾，想起来之前选的那个1，不禁菊花一紧。</p>
-<p><strong>不过下都下载了，你也就打算看看这个软件做的怎么样，于是进入了主页，反正看一下又不会怀孕。</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-9fb3326857d26659.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="主页"></p>
-<p>另你没想到的是附近居然有这么多同志朋友，离你最近的只有210m，NM居然还有一个老爷爷，你深深感到涨姿势了，毕竟，你一直有直男癌。</p>
-<p>整个软件功能还是比较丰富的，核心功能如下：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-a22d4d82959994de.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="blued.png"></p>
-<p>你发现这个软件做的还比较贴心，想的很周到：</p>
-<p><strong>有预约检测HIV的入口：</strong><br>
-<img src="http://upload-images.jianshu.io/upload_images/1346433-fb4abf2f2e89d8d9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="预约检测HIV"></p>
-<p><strong>也有安全提示：</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-8f7847b201f8a3df.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安全提示"></p>
-<p>体验完毕后，再看看微信，通讯录中唯一的女性竟然只剩下个卖卫生巾的微商，你含泪没有把blued从你的<strong>小米手机中</strong>删掉。</p>
-<p>你想着，只靠自己的双手，恐怕永远也无法满足自己的欲望。</p>
-<p>留着这个APP，说不定哪天能用上。</p>
-<p><strong>好啦，以上内容纯属YY，重点来啦。</strong></p>
-<p>我要跟大家说的是，无论你身边有没有同志朋友，请你正确认识这一关系。要知道在挪威、比利时、荷兰、法国、德国等很多西方国家都是承认同性婚姻的。</p>
-<p>#####请不要歧视他们，更不要嘲笑他们，你可以不跟他们交流，但请你不要看不起或者侮辱他们。<br>
-</br><br>
-#####每个人都有选择和爱的权利。不论他们怎么选择，那也是他们的人生，他们值得我们尊重。<br>
-</br><br>
-你可能不知道的是苏格拉底、王尔德、达芬奇、柏拉图、米开朗琪罗、张国荣、还有苹果CEO库克都是GAY。他们很COOL，他们让历史记住了他们，他们改变了世界。</p>
-<p>blued之所以能够获得数亿美元的融资，我想也是因为这样一群人在现实生活中活的很艰难，他们面对各种来自世俗眼光的压力以及HIV的威胁，所以会在APP中比较活跃吧。请给他们一点尊重，一点空间，毕竟他们已经如此艰难。</p>
-<p>读大学的时候，经常和室友开玩笑说谁是S，谁是M。那时候一直不懂为什么会有这种奇怪的事情。后来还是不懂，不过知道了这是怎么回事，也了解了0和1的区别。虽然我是直男癌，但是也会觉得他们值得我们钦佩与尊重，毕竟他们的爱情都是悲剧。</p>
-<p><strong>“你想要的，我试过了，可是我还是给不起。而我真正想要的，只有你有，但你永远不可能给我。”</strong></p>
-<p>不是么？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品经理要写哪些文档？]]></title>
-        <id>https://lvhaibing.github.io/post/chan-pin-jing-li-yao-xie-na-xie-wen-dang</id>
-        <link href="https://lvhaibing.github.io/post/chan-pin-jing-li-yao-xie-na-xie-wen-dang">
-        </link>
-        <updated>2019-09-09T16:24:44.000Z</updated>
-        <content type="html"><![CDATA[<p>项目管理的关键就是做好计划于控制，其主要的关键问题包括：文档管理、流程管理、敏捷方法。</p>
-<p>不过文档是手段，流程是手段，敏捷也是手段，我们时刻要牢记项目管理的目标是为了把产品做好。不要把这些手段当成了目的，做出舍本逐末的事情。</p>
-<p>也就是不要太过纠结于文档和方法，效率和产品才是在项目过程中最值得关注的。</p>
-<p>一个成熟的产品经理应当有自己的文档规范，这不仅能快速提升你的工作效率，也能够为团队创建规范文档的氛围，更是你产品路上的一笔财富。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-290beb9bb38be64c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="PD文档.png"></p>
-<p>产品需求文档：即Prd文档，主要用于项目开发过程中，之前我已经有专门的文档讲prd了，大家可以看看。</p>
-<p>商业需求文档：即brd文档，主要是给投资人，老板看的，具体就是展示产品的商业前景，盈利模式等，之后我也会就BRD专门写一篇文章。</p>
-<p>用户体验规范文档：包括<br>
-1）交互规范，用来描述页面上各种交互规则，页面的跳转，列表的默认排序，出错信息反馈的规范等。<br>
-2）视觉规范：如页面大小，字体字号，颜色编码等。这一部分其实更多的由设计师自行决定。<br>
-3）文案规范：在各个页面出现的提示语以及通知消息的模板等。要统一文案的风格。</p>
-<p>需求管理文档：包括：<br>
-1）用户调研：说明用户调研前中后都要做什么，调查问卷，用户访谈内容该怎么设计。<br>
-2）产品需求列表：包括产品需求列表，需求管理文档，需求状态变化的流程图，以及产品逻辑结构图。</p>
-<p>流程管理类：包括：<br>
-日常发布流程与变更事件流程，对于每一个流程应该有规范的步骤来促成执行。</p>
-<p>项目管理类：包括：1）项目管理制度。2）项目任务书。3）项目开始时用的PPT。4）项目组织结构，人员分工。5）项目进度图（项目wbs）。6）项目日报周报。7）项目发布预告与公告。</p>
-<p>日常工作类：包括：1）会议记录。2）个人日报周报。</p>
-<p>上面提到的文档类型非常多，在实际的项目运作中，可能大部分文档我们都不会准备。但是如果团队逐渐庞大，产品人员也越来越多，你就会意识到一份规范的重要性。</p>
-<p>不论我们真正需要的是哪些文档，在日常的工作中，我们都应该养成规范文档的习惯。当一个团队习惯了你的文档规范后，你们沟通起来也会更加顺畅。</p>
-<p>另外文档规范还可以让团队的新人迅速上手，也可以让写作者在文档攥写中不会遗漏某些部分。</p>
-<p>可能对于每一种文档，不同的PM会有不同的写法，但是我们的目标都是一致的，也就是为了创造更好的产品，为了在创造的路上让正确的事情相继发生。</p>
-<p>保持初心，一切术都会成就你的道。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅谈控制项目进度]]></title>
-        <id>https://lvhaibing.github.io/post/qian-tan-kong-zhi-xiang-mu-jin-du</id>
-        <link href="https://lvhaibing.github.io/post/qian-tan-kong-zhi-xiang-mu-jin-du">
-        </link>
-        <updated>2019-09-09T16:24:13.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-fbe40459bdb365df.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="项目管理"><br>
-在互联网项目开发过程中，产品经理不光要做产品功能的设计，更重要的是要跟进开发进度，保证需求转变为产品，也就是让正确的事情相继发生。这个时候控制项目进度就非常重要了，那么控制项目最重要的要素是什么呢？</p>
-<p>####1）时间<br>
-那么如何控制时间呢？</p>
-<p>1）<strong>需求要明确</strong>，提需求是产品经理的一个重要职责，但是需求提出后要进行筛选，调研，目的是找到最能够抓住用户的也是应该首先开发的需求点。然后在产品需求文档中将需求描述清楚，逻辑要清晰，尽量避免二次开发。</p>
-<p>2）要有时间规划，要有项目节点，项目里程碑计划。要控制时间，还是要让管理好团队，<strong>团队中的小伙伴要能够有共同的目标，合作大于竞争，技能互补，乐意分享，同时相互信任</strong>，以确保有效的沟通。如此，团队的效率才能得到保证。</p>
-<p>补充两个时间计算公式：<br>
-<strong>总工时/人=每个人的工时</strong><br>
-<strong>项目周期估算：（最乐观+最悲观+最可能x4）/6</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ae9a3a32ab23d4d2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="项目管理"><br>
-####2）成本<br>
-在项目开发过程中需要的资金以及物料需要你根据项目进度准备，在需要的时候一定不要因为这些问题耽误了项目进度，这是不值得的。</p>
-<p>另外在成本上，有很多节约成本的方法，就像产品的运营活动，可以先在互联网线上社区，媒体，社群通过软文、海报、内测邀请等来吸引用户，<strong>这些社群往往集中了对某一个领域感兴趣的人群</strong>，推广效果会出乎意料的好，还可以趁机得到有关产品的反馈，真是一举多得。</p>
-<p>先把免费的手段都用了，看看用户的反馈，然后对产品进行优化，再通过花钱的手段去推广，比如应用商店冲榜啊，或者找对应的自媒体发文章啊，然后再考虑奖励或补贴用户。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-1a4a42d57a2eea2f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="项目全局控制"><br>
-####3）质量<br>
-要管控项目质量，要遵循<strong>smart</strong>原则，也就是项目具有的特性，即<strong>明确性，可度量性，可完成性，相关性，明确的截止期限</strong>。</p>
-<p>另外要准备资源计划、风险管理计划、质量管理计划。在制定计划的过程中，要遵循<strong>wbs分解原则</strong>，将主题目标细化，自上而下与自下而上相结合。分解标准：<strong>结构清晰，逻辑上是整体，集成所有关键因素，定义所有活动</strong>。最好利用<strong>甘特图</strong>做项目规划。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-6bb6c0ab4d6a3bf2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="项目流程"><br>
-项目不同于产品，项目是project，产品是product。项目是一次性完成的任务，而产品会经过多次的迭代。项目管理过程：<strong>启动、计划、控制、实施、收尾</strong>。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯面试技巧]]></title>
-        <id>https://lvhaibing.github.io/post/teng-xun-mian-shi-ji-qiao</id>
-        <link href="https://lvhaibing.github.io/post/teng-xun-mian-shi-ji-qiao">
-        </link>
-        <updated>2019-09-09T16:22:49.000Z</updated>
-        <content type="html"><![CDATA[<p>最近有学弟学妹问我面试技巧，其实我也没什么面试技巧，只能是给他们分享一些失败的经验了。如果能避免这些失败，那么应该能在面试中表现的不错吧。</p>
-<p>既然你们最想去的公司是腾讯，那我就讲讲我的腾讯面试经历吧。</p>
-<p>腾讯群面刷人最多，我们那次群面的时候是分组讨论设计新颖的鼠标和键盘。然后给出设计亮点以及市场推广方案，功能说明这些。一共是15分钟，一组讨论设计键盘，一组讨论设计鼠标，最终派一个代表总结讨论结果汇报给面试官。</p>
-<p>这里面主要考察的是思考能力和沟通能力吧~不要说废话，言之有物，说到点上，然后有大局观，一般都会过。具体就是要有人记时间什么的，分工明确，引导团队给出一个统一的结果，然后非常有逻辑性的陈述就好了。我记得我们当时是设计鼠标，我就想了一个触控鼠标的主意，就是就是类似于触摸板控制，最后居然也过了一面。记住群面不要撕逼，说的每一句话都要言之有物，不然宁可不说，有时候你可能就说了一两句话，但是就过了。如果团队中出现爱撕逼又没什么水平的人，那一定要格外小心，尽量引导团队讨论出最终的方案也会加分。</p>
-<p>二面主要就让你讲你的项目经验，或者对于某产品或某功能的看法，然后为啥要做产品啊，有哪些优势啊？一般会连续的问你，根据你的回答，继续向深处问，所以要想好细节。这里主要看你的抗压能力，一般能够比较有逻辑性的回答出来就OK了，就算你回答错了就没事。</p>
-<p>讲你的项目或者对于某产品的分析以及看法，你的观点不一定要很新颖或者让人惊艳，但是你的表达一定要有逻辑性，你陈述的每一句话都不能是我觉得，而是要根据事实或者数据推到出结论，也就是为什么要这样做。</p>
-<p>还有要学会跳过面试官给你挖的坑，回答问题前想想面试官问你这个问题的目的是想考察你哪方面的能力。当时我面试YY的时候，面试官上来就问：让你用一句话来形容西安的美食，你怎么说？我当时就有点蒙，随便说了一个。但是他马上就说：你都没问我想吃什么？你都不关心用户需求，你怎么当产品经理？我立马感觉压力山大，最后面试失败了。</p>
-<p>面试官不会看你有没有能力做产品经理，只会看你适不适合做。</p>
-<p>产品的基本素质就是：善于思考，逻辑清晰，用数据和事实推论，学习能力强，善于沟通，也就是有一句话怎么说的来着：让正确的事情相继发生。</p>
-<p>面试的时候把这些素质体现出来就行了，体现不出来就举例子证明自己有这些素质。用事实和数据是最有说服力的，那些比较狡猾的同学甚至会编造一些事实来证明自己，最终可能就拿到了offer。</p>
-<p>对于大厂而言，符合这些要求，然后学校，实践经历什么的还不错，基本就差不多了。</p>
-<p>创业公司要求的就不一样，<br>
-创业公司一般都会看你对这个岗位的了解程度到底有多少，有没有相关的实践经历，<br>
-有没有出色的经历，能不能快速上手这些问题。因为创业公司培训机制没有大公司那么健全，所以会希望你的基础比较好，也能为他们节省成本，所以他们一般比较倾向于社会招聘。</p>
-<p>有很多公司都接受霸面，但是也有很多不接受，这个事情一定要调查清楚。</p>
-<p>如果能霸面，一定要去，我很多同学都是通过霸面拿到了bat，360，小米的offer，毕竟一个公司，笔试加3轮面试，一共4轮，你只有1次机会，只要你四次中有一次没发挥好，你就GG了。</p>
-<p>好了就先写这么多吧，改天再继续补充，大家有什么疑问可以在文章下面留言，我看到了会及时回复的。</p>
 ]]></content>
     </entry>
 </feed>
