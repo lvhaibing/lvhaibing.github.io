@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-09-10T12:50:04.345Z</updated>
+    <updated>2019-09-10T12:56:54.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -11,463 +11,254 @@
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
     <entry>
-        <title type="html"><![CDATA[如果你没看《增长黑客》可以看这份PPT]]></title>
-        <id>https://lvhaibing.github.io/post/ru-guo-ni-mei-kan-lesslesszeng-chang-hei-ke-greatergreater-ke-yi-kan-zhe-fen-ppt</id>
-        <link href="https://lvhaibing.github.io/post/ru-guo-ni-mei-kan-lesslesszeng-chang-hei-ke-greatergreater-ke-yi-kan-zhe-fen-ppt">
+        <title type="html"><![CDATA[【那些APP】他趣：老司机必备]]></title>
+        <id>https://lvhaibing.github.io/post/UbzmnmO2F</id>
+        <link href="https://lvhaibing.github.io/post/UbzmnmO2F">
         </link>
-        <updated>2019-09-10T12:47:31.000Z</updated>
-        <content type="html"><![CDATA[<p>增长黑客一词几年前在硅谷就已经炒的火热，而真正在国内为人们所熟知还是在范冰的《增长黑客》问世之后。正如苏杰将《人人都是产品经理》一词炒的火热，增长黑客在国内也越来越为互联网公司所重视。</p>
-<p>那么什么是增长黑客呢？</p>
-<p>“增长黑客”这一说法源于硅谷，最早在2010年由Qualaroo的创始人兼首席执行官肖恩·埃利斯（Sean Ellis）提出。但它真正引起业界广泛关注与交流，却是因为安德鲁·陈（Andrew Chen）在2012年4月发表的《Growth Hacker is the new VP Marketing》一文。</p>
-<p>他在文中谈到，增长黑客们试图用更聪明的方式解答产品得以增长的奥秘，并使之成为助力产品增长的长效机制。他们通常采用的手段包括A/B测试、搜索引擎优化、电子邮件召回、病毒营销等，而页面加载速度、注册转化率、E-mail到达水平、病毒因子这些指标成为他们日常关注的对象。</p>
-<p>换句话说，这是一群以数据驱动营销、以市场指导产品，通过技术化手段贯彻增长目标的人。他们通常既了解技术，又深谙用户心理，擅长发挥创意、绕过限制，通过低成本的手段解决初创公司产品早期的增长问题。</p>
-<p>在外行人眼里，他们就像是极客、发明家和广告狂人的混合体。再通俗一点形容，他们的职责接近于专门为初创公司设立的市场推广部门，因为很少有用于营销的大笔经费，所以更多的是将注意力聚焦在产品策略本身带来的自发增长上。</p>
-<p>用户增长在产品的不同阶段有着不同的指标，根据不同阶段用户参与的深度和类型，我们可以将增长目标拆分并概括为“AARRR”转化漏斗模型，即：Acqui si t i on（获取用户）、Act i vat i on（激发活跃）、Ret ent i on（提高留存）、Revenue（增加收入）、Refer r al（传播推荐）。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-22922c50c32f47db?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>在这个漏斗中，被导入的一部分用户会在某个环节流失，而剩下的那部分用户则在继续使用中抵达下一环节，在层层深入中实现最终转化。</p>
-<p>在产品的每一个阶段都有一定的技巧和策略来实现用户的增长目标。在获取用户阶段，我们可以向Hotmail学习，用一行文字收获两千万用户。知乎：早期的邀请注册机制造成邀请码难求的情况，饥饿营销也未尝不是一种不错的吸引用户的手段。</p>
-<p>激发活跃的实例则更多，像新浪微博的推送，简书的邮件提醒都是会让你在快忘掉它们的时候再次回到APP。而这种推送又不会给你造成反感，从而逐渐的让你增加在该APP内的社交关系，内容沉淀等。当你在该APP沉淀了一定的价值，你也就很难离开它了。</p>
-<p>说到提高留存就不得不想到PC上各种软件以及手机上各种APP在卸载页面的文案。像Facebook在你注销账号的时候通常页面会出现与你互动比较多的好友头像，然后问你一句你真的想要离开了么？这一举措极大的减少了注销账号的用户，从而提高了用户留存。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-9e21afb451d26a3f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>提到2016年新出现的独角兽公司就不得不提映客，还记得映客那句火遍朋友圈的广告么：“你丑你先睡，我美我直播”，以及“上映客，直播我”主题的宣传短片。要知道在16年初春节后，映客生生为这只广告片砸下一亿，买断爱奇艺，优酷，腾讯视频，各大院线广告。之后DAU迅速到达500万，跻身直播平台第一行业。</p>
-<p>映客之所以如此大手笔是因为其拥有超强的盈利能力，用户在映客平台打赏的钱，映客差不多拿走了2/3。所以映客在日活不到500万时，每天就能有接近200万的收入。能够快速的取得商业变现，找到赢利点，也难怪其能够在短短2年间成为估值10亿美元的独角兽公司了。</p>
-<p>传播推荐其实是用户增长中最难的一部分，因为只有在用户已经充分认可产品的情况下才会给出正面的传播。反之如果用户获得很糟糕的体验，那么他的传播对产品的伤害是很大的。</p>
-<p>比如某同学骑了摩拜单车后，将骑车里程分享到朋友圈，本来是正向的传播，但由于mobike比较沉，骑着比较费力，所以骑行体验不好，于是该同学在发朋友圈的同时给出负面评价。那么他的朋友看到了可能对mobike的初始认知就改变了。</p>
-<p>当然，最后要说的一点是：任何“增长黑客”都无法挽回一个无药可救的垃圾产品。</p>
-<p>点击阅读原文即可获得七洛总结的PPT：如何用最低的成本获取最多的用户。</p>
-<p>在公众号回复：增长黑客，即可获得《增长黑客》电子书。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-e420c187e0f7018f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
+        <updated>2019-09-10T12:56:33.000Z</updated>
+        <content type="html"><![CDATA[<p>推荐指数：三颗星</p>
+<p>核心功能：污的不能再污的APP</p>
+<p>特色功能：什么两性话题都有，什么直播热帖晒照层出不穷；你可以说我低俗，但你不能说我无趣。</p>
+<p>UI与交互：经典的黄色，你懂的。页面还算精致，直播和圈子是核心功能了，页面的切换都很流畅。icon是拟物化设计，偏动漫风。当然最重要的还是内容，图片质量自己体会吧~</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-b0ac0220bee2ac21.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="直播热帖圈子"></p>
+<p>如果你想在深夜看两性话题，那么他趣无疑符合你的胃口。各种姿势研究，技能解锁应有尽有。匿名聊天跟帖也很好的保护了一部分隐私。直播，基本都是妹子，也是污的不行。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-cb25529f93e5cf1d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="内容都污的不行"></p>
+<p>如果你没用过这个APP，你可能不知道很多人居然还可以这么玩儿。会觉得情趣其实也不是一件神秘的事情。了解多一点总是涨姿势的，对自己没坏处。</p>
+<p>因为是匿名发帖，所以用户都很大胆。内容偏猎奇，感兴趣的自行体会啦！总之，这个APP就是老司机必备，好了，不多说啦，赶紧去飙车吧。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c54025c40adf2041.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么广告这么了解我们]]></title>
-        <id>https://lvhaibing.github.io/post/wei-shi-me-guang-gao-zhe-me-liao-jie-wo-men</id>
-        <link href="https://lvhaibing.github.io/post/wei-shi-me-guang-gao-zhe-me-liao-jie-wo-men">
+        <title type="html"><![CDATA[【那些APP】Mark：看电影用这个APP就够了]]></title>
+        <id>https://lvhaibing.github.io/post/e3XhfJGQN</id>
+        <link href="https://lvhaibing.github.io/post/e3XhfJGQN">
         </link>
-        <updated>2019-09-10T12:47:11.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-02dbe1ad996b4d17?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
-不知道你有没有发现，当你早上在某东或者某宝上搜索了某件商品后，下午的时候该商品的广告就出现在你QQ聊天面板的右侧。</p>
-<p>甚至当你打开网页的时候，不知道为什么推荐内容全都是与近期浏览相关的页面，比如我搜索了感冒，网页上就会出现感冒药。难道他真的知道我感冒了么？</p>
-<p>再比如，我在某东上看了看了手机，手机上就收到某米的推送短信。当我流量不够了时，移动一天能给我打三个电话让我换套餐。</p>
-<p>是谁和谁出卖了我们的信息？<br>
-又是谁把我们的个人数据换成了他们口袋的钱？<br>
-还有谁和谁比我们自己更了解我们自己，让广告变得如此精准？</p>
-<p>要回答上面这些问题，让我们从广告的定义出发。<br>
-广告作为一项商业活动，想要完成一次完整的展示，以下3个元素必不可少：<br>
-1）广告主：即出钱请你看广告的那个人。<br>
-2）用户：也就是你。<br>
-3）媒介：传单、广播、杂志、公共展位、报纸、电视、互联网等传播途径。</p>
-<p>这三者之间的关系很奇妙。</p>
-<p>对广告主和用户来说，广告主有进行品牌宣传和产品营销的需求，用户有了解品牌更好的选择产品的需求。</p>
-<p>对广告主和媒介来说，广告主为了更好的广告效果，有选择合适媒介的需求，选择一个投入产出比（ROI）最高的媒介。而媒介有出租广告位赚钱的需求。</p>
-<p>对用户和媒介来说，用户有通过媒介收集信息，了解外部世界的需求，而媒介有吸引眼球，发展用户的需求。因为用户多了，广告主就来了。</p>
-<p>对于传统的广告而言，广告效果很难被衡量。比如你为某个餐厅发了100张传单，你很难判断这100张传单的真实效果，带来了多少客户和收入。</p>
-<p>但是互联网广告的效果是可衡量的，通过网站的日志系统，通过对用户上网HTTP请求的解析，网站可以得到当前时间，访问用户的IP地址，用户的操作系统和浏览器版本等基本信息，甚至可以通过脚本获得更多信息，比如你的点击行为，鼠标停留区域，停留时间等。</p>
-<p>广告从线下走到了线上，由于广告效果可被衡量的属性，深受广告主的青睐。</p>
-<p>此时的广告模式是按照广告位展示时间计费（CPT/CPD），就是广告位展示了多久就给多久的钱。但是这样媒介的收入就有天花板了，于是他们想呀想，终于想到一个好办法。</p>
-<p>既然可以对用户的行为数据做收集和分析，那么当然也可以把网站的男女用户区分出来。给男用户推送剃须刀的广告，给女性用户推送化妆品的广告。这样不就可以获得2份收入了么？</p>
-<p>这里就用到了一个受众定向技术，广告主为了达到预期的广告效果会和媒介网站签订一份展示量合约。约定好每前次展示的价格（CPM），乘以总的展示次数即是广告总的花费。若不能完成合约的展示量，那么算媒体网站违约。</p>
-<p>在保证CPM的合约广告中，广告主和媒体网站都赚的盆满钵满。于是每天网站意识到广告复用的关键在于用户定向的精准度。于是用户的画像越来越清晰，给用户打的标签也越来越多。甚至可以根据你的上网痕迹判断出你是否为单身想找对象或者不想找对象。</p>
-<p>在受众定向技术的支持下，广告的商业模式从CPT变成了CPM，保证展示量效果的合约形成，广告进入可计算的时代。</p>
-<p>接着为了取得最大化收益，受众定向技术被用的登峰造极。但是用户的上网行为是不可预测的。这样就造成了如果媒体网站接了很多的展示量合约，有可能完不成的情况。</p>
-<p>于是非保量合约出现了，竞价广告商业模式开始展露头角。一句话解释竞价广告就是：谁出价高就是谁的。</p>
-<p>当你访问某个媒体网站时，媒体网站会通过标签分析，发现你的标签是“标识XXX，男性，20-25岁，跑鞋爱好者”，然后媒体网站将你上网了以及标签信息出售。不同的需求方会竞价来取得你打开首页后的广告展示机会，竞价采取的是密封拍卖的形式，最终的价格是广义第二高价。也就是拍卖中出的第二高的价格。</p>
-<p>这样媒体网站就能够把每一个用户的每一次展示机会卖出一个最高的价格，同时广告效果也得以保证。而竞价的整个过程都是在你打开网页的100毫秒之内完成的。所有的交易都是程序化进行。</p>
-<p>最后广告到了今天，已经成为了绝大多数互联网公司商业变现的主要途径，作为用户我们要保护好自己的隐私和个人数据。尽可能多的用隐私模式浏览网页。</p>
-<p>更要擦亮自己的双眼去识别广告，因为现在流行的广告趋势是原声广告，也就是所谓的软文，他让你很难分清楚究竟是内容还是广告，这也是因为移动世界的来临，移动端屏幕本来就很小，不适合展示传统的广告。于是各种软文层出不穷，据我所知，粉丝达百万级别的公众号一篇软文的价格已经达到40多万。</p>
-<p>好吧。读到这里，你对广告为什么这么了解我们有一个自己的答案呢？我们在享受网络时代带来的信息，便利的同时，我们的数据也就无偿的被其采集。这是否违背了道德和法律还不得而知。不过深处互联网的浪潮，我们更应该保护好自己，不要让自己成为透明人。</p>
+        <updated>2019-09-10T12:56:16.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d181c73aab68d3ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="Mark"><br>
+<strong>推荐指数</strong>：五颗星</p>
+<p><strong>核心功能</strong>：推荐优质电影，集合无广告播放源</p>
+<p><strong>特色功能</strong>：建立想看，已看的电影清单；或者参考Mark的推荐，再也没有不知道看什么的问题了。另外在Mark还可以看热映大片的预告，以及影评，对去影院观影也是一个很好的参考。</p>
+<p><strong>UI与交互</strong>：最喜欢Mark的每日电影卡片功能，一张电影截图，加上经典台词组成的小卡片，让人可以沉思许久。另外通过卡片很容易找到吸引自己的电影，你也可以自己制作电影卡片分享到社交网络。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-39dc8314e71ea3d6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="各种大片无广告免费看"></p>
+<p>Mark最大的亮点就是集合了很多优质的播放源，很多热映的电影都可以在Mark找到并且播放，最让人欣喜的是全程没有任何广告。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-fa9a56f431e2dfe9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="电影清单轻松标记想看已看收藏"></p>
+<p>或许我们会被电影的某一瞬间打动，或许会铭记电影中的某一句台词。在观影结束后制作一张电影卡片，记录回味无穷的瞬间想来是一件很有意义的事情。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-13ef6dcb03192923.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="电影卡片或许已经打动了你"></p>
+<p>每一步电影都有一篇优质的影评，海报，预告以及豆瓣评分。精致的图片和icon为整个APP增色不少，你总是会被一些细节所打动，但这次你绝对也会被体验所折服。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-bb77ab7a922a31bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="从影评中可直接进入播放源"></p>
+<p>相比腾讯爱奇艺优酷土豆乐视，Mark没有长达120秒的广告，也没有乱七八糟的会员制度。只有安安静静的看电影，分享自己的影评，认识有趣的人。Mark，让看电影这件事情更加简单。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-a371659cc016fcd9.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一行文字带来1200万用户]]></title>
-        <id>https://lvhaibing.github.io/post/yi-xing-wen-zi-dai-lai-1200-wan-yong-hu</id>
-        <link href="https://lvhaibing.github.io/post/yi-xing-wen-zi-dai-lai-1200-wan-yong-hu">
+        <title type="html"><![CDATA[【那些APP】黄油相机：用心做鸡的美图应用]]></title>
+        <id>https://lvhaibing.github.io/post/cWSGWXKXw</id>
+        <link href="https://lvhaibing.github.io/post/cWSGWXKXw">
         </link>
-        <updated>2019-09-10T12:46:52.000Z</updated>
-        <content type="html"><![CDATA[<p>如何用最低的成本来获取最多的用户一直都是产品运营人不得不思考的一个问题，而其实只需要一行文字就够了。</p>
-<p>1996年，两个年轻的工程师杰克·史密斯（Jack Smith）和沙比尔·巴蒂亚（Sabeer Bhatia）开发了一套基于网页的邮件系统。</p>
-<p>Hotmail刚推出时反响平平，这种全新的产品形态并没有立即获得市场的认可。而他们也没有太多的预算来做宣传，另外线下广告牌投放广告的效果也不是特别理想。</p>
-<p>他们需要一种更精准的方式来找到真正的用户。</p>
-<p>既然如此，与其从线下锁定用户，不如直接考虑在他们线上的使用场景里做文章，也就是收发电子邮件这个过程本身。</p>
-<p>于是聪明的投资人蒂莫西·德拉佩尔（Timothy Draper）替他们想出了一个绝妙的主意——他们在每一封用Hotmail 发出的邮件末尾签名处，增加了一行附言：“我爱你。快来 Hotmail 申请你的免费邮箱。”（PS: I love you. Get your free E-mail at  Hotmail.）</p>
-<p>这一改动在仅仅几个小时之后，使Hotmail 的用户注册曲线发生了戏剧性的变化，原本无人问津的服务，开始以每天3000个新用户的速度增长。</p>
-<p>Hotmail在用户间逐渐形成口碑，每封发出的邮件成为了病毒式的广告宣传，被另一个原本就有电子邮件使用习惯的人接收，这种一传十十传百的放大效应，使用户增长如滚雪球般越来越快。</p>
-<p>为了探究这种增长究竟有多么疯狂，创始人巴蒂亚给他的印度朋友发送了一封邮件，结果三周之后Hotmail 就在当地斩获了30万用户。</p>
-<p>在六个月的时间内，Hotmail 迅速成为互联网新兴服务的翘楚，成功斩获了100万用户。</p>
-<p>随后凭借这一庞大的基数，仅五周之后，Hotmail 就获得了第二个100万用户。</p>
-<p>直至一年半后出售给微软之前，Hotmail 的全球用户总量达到了惊人的1200万人——要知道当时全球的网民数量也才不过区区7000万人。</p>
-<p>我们一直在思考怎样的传播更有效率，能像病毒一样疯传。其实答案就在你的产品当中。</p>
-<p>就像你使用微信的很大一个原因是因为你的好友，同学，同事，家人都在使用它，假如你不用微信，你的沟通效率就会变低，同时你也会在人群中显得格格不入。</p>
-<p>这就是一个产品自身所具有的吸引力，这种吸引力可能是一句来这里免费申请邮箱的话语，也有可能是一封感谢注册的电子邮件，甚至是一个排行榜，1元钱的奖励。</p>
-<p>总之它就是让你无法自拔的使用产品的诱因，同时你又不自觉地把这种病毒因子传播出去。</p>
-<p>那么如何让你的产品具有这种旺盛的增长力呢？首先你需要找对合适的用户，裂变就像道德经里说的一生二，二生三，三生万物。首先你要找到那个一。也就是乐于一开始就使用你的产品的人。这些就是种子用户。</p>
-<p>在种子用户的使用过程中，通过产品机制来让他们影响他们圈子里的人，进而形成列表。比如摩拜单车骑行后的一次里程分享，在朋友圈中，有好友看到后或许就会下载摩拜APP,进而使用其产品。</p>
-<p>而作为产品运营人员，你要思考的就是将这种产品机制做到极致，让用户在不自觉中影响了他人，给了他们这个APP的概念。</p>
-<p>就像你的一个好朋友假如每天都会告诉你同一个人有多么有趣，那么你一定想见见或者认识一下这个人看看他是否真的有趣。</p>
-<p>那么是否能够形成列表传播的关键也就是在于种子用户的参与度与分享度，只有种子用户能够体会到这个产品的价值。</p>
-<p>或者给他们提高了效率，或者满足了他们的虚荣心，或者让他们觉得有趣好玩。他们总是会因为一个什么特别的原因才去告诉他的朋友。</p>
-<p>就像谣言，需要一个主人翁，一个导火索。</p>
-<p>好了，今天的分享就到这里了。如果你觉得看的不过瘾的话可以打赏七洛。七洛会加快速度更新内容。</p>
+        <updated>2019-09-10T12:55:57.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>推荐指数</strong>：四颗星<br>
+<strong>核心功能</strong>：帮你将照片处理成各种文艺小清新有逼格的模样<br>
+<strong>特色功能</strong>：可以在商店选购各种好看的字体，图形以及调色板，发现角落里的唯美印记<br>
+<strong>UI与交互</strong>：主题色以黄色为主，iOS和安卓的页面设计有所不同，iOS会有4个底部菜单，安卓则是顶部菜单。icon都采用了线条加纯色背景的设计，看起来简单而有趣。精选的图片展示让整个APP充满了艺术氛围，让人很想在无聊的时候刷着图片培养艺术细菌。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-810e876c8666cc92.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="支持海量字体，视频，gif"></p>
+<p>黄油相机可以做什么？</p>
+<p>你可以在照片上叠加上文字内容如地点，心情，品牌，想说的话等等，并可以对文字进行字体变换，颜色，阴影等多种个性化处理编辑，通过对图片进行白边，画布，滤镜，元素，模板等设置，形成自己独一无二的印记，然后将印有文字的图片和好友进行分享。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3fe89a4a23ff5811.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="发现好友与字体商店"></p>
+<p>黄油相机支持的字体非常多，而且还有一个商店可以选购各种风格的文字。通过在图片上放置简短的文字，可以让你表述更多，也让照片的意境更深了。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-5ee8eef2965c072d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="发现好友与商店推荐"></p>
+<p>你可以和你的微博好友一起玩黄油相机，分享有意思的图片给你的好友。还可以关注一些手机摄影达人，发现另类视角。</p>
+<p>每到一个节气，黄油相机总是会发布一个有趣的短视频，总是能引起大家的围观。不同主题的图片都被聚合在一起了，想花，美食，时光，草莓，旅行，晚安，夜宵。我想你总能找到你想要的。</p>
+<p>总的来说就是一个让你的手机秒变单反还能发现各种有趣的图和人的应用。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ef48b8d3d1e9a83a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="有趣的图总是源源不断"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-383c34668a60bfb8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="最喜欢的一张图"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-5218a84730592927.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三个月我用手机赚了10000]]></title>
-        <id>https://lvhaibing.github.io/post/san-ge-yue-wo-yong-shou-ji-zhuan-liao-10000</id>
-        <link href="https://lvhaibing.github.io/post/san-ge-yue-wo-yong-shou-ji-zhuan-liao-10000">
+        <title type="html"><![CDATA[【那些APP】MyLove：做150道填空题就能找到真爱]]></title>
+        <id>https://lvhaibing.github.io/post/557Ff5_QH</id>
+        <link href="https://lvhaibing.github.io/post/557Ff5_QH">
         </link>
-        <updated>2019-09-10T12:46:28.000Z</updated>
-        <content type="html"><![CDATA[<p>好了，我知道你们都是冲着标题进来的。</p>
-<p>其实今天我要介绍的呢，就是一款可以在手机上赚钱的APP---友钱。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-fda9af6d46dcba76.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="友钱"></p>
-<p>友钱的玩法主要是通过试玩APP来获得收益，一般试玩一个APP可以获得1到3元不等。假如你每天有足够的时间来做任务，月入万元也不是问题。</p>
-<p>下面我就给大家讲讲用这个APP赚钱的流程吧。</p>
-<p>直接访问iyouqian.com即可。</p>
-<p>使用教程如下：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-9486c9dc387663c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="ios|iyouqian.com"></p>
-<p>####对于ios用户来说。</p>
-<p>在打开iyouqian.com之后，你需要下载一个叫“影片钥匙”的APP来激活友钱。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3c6ceccc8fd8b749.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="影片钥匙"></p>
-<p>按照页面提示激活影片钥匙。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d70114b494a89a40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="激活"></p>
-<p>点击激活后就到了这个页面。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-38b1dd082900939d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="激活页"></p>
-<p>点击返回友钱，即可进入友钱主页面。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-17eeacd831435207.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="友钱"></p>
-<p>点击开始赚钱，即可进行任务啦~</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-e04b6a8aeb943b3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="任务界面"></p>
-<p>任务都是1元以上，这个平台赚钱还是很良心的。</p>
-<p>来看下任务详情吧。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2653ddde92e8d617.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="任务详情"></p>
-<p>任务完成后会有提示。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2ccc750b2694f8d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="任务完成"></p>
-<p>在我的账本也可以看到到账记录，只有满10元就可以提现了哟，不想说注册就送2元，邀请一个好友送1元。比起刷单什么的赚钱快多了好么？</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-8e7641430e62921a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="我的账本"></p>
-<p>经常看到各种微商，刷单手发布垃圾信息占据朋友圈，简直想把这个APP砸到他们脸上，不用发各种乱七八糟的信息，还可以体验各种不同的APP，顺便就把钱赚了。简直完美有木有？</p>
-<p>####对于安卓用户来说。</p>
-<p>进入iyouqian.com后，看到的就是下面这个页面:</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-315a8fa3a9a9b7f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安卓|iyouqian.com"></p>
-<p>安卓是有客户端的，下载完成后就能做任务啦。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ee0ad0757d051eec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="友钱"></p>
-<p>安卓的奖励没有ios那么多，但是任务量会更多。所以充分利用你的闲暇时间，每月轻轻松松躺着赚几千块不是问题。</p>
-<p>众所周知，苹果的APPstore的排名优化（ASO）已然成了一条巨大的产业链，任何产品的比拼到最后都是策略和资本的比拼。ASO也越来越受到各家互联网公司的重视，对于关键词的把控，简直要运营人员使出浑身解数。下面这张图可见一斑。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-19ac8175c0a79582.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="ASO优化"></p>
-<p>作为吃瓜群众的我们，选择一个好的平台，坐收一波红利，未尝不是一个明智的选择。</p>
+        <updated>2019-09-10T12:55:39.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>推荐指数</strong>：四颗星<br>
+<strong>核心功能</strong>：通过做题帮你找到志趣相投的另一半<br>
+<strong>特色功能</strong>：电影，书，人生观，家庭，工作经历，满足你所有的期望。<br>
+<strong>UI与交互</strong>：Logo设计的很走心，很可爱很暖心；登录页背景是不停绽放的烟花，让人觉得很温馨。界面以粉色为主色调也符合恋爱的主题，小icon也都设计的很拟物化，无形中拉近了和用户之间的距离。</p>
+<p>如果你前两天被各种狗粮虐的遍体鳞伤，想找一个性格相投的人谈一场轰轰烈烈的恋爱。那么MyLove无疑是最适合你的APP了。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-a4db4e80de356ec0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="做题找真爱"></p>
+<p>在寻觅真爱前，你得先把自己的详细信息填清楚，性别、取向、职业、城市、最喜欢的书籍和电影，这些信息都将成为社交匹配的重要依据，最后一步别忘了添加自己的真实照片。你还可选择性添加自己的书架、衣柜的照片，让对方能从多个侧面更好地了解你，从而判断是否有深入了解对方的必要。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-1c99ee1b68189507.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="和兴趣相投的人谈恋爱"></p>
+<p>MyLove 的匹配功能与某网红交友应用的左滑右滑很类似，只不过 MyLove 采用了一种更为直观的方式，点击爱心表示好感，爱心破裂则是不感兴趣。如果双方都对对方表示好感，就能开启聊天功能，之后就得你自己把握了。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3fd66e74fd53309a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="再也不会话题尴尬"></p>
+<p>有人说遇到一个一见钟情的人概率是三千万分之一，那么MyLove无疑能够帮你大幅度提升这个概率。在选择了一样的书籍，一样的电影，一样的兴趣爱好，我相信你会很快找到那个他或者她。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-e14f8983f81ce417.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你知道怎么把照片发到天上去么？]]></title>
-        <id>https://lvhaibing.github.io/post/ni-zhi-dao-zen-me-ba-zhao-pian-fa-dao-tian-shang-qu-me</id>
-        <link href="https://lvhaibing.github.io/post/ni-zhi-dao-zen-me-ba-zhao-pian-fa-dao-tian-shang-qu-me">
+        <title type="html"><![CDATA[【那些APP】时间胶囊：穿越时空看到了曾经的我]]></title>
+        <id>https://lvhaibing.github.io/post/qlmZkGF_0</id>
+        <link href="https://lvhaibing.github.io/post/qlmZkGF_0">
         </link>
-        <updated>2019-09-10T12:46:06.000Z</updated>
-        <content type="html"><![CDATA[<p>最近真的忙成狗，所以公众号没有日更了，给大家发了红包作为补偿，只要在公众号回复：<strong>我要讨红包</strong>，就可以收到七洛为您准备的红包啦~<br>
-红包有限，要拼手速和运气哟！</p>
-<p>今天要给大家介绍的是最近发现的两款很好玩儿的APP。</p>
-<p><strong>一</strong></p>
-<hr>
-<p>应用名称：<strong>我的天</strong><br>
-平台：<strong>android、IOS</strong><br>
-主要功能：<strong>RT，你知道怎么把照片发到天上去么？</strong></p>
-<p>就像它的名字一样骚气，整个APP的功能也是很有新意，这是一款AR应用，在这个APP中你可以把你的照片贴在固定区域的天空，可以是你在旅行途中的风景，也可以是城市的中心，其他人打开这个APP扫描该处的天空就能看到你的照片了。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3eb6c0e03eb40b0e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
-你可以把你的照片分享到校园上方的天空，这样校园中的其他同学就可以通过扫描发现你的照片了。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c6e26f0fd5ec4377?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
-也可以通过时空照片交到朋友，还可以聊天。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-0b993182a257e7c1?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
-在旅行目的地的天空永远留下属于自己的印记。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-1227695230b4fe2b?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
-它的主界面是这样的，你可以发现扫描区域内存在的照片，也可以上传照片到指定区域的天空。还可以移动，放大缩小照片，和照片的上传者聊天。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-854d8d27205edc12?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
-试了一下，没想到发现了这张照片竟然在我的卧室里。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d9c01b0b59212a16?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">在世界频道里，可以发现你所在城市上空各种好玩儿有趣的照片。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-57657d16ac11e91a?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br>
-通过这个APP，你真的可以在你去过的任何地方留下去过的痕迹了。想想所有走过地方的天空还留着你的照片，是不是也挺有趣的呢？</p>
-<p><strong>二</strong></p>
-<p>应用名称：<strong>平行空间</strong><br>
-平台：<strong>android、IOS</strong><br>
-主要功能：<strong>可以在手机里同时打开两个QQ，或者微信等其他应用。</strong></p>
-<p>也就是应用双开，这个功能很多最新的智能手机已经自带了，但是这个APP其实就可以做到，而且最多可以同时支持6个应用的双开，也是非常强大。另外它还有非常好玩儿的表情功能，集合了当下最流行的聊天表情。</p>
-<p>[图片上传中。。。（8）]大号小号同时上线，两个微信，一个工作，一个生活。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-4f5f408257658107?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">有了表情广场，斗图再也没输过。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c45e34223258b928?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">在应用双开页，你可以选择添加需要双开的应用，最多一次可以添加6个，如上图，我已经添加了微信、QQ和天猫。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-7cd1b4b4583fd0e9?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">表情广场做的也是比较良心的，不用付费下载，而且支持分享到微信和QQ。</p>
-<p>不管是我的天，还是平行空间，我玩儿了简直停不下来。你也可以试试哟~</p>
-<p><strong>支付宝昨日已发布了IOS9.9.3版本，不知道你有没有更新呢？</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-f153719568aed01c?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>新版本最大的亮点就是上线了“到位”功能，当你有需求时，你可以在到位上发布你的需求，支付宝会把这个需求传达给你附近的能够帮助你的用户。当然在交易达成后，帮你的人可以拿到你发布需求时设置的钱。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-09cd74819d8234fb?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>这样来看，这个功能其实脑洞非常大。</p>
-<p>很多网友已经YY出上厕所时找人送手纸，啪啪时找人送TT的奇葩需求了。据说这个功能最初是支付宝在愚人节时的一个玩笑，没想到现在真的实现了，具体怎么用，就看您的脑洞了~</p>
-<p>没准你还可以在上面贩卖技能赚钱呢。</p>
-<p>不知道送TT这种服务会不会很尴尬？哈哈，你也可以发现你身边的有钱人了。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-e050839d4e6bf439?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>目前仅IOS可以用“到位”功能哟，安卓的话估计还要再等等啦~</p>
-<p>小伙伴们有没有很想试试呢？</p>
+        <updated>2019-09-10T12:55:22.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>推荐指数</strong>：三点五颗星<br>
+<strong>核心功能</strong>：每天写给现在或未来的自己一段话<br>
+<strong>特色功能</strong>：每天只有1个胶囊，少或许就是多<br>
+<strong>UI与交互</strong>：好看的灰色让人内心能够彻底静下来，红，蓝，黄，绿这些鲜艳的颜色用的恰到好处，字体字号给人很精致的感觉。这是一个一旦开始用，就会不可自拔地应用。</p>
+<p>如果你是一个喜欢写日记的人，或者你想要找一个APP来记录自己的成长，写下自己的心路历程。那么，时间胶囊无疑最适合你了。</p>
+<p>每天可以给当天的自己写一段不超过780字的内容，可以给未来某一天的自己写一段不超过980字的内容加一张图片。</p>
+<p>每天只有1次机会来编辑，完成后即不可修改。少即是多，让你能够在繁杂的事物中真正思考今天自己最大的收获是什么？自己要怎样度过每一天。或者你可以记下每一天遇到的有趣的事情，想想几个月，几年之后，这些都是多么宝贵的回忆呀！</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2a04b0f7245c5b2a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="今天或者未来"></p>
+<p>写好的时间胶囊可以分享给朋友，也可以以邮件的形式发送，还可以设置提醒。在未来的某一天让自己看到现在的自己。</p>
+<p>我们一直在成长，有这样一个角落收藏我们的心迹，以后再回顾，不知道未来的你是否会嘲笑现在的你如此幼稚呢。<br>
+<img src="http://upload-images.jianshu.io/upload_images/1346433-95625a8f5af2773e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="给未来的自己写一封信"></p>
+<p>想到什么就可以记录什么，可以是一句名言，一首诗，一句歌词。我们总要给每天平淡无奇的生活打下一点烙印，以此来证明我们没有虚度光阴，真正的活过。<br>
+<img src="http://upload-images.jianshu.io/upload_images/1346433-9cae0e715b45e6d4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="每天一封的限定"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-86ad27a5d22b664b.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你们要的短信轰炸机在这里]]></title>
-        <id>https://lvhaibing.github.io/post/ni-men-yao-de-duan-xin-hong-zha-ji-zai-zhe-li</id>
-        <link href="https://lvhaibing.github.io/post/ni-men-yao-de-duan-xin-hong-zha-ji-zai-zhe-li">
+        <title type="html"><![CDATA[【那些APP】即刻：期待每一次推送]]></title>
+        <id>https://lvhaibing.github.io/post/hTz_zkmgx</id>
+        <link href="https://lvhaibing.github.io/post/hTz_zkmgx">
         </link>
-        <updated>2019-09-10T12:45:41.000Z</updated>
-        <content type="html"><![CDATA[<p>当我们收到骚扰短信的时候，我们都会想自己的电话号码是在哪里泄露的。是注册在哪个网站还是APP的信息被人以几毛钱一条的价格卖了。<br>
-可惜我们往往很难查到。<br>
-<strong>所以，你根本不知道谁拥有你的电话号码，你也根本不知道，究竟是谁向你发动了短信轰炸攻击。</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-794be533776e32d6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="骚扰短信"></p>
-<p>那么短信轰炸究竟是怎么回事呢？</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d2fd7a8568619033.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="短信轰炸原理"></p>
-<p>短信轰炸平台会用被轰炸的电话号码依次访问注册多个网站APP，然后利用这些网站的注册验证码向该号码发动短信轰炸，使其在短时间内收到大量短信信息，致使手机出现卡死等故障。</p>
-<p><strong>一般我们在打车，外卖，网购等服务平台给差评的时候极容易遭到报复，收到短信轰炸。小伙伴们要注意啦~</strong></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-50a013531d425986.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="取消订单了"></p>
-<p>立马收到短信轰炸。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-91995f089d915772.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="被轰炸"></p>
-<p>不过一旦你受到了短信轰炸，记得要启用短信拦截，或者彻底关机，以免被连续而来的短信逼疯。尤其是处女座的同学，眼不见不净，不要为删除每一条骚扰短信而心疲力竭。</p>
-<p>######那么有哪些途径可以对别人发起短信轰炸呢？######<br>
-</br></p>
-<p>网上的短信轰炸平台也是非常多，有网页版，也有exe，还有apk。对别人发动短信轰炸成本简直低到几乎没有。</p>
-<p>在这里科普几个网站吧！</p>
-<p>一、http://www.duanxinhongzha.com/</p>
-<p>网站就是这么简单粗暴，只需输入一个电话号码，你就可以指挥短信大军入侵。<br>
-<img src="http://upload-images.jianshu.io/upload_images/1346433-b7f5883aed5ef384.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="轰炸机"></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-913137db21856dbf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="轰炸机"></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-4491178106626270.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="轰炸机官网"></p>
-<p>二、http://www.batman110.help/</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ffa82e09d173dbba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="轰炸机"></p>
-<p>如果觉得用着还不够爽的话，还可以在公众号回复：短信轰炸机。即可收到七洛收藏多年的神器哟~</p>
-<p>好啦，各位老司机，快去飙车吧！</p>
-<p>记得不要出车祸！</p>
+        <updated>2019-09-10T12:55:06.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>推荐指数</strong>：四颗星<br>
+<strong>核心功能</strong>：量身定制的更新提醒<br>
+<strong>特色功能</strong>：根据自己感兴趣的话题定制内容<br>
+<strong>UI与交互</strong>：界面设计简洁，交互丰富多样，色彩搭配让人觉得逼格满满，内容很多也不会显得页面很拥挤。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-6a32fbfdcfe520ff.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="首页，消息"></p>
+<p>不同的话题都积攒了大量了高质量内容，与某条完全不是一个层次。内容大多为短视频，没有广告真心赞。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-739a4607172f3ed7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="内容展示"></p>
+<p>最赞的功能是你可以创建机器人提醒，以免错过更新。每个用户可以创建9个机器人。可以跟踪微博用户发特定内容，公众号文章更新等。<br>
+<img src="http://upload-images.jianshu.io/upload_images/1346433-b212822ddc7d9adf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="创建提醒"></p>
+<p>在「即刻」，轻松发现、关注你感兴趣的主题，第一时间收到量身定制的更新提醒。「即刻」开始，只看你想看。</p>
+<p>信息过载的今天，获取有效资讯正变得越来越累。不妨换一种轻盈、高效、省心的方式，与你感兴趣的信息相遇。</p>
+<p>将你真正喜欢，感兴趣的信息收入囊中变得更加快捷。正如即刻的slogon，用了即刻，你就会期待每一次推送。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c9c1c113003f1288.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[给钱看照片这个功能就这么被玩儿坏了]]></title>
-        <id>https://lvhaibing.github.io/post/gei-qian-kan-zhao-pian-zhe-ge-gong-neng-jiu-zhe-me-bei-wan-er-pi-liao</id>
-        <link href="https://lvhaibing.github.io/post/gei-qian-kan-zhao-pian-zhe-ge-gong-neng-jiu-zhe-me-bei-wan-er-pi-liao">
+        <title type="html"><![CDATA[【那些APP】ONE：一个比豆瓣更文艺的APP]]></title>
+        <id>https://lvhaibing.github.io/post/BTxOtcrye</id>
+        <link href="https://lvhaibing.github.io/post/BTxOtcrye">
         </link>
-        <updated>2019-09-10T12:41:59.000Z</updated>
-        <content type="html"><![CDATA[<p>大家周末愉快啊！<br>
-每一个周末，<br>
-都值得去做一件有趣的事情。<br>
-这不，<br>
-七洛就发现了一件好玩的事情,<br>
-RT<br>
-<strong>在我加的若干QQ群里，突然发现有一个QQ群很特别，在群里老是有人发如下图这种赞赏照片。</strong><br>
-<img src="http://upload-images.jianshu.io/upload_images/1346433-0a0e54ced4053112.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="有人发赞赏照片了"></p>
-<p>最受不了的是看这种照片居然要钱，不给钱就不能看，这不是欺负人么？<br>
-好吧，<br>
-还是花两毛钱看一下吧~<br>
-<img src="http://upload-images.jianshu.io/upload_images/1346433-0fd406714160a29f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="点开就是这样，不能截图"></p>
-<p>其实大多数赞赏照片在我点开后都是下面这个样子，不能截图，只能拍下来了，内容违反了赞赏相关规定，不用说也知道是谁发了小黄图~</p>
-<p>吃瓜群众为了赚这两毛钱也是拼了。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-dad5bc9252a044e1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="照片因为某种原因被封了"></p>
-<p>发赞赏照片的页面就是这样的，你需要上传一张照片，它的有效期是24小时，你还需要设置赞赏金额，最高5元，还可以输入吸引别人赞赏的文字。全部设置完了，点击发布就等着收钱了。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-030fb815b2cb639b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="在这里发赞赏照片"></p>
-<p>不想说我花的两毛钱还是很值得，这个群里的赞赏照片都是这种画风。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-1a2219a96a5dc0f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="照片都是这种类型的咯"></p>
-<p>好了，让我来为大家科普一下赞赏照片吧~<br>
-毕竟<br>
-这功能简直是无本万利啊~<br>
-你们收藏多年的私照有用武之地了，<br>
-完全可以内容创业了，<br>
-而且这需求，堪比洪荒之力。</p>
-<p>赞赏照片是QQ群的一项新功能，使用赞赏照片功能后，群成员只有在付费后才能看到你发的照片。</p>
-<p>那么，如何给你的QQ群添加赞赏照片功能呢？</p>
-<p>####1、手机QQ扫描下面二维码，添加赞赏功能。####<br>
-</br></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-5ecc38914a02a2b1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="赞赏照片功能"></p>
-<p>####2、添加后，打开QQ群，进入应用，可以设置照片、金额及介绍内容。####<br>
-</br></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-9fcb4982f5af46d7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="设置赞赏"></p>
-<p>####3、发布后，别人想看该“照片”需要付费才可以，钱直接到账发布者的QQ钱包里。####<br>
-</br></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-a2f0a7d2939239d1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="看赞赏照片"></p>
-<p>####4、目前发现，“赞赏照片”只能在QQ群里发，好友里不会显示该功能！####</p>
-<p>好啦，你觉得赞赏照片功能怎么样呢？<br>
-付费看照片，付费看视频，付费看文章，估计以后什么都要付费了。。。<br>
-想想真是可怕。</p>
-<p>不想说这种内容过度商业化非常容易滋生色情内容，很多人为了两毛钱就没了底线。</p>
-<p><strong>不信，你进群点开赞赏照片试试？</strong></p>
-<p>打赏我10块，考虑拉你进群~</p>
+        <updated>2019-09-10T12:54:48.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-57df3a24801b6e9d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="ONE"><strong>推荐指数</strong>：四颗星<br>
+<strong>核心功能</strong>：高质量内容阅读社区<br>
+<strong>特色功能</strong>：能够完美的记录与发现美好的书，音乐，电影<br>
+<strong>UI与交互</strong>：icon设计与整体配色都很有特色，浅灰和淡蓝加起来给人很轻的感觉。像置身于一个完全放空自己的精神角落。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-bcf18313e1720c26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="首页"></p>
+<p>首页的小记功能很有特色，单击即可编辑出现的图片和短句子。编辑完毕后可分享到社交网络，也可保存到我的小记这个角落。精美的配图和富有哲理性的文案，很让人有分享的欲望有木有？至少比微博段子逼格高了几条街。</p>
+<p>最贴心的是每一天首页的短语和图片都会变化，一天一期。截止今天已经是1587期了，四年多的时光，ONE一直在坚持分享文艺。在卡片的右下角会有天气和地点，日期的显示。细节把握的很到位，其实就是这些点容易打动用户。</p>
+<p>只有喜欢和分享以及收藏的功能，没有评论。我想这样做的目的也是为了让这个卡片的逼格更高吧。毕竟评论自古毁三观。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d57e5ab0559187d9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="阅读"></p>
+<p>阅读板块会有短篇，连载，问答三个版块，对应的内容也是每日一更新。很好的符合了ONE这个名字。最喜欢上面的Banner，文字和图片处理的相得益彰，点击后竟然是文章目录，简直是个彩蛋有木有？</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-6f750eaee1481650.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="音乐"></p>
+<p>每一首歌曲背后都会有一个故事。歌曲和故事也会在每一天更新。左右滑动即可切换。摇滚，民谣，轻音乐，不同的曲调带给你不同的心情。不过每天总会会期待，总会有惊喜。或许在你失望无聊之时，你会陡然发现，原来这世界还有一些美好的角落。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d4a68ac271910d94.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="音乐故事"></p>
+<p>最喜欢看音乐故事下面的评论，不会像微博，贴吧那样撕逼。大多数用户都会讲述自己的故事，温暖另外的心灵。文艺的人总会聚在一块儿。逐渐变得有趣。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-f6d46ee69e43c423.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="电影"><br>
+电影版块的页面不知道比豆瓣要好多少，光是海报和台词就值得你上下滑动品味半天。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-50023ea921f3a507.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="电影故事"></p>
+<p>点开每一步电影后，首先会看到被喜欢最多的影评，一般文章质量都会非常高。评论规则是0-100分，电影的分值应该取得是用户的平均分。在评论下面电影表的设计我想你一定会非常喜欢，关键词，海报，电影介绍，清晰明了，简洁大方。<br>
+<img src="http://upload-images.jianshu.io/upload_images/1346433-babe644395ae77bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="登录"></p>
+<p>最后说一下登录功能，整个APP可以使用微信，微博，QQ3个第三方社交工具登录，也可以使用手机号加验证码的方式登录。没有太复杂的流程，即使你不登录也可以浏览所有的内容，不过不能回复和评论罢了。<br>
+<img src="http://upload-images.jianshu.io/upload_images/1346433-4ba2720f8c6efe9f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="我的页面"></p>
+<p>很喜欢这个搜索的页面，整个APP的icon都有一种安静优雅的感觉。图片，文章，音乐，电影本身就是一些美好的事物。ONE能够将美好带到你身边，让你轻易触达，我想，这就是这个应用最大的魅力吧！<br>
+<img src="http://upload-images.jianshu.io/upload_images/1346433-8d3556c233ef554f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="搜索/图片/文章/音乐/电影"></p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-5c8881198ccd50b0.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我适应不了，所以选择离开]]></title>
-        <id>https://lvhaibing.github.io/post/wo-gua-ying-bu-liao-suo-yi-xuan-ze-chi-kai</id>
-        <link href="https://lvhaibing.github.io/post/wo-gua-ying-bu-liao-suo-yi-xuan-ze-chi-kai">
+        <title type="html"><![CDATA[【那些APP】无秘：一个没有秘密的小天地]]></title>
+        <id>https://lvhaibing.github.io/post/QyVidO03q</id>
+        <link href="https://lvhaibing.github.io/post/QyVidO03q">
         </link>
-        <updated>2019-09-10T12:41:29.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3d7240ad4148f01a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="离开"><br>
-已经是深夜12点半，你还在空空荡荡的公司加班。还没吃夜宵的你没有一点睡意，精神抖擞的处理着未完成的工作。偶尔看一眼窗外城市的灯火，你露出正能量的微笑。</p>
-<p>你很满意当下的状态，尽管你每天要工作14个小时，每周几乎工作7天。但你一点也不觉得累，你觉得很充实。</p>
-<p>那是每天都能看到自己像春天的草一样成长的感觉，是一点一点把一个微小的idea变成可用的产品来改变世界的感觉，是仿佛看到了自己当年吹过的牛逼慢慢被实现的感觉。</p>
-<p>然而，十个月前，你还在非洲的酒店里被黑人小哥拿着针头威胁说“AIDS  OR MONEY”。你从来没见过这种场面，也没想过自己会遇到这种情况。你当时害怕极了，把每天补贴的几百美元都给了他。</p>
-<p>一年前，你刚刚到斯里兰卡，公司在这里一共不到10个人，每年总部会来人给布置任务量指标。为了减少任务量，领导带着你和其他同事陪总部来的人喝酒，你不习惯，但还是喝到烂醉。你以为吃完饭就结束了，让你没想到的是吃完饭所有的人一起去了一个高端会所。领导出钱让大家尽心，为了融入团队，你第一次被洗脚，第一次被性服务。</p>
-<p>15个月前，你刚刚大学毕业，你签了ZTE全球技术支持的工作。工作地点在海外，你幻想着全世界旅游的自在。想比其他同学，很高的薪水和补贴让你几乎成了土豪，你对这份offer很满意，你觉得自己已经站在了比别人更高的起点。</p>
-<p>2016年，你辞职，回到了西安。</p>
-<p>开始创业。</p>
-<p>你说不是因为那份工作薪水不够，也不是因为自己做的不好。而是你没办法适应，也没办法融入。你不能接受那些同事每天拿着上百美元的补贴在汉庭叫小姐服务，你也不能忍受升职加薪中夹杂的酒桌文化与规则，你没办法在金碧辉煌的烟花场所来去自如，你更不能因为那份看起来不错的薪水而一点点放弃了最初的自己。</p>
-<p>你说过在中国国企，如果上三层的领导都被换血，那么中国肯定会灭亡。因为这是精英主导下的企业和社会，但是整体却不能上行下效。所有干活的人仅仅是完成指标，却没有一点责任感与忧患意识。所有的懒惰都来自于体制的包容。你感觉自己身处其中，简直是个悲哀。</p>
-<p>你就是大我一级的学长，你给我讲述着这一年半你的职业故事。</p>
-<p>很庆幸你现在做着你喜欢的事情。你把梦想过成了生活，我很羡慕你此时的从容。</p>
-<p>你做着农村电商，你说你要改变生你养你的地方。你要培育一个自由的干净的公司，拒绝潜规则。你在聊天时说所有肉体的欢乐都会使你感到空虚，只有走在实现梦想的路上，你才可以告诉自己：我正在做一件伟大的事情。</p>
-<p>我很钦佩你在各种生存的压力面前，放弃了一份看起来非常不错的工作，毅然决然的选择做自己。更感叹到能够在经历滚滚红尘后保持初心是多么的不易。</p>
-<p>我问你怎么会有这么多小姐服务时，你笑我思想还是太年轻。</p>
-<p>校园的高墙为我们挡住了尘世的各种黑暗与繁杂，但当我们毕业，那些阳光照不到的地方，我们也终将要一步步趟过。</p>
+        <updated>2019-09-10T12:54:30.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-d62848351be64f38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="无秘"><br>
+<strong>推荐指数</strong>：四颗星<br>
+<strong>核心功能</strong>：可以根据公司，学校等维度进入圈子，匿名吐槽聊天<br>
+<strong>特色功能</strong>：根据人品值是否达到一定数值决定是否可以私聊<br>
+<strong>UI与交互</strong>：界面简单，入口很浅，操作方便。交互没有很大的特色，中规中矩，整个APP很流畅，加载很快。功能层级的设置很考虑用户体验。Logo会黑灰色，APP整体主色调为绿色和黑色。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-94c2849ffb3b1aee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="主页面"></p>
+<p>主页面显示的是你关注的圈子所产生的信息流，大多为公司员工对公司的看法以及吐槽。当然，YP交友聊天贴也不少，点赞可以给发帖人加人品，点踩可以扣发帖人的人品，一旦人品值过低就不能评论或者发帖了。</p>
+<p>这个设定还是可以保证内容的质量的。整个信息流的信息排序是按照帖子的热度来排的，所以你可以看到点赞或者评论比较多的内容。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-5cc147db736469eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="发现页面"></p>
+<p>当你的人品值达到一定程度时，即可开启私聊功能，群里功能是一开始就有的。你可以根据你的兴趣加入不同的群聊。</p>
+<p>当别人评论了你评论过的贴子，或者别人回复了你的帖子时，系统会给你发出消息提示。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3a8f410d176c9fcd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="聊天页面"></p>
+<p>我的页面比较有意思的功能就是添加朋友和人品值了。添加朋友功能可以看到你的通讯录好友中有谁在玩无秘，你们可以自动成为朋友关系。<br>
+也可以添加微信和QQ好友，社交关系绑定做的还是比较好的。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-bd57714fad56e871.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="我的页面"><br>
+人品值默认应该是25分，1级。需要你不断的回帖或者发帖。获得赞或者评论后可以得到一定的人品值。当然，发一些让人踩的内容就会降低人品值，进而降低你的操作权限。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-b130a90d59b0ca67.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="人品值"></p>
+<p>整个APP的定位应该是职场树洞。而且就目前的发展来看，它也的确成了大多数职场人士的吐槽之地。毕竟微信里面熟人太多，社交压力太大。QQ已然不适合职场人士。</p>
+<p>那么在无秘中，你可以放心大胆的吐露自己的不满，反正每次发帖都是以不同身份匿名的。还可以知道自己同事的薪资，以及人事调动情况，甚至是公司的八卦内幕等。这些对于用户的吸引力还是蛮大的。</p>
+<p>发展建议：无秘目前积累了很多互联网公司员工的用户，而且用户粘度相对较高。未来可以尝试做职场社交，或者招聘。目前市场上的竞品没有太多。两方面都可以尝试，变现之路不会太遥远。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-48f1122eadc434b8.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[那个从沧海到桑田的男人]]></title>
-        <id>https://lvhaibing.github.io/post/na-ge-cong-cang-hai-dao-sang-tian-de-nan-ren</id>
-        <link href="https://lvhaibing.github.io/post/na-ge-cong-cang-hai-dao-sang-tian-de-nan-ren">
+        <title type="html"><![CDATA[【那些APP】魔力盒：一个没网也能看视频的应用]]></title>
+        <id>https://lvhaibing.github.io/post/oZ7bh3NQS</id>
+        <link href="https://lvhaibing.github.io/post/oZ7bh3NQS">
         </link>
-        <updated>2019-09-10T12:41:02.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-cdea6623940b8938.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="南宫七洛"><br>
-韩哥是我大三的时候在西电认识的，那时候我在学校BBS上看到一份招聘校园代理的兼职。感觉还不错，就打电话联络。那边的声音和语气很干净利落，说我们见面聊，我说好。</p>
-<p><strong>于是我就见到了韩哥。</strong></p>
-<p>不到一厘米长的头发，黝黑的皮肤，坚定的眼神以及侃侃而谈，谈笑风生的姿态。这大概是我对韩哥的第一印象。</p>
-<p>说实话，那时候我觉得他至少也工作四五年了，因为怎么看都是成熟老练的面孔和姿态。</p>
-<p>后来熟悉了才知道他仅仅比我高两级，大学毕业后做了一年多销售，走过南闯过北，见识过商场潜规则，也面对过黑道白道。</p>
-<p>曾喝了吐，吐了喝，最终拿下订单。也有为了融入团队做违心的事情。后来终于觉得自己不适合这个方向，毅然决然的跳槽来到现在这家公司做市场营销。</p>
-<p>后来在我找工作的时候，韩哥对我说过一句话我一直都记得。他说，我们找工作的时候都是一杯白水。做了销售就相当于把自己变成了可乐。</p>
-<p>当你选择了其他工作，你还是一杯白水，还有机会变成可乐。但当你变成了可乐，你就再也变不回白水了。</p>
-<p>说这句话的时候，韩哥的嘴角抽搐了一下，仿佛有点遗憾，但我看出来更多的是无奈。</p>
-<p>韩哥所在的公司是一家网络公司，我做的兼职就是做网络课程的校园推广，韩哥是我的对接人，按照课程报名的人数给我发提成工资。</p>
-<p>那时候我也实在是缺钱，就把这份兼职当作救命稻草。印了宣传单页，挨个宿舍去宣传，午饭期间在食堂门口发，晚上下自习了在宿舍门口发。</p>
-<p>有的人给我一个白眼，有的人压根就不理。相信发过传单的同学都懂，这虽然是一份简单的工作，但其中也有太多的艰辛。</p>
-<hr>
-<p><strong>所以，从那时起，我养成了一个习惯，别人给我发传单，不管有用没用我都接着。因为发给我一份，他就少了一份，也就能早点下班了。</strong></p>
-<p>好在我的努力有了效果，那个月我挣了1000多块，足够一个月的生活费了。韩哥也对我刮目相看，还让我给其他的代理传授经验。</p>
-<p>我也是那时才对韩哥有了进一步的了解。那是他大学毕业两年，25岁，事业却没什么起色，拿着微薄的工资，做着一眼看穿的工作。没有女朋友。</p>
-<p>他是青岛大学毕业，大学四年打了四年的DOTA，毕业时没什么技术，只能选择做销售。可销售又不是自己喜欢的，无奈，转行到我兼职的那家网络公司做市场营销。薪资不高，成长空间也不大。</p>
-<p>他老家在浙江，家里人为他在市里的小学谋了一份老师的工作，也给他介绍了相亲对象。可韩哥毅然决然的拒绝了，面对家人的压力。他只说再给我半年，让我在大学里重新成长。（那时候他们公司就在我们学校旁边）</p>
-<p>后来，公司在我们学校成立了技术俱乐部。我被韩哥推荐为俱乐部创始人也是主席。为我的大学经历添上了浓墨重彩的一笔。</p>
-<p>我们一起拉着板车从学校的西南角把帐篷拖到东北角，一起在路边的帐篷下发着社团招新的资料，招呼同学报名填表，一起看着那个夏天最蓝的天空回味着过去，畅想着未来。</p>
-<p>我记住了浙江铜饼这个小吃，因为韩哥每次在食堂都是吃它。因此，我相信他是一个念家的人，更相信他是一个坚定的人。</p>
-<p>还有一次他托着一大袋文件，挤在早高峰的公交车上。临近下车时，因为拥挤，他想从前门下车，可司机不同意。</p>
-<p>因此僵持了一分钟，结果整车人都在抱怨。韩哥为此事心情不好了一整天，还向我吐槽，问假如车上的是我，我会怎么解决。</p>
-<p>其实那时我也没想过我会怎么解决，但我看出来韩哥做什么时候有着执着的信念。自己认准的事，谁也无法该改变。</p>
-<p>所以当我大学毕业离开学校时，听到韩哥跳槽去了华三（那个国内网络方面仅次于华为的公司）还是做技术时，我一点也不惊讶。</p>
-<p>因为我很早就从肖申克那里明白一个道理，<strong>有些鸟儿，是笼子关不住的。</strong></p>
-<p>我不知道韩哥每天在下班后拖着疲惫的身体学习了多久，也不知道他从零开始学枯燥的网络知识有多难，我更不知道他用什么样的精神力量支撑着自己，硬生生的把自己从一个销售变成了技术。</p>
-<p>谁说可乐不能变成白水的？</p>
-<p><strong>你做到了。</strong></p>
-<p>你又给我上了生动的一课。</p>
-<p>有梦想的人，任何时候改变都不晚。</p>
-<p>无论你是想从销售转为技术，或从程序猿转做产品，或从其他行业进入互联网。一切都不会来不及。</p>
-<p><strong>小伙伴们，你们有没有什么自己感觉遗憾没有完成的梦想呢？</strong></p>
-<p><strong>在评论区写下你的梦想。</strong></p>
-<p><strong>从今天开始，</strong></p>
-<p><strong>让我们一起让梦想出发~</strong></p>
+        <updated>2019-09-10T12:54:11.000Z</updated>
+        <content type="html"><![CDATA[<p>**推荐指数：**3.5颗星。<br>
+**核心功能：**随时随地零流量发现有趣短片。<br>
+**特色功能：**根据浏览习惯个性化推荐，Wi-Fi网络下自动缓存3部短片，阅后即焚节省空间。<br>
+<strong>UI与交互</strong>：界面设计风格比较大众化，卡片式翻阅视频的交互体验还不错。如下图：</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-1feaaaa7ac06f28b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="推荐视频"></p>
+<p>相比美拍，快手，秒拍等短视频社区，魔力盒的视频会根据不同的标签推送更加精准，界面也会更加简洁，左滑右滑可查看不同的视频，这个交互相信可以俘获很多用户的芳心。</p>
+<p>社区整体视频的质量还比较高，不同用户群体的口味都能够通过个性化推荐得到满足。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ea83d7076787e1f9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="M星"></p>
+<p>再来看看界面截图吧：<br>
+所有的视频都会有一个比较精美的封面，所以整个APP让人看着很舒服。不过视频之间的过渡还是不够自然，比如快手点开视频后可以自动循环播放。QQ空间和秒拍都可以在视频播放结束后自动播放下一个视频。这些细节相信都能够让用户感受到诚意。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-cecc10a2bb492d06.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="翻阅视频"></p>
+<p>在Wi-Fi网络下自动缓存3个视频的创意还是不错的。比较流量还是比较宝贵的，能够根据你的兴趣为你自动缓冲好视频，并且在你看完后自动删除。也是想的很周到。比较没有Wi-Fi的场景也是有的，不过一般都是在路上。所以这个功能有时候也会显得很鸡肋。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ce34c0fb45b71db0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="视频分类"></p>
+<p>最后，介绍下，视频排行榜吧。每一个类别会根据用户阅览量，评论以及分享次数来排名。质量比较高的视频自然会被排在前面，进而获得更高的曝光。所以为你节省了很多寻找感兴趣短视频的时间啦~这个功能还是很贴心的。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-8d38aa664aa40a9e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="搞笑类别视频排行榜"></p>
+<p>最后，想说的是，短视频社区还是要向今日头条学习，个性化的推荐，话题的相关性，以及阅读板块的过渡体验。这些细节都被做到了极致。<br>
+我想，这也是头条成为用户时间的杀手的一个原因。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-de4efbecaa9e41ae.gif?imageMogr2/auto-orient/strip" alt="那些APP"></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[怎么把猪饲料广告文案写的高端大气上档次？]]></title>
-        <id>https://lvhaibing.github.io/post/zen-me-ba-zhu-si-liao-guang-gao-wen-an-xie-de-gao-duan-da-qi-shang-dang-ci</id>
-        <link href="https://lvhaibing.github.io/post/zen-me-ba-zhu-si-liao-guang-gao-wen-an-xie-de-gao-duan-da-qi-shang-dang-ci">
+        <title type="html"><![CDATA[互联网行业寻找销售机会的10个办法]]></title>
+        <id>https://lvhaibing.github.io/post/MZ-6k9USK</id>
+        <link href="https://lvhaibing.github.io/post/MZ-6k9USK">
         </link>
-        <updated>2019-09-10T12:40:40.000Z</updated>
-        <content type="html"><![CDATA[<p>小马宋曾经是一个文案，有一阵子他的客户都被一个概念传染了。<br>
-那个概念叫”高端大气“。<br>
-回头看，那是一个连猪饲料都追求高端大气的时代。<br>
-更可悲的是，小马宋服务的客户就是猪饲料：壮士牌猪饲料。<br>
-不过这一切并没有难到小马宋，他给出了一个个漂亮的答案。</p>
-<p><strong>&gt; 1 &lt;</strong><br>
-有一天，客户说要在文案里体现人文情怀：<br>
-<strong>它们终将为人类粉身碎骨，所以对他们要好一点。</strong></p>
-<p><strong>&gt; 2 &lt;</strong><br>
-或者，要有点思想内涵的<br>
-<strong>世界上有两个地方，体重就是地位，一个在相扑场上，一个在猪圈里。</strong></p>
-<p><strong>&gt; 3 &lt;</strong><br>
-能不能来点贵族气息？<br>
-<strong>即使王者出巡，也无法让500位体重200公斤的壮士相随</strong></p>
-<p><strong>&gt; 4 &lt;</strong><br>
-给我们点独特的观点吧~<br>
-<strong>不是所有的肥胖都令人讨厌。</strong></p>
-<p><strong>&gt; 5 &lt;</strong><br>
-听起来很大气，但不知所云的<br>
-<strong>影响那些影响世界的猪</strong></p>
-<p><strong>&gt; 6 &lt;</strong><br>
-可不可以体现我们的高贵品质<br>
-<strong>10年来，您的猪壮了，我们的员工瘦了。</strong></p>
-<p><strong>&gt; 7 &lt;</strong><br>
-给力一点<br>
-<strong>请参照动物园大象馆改造您的猪圈</strong></p>
-<p><strong>&gt; 8 &lt;</strong><br>
-写出点戏剧性好么？<br>
-<strong>天啊，谁让我家的公猪怀孕了？</strong><br>
-<strong>如果您的猪在吃壮士牌猪饲料，我想那不是怀孕，只是太胖了而已</strong></p>
-<p><strong>&gt; 9 &lt;</strong><br>
-有点哲学味道的<br>
-<strong>人类吃猪肉</strong><br>
-<strong>猪吃壮士牌猪饲料</strong><br>
-<strong>壮士牌猪饲料用粮食制作</strong><br>
-<strong>粮食来自于土地</strong><br>
-<strong>土地里埋葬着人类</strong></p>
-<p>你知道，每一个广告文案都是在用”绳命“写作。</p>
-<p><strong>有没有文案让你感觉到惊艳？</strong><br>
-<strong>有没有文案让你产生购买的欲望？</strong><br>
-<strong>有没有文案让你觉得不是文案却具有极强的吸引力？</strong></p>
-<p>文案就是这样一种神奇的存在，短短的几句话，几十个字，却可以将你内心的欲望勾出来。把你想要表达的体现出来，迎得受众情感上的共鸣。</p>
-<p><strong>垃圾的文案各有各的奇葩之处，好的文案却总是有相同的特点：</strong></p>
-<p>1、任性的。<br>
-2、真诚的，细致入微的。<br>
-3、逻辑强大，完全说服对方的。</p>
-<p><strong>那么好的广告文案要有什么样的效果呢？</strong></p>
-<p>好的广告不一定好看，重点在刺激消费者产生购买的行动。</p>
-<p><strong>如何才能使广告行之有效？</strong></p>
-<p>广告的作用是为了销售产品，那如何才能做出销售力强大的广告呢？<br>
-这就不得不谈到隐藏在视觉背后的——销售心理学。</p>
-<p>要理解人们为什么购物，我们首先应该了解人，敏锐地认识到人类的本性。我们应该弄清人们是怎么想的。。。他们怎么生活，需要和缺乏什么，还要理解人们购物的缘由。。。——H.E.沃伦</p>
-<p><strong>简单来说，人生来就有八种欲望。</strong></p>
-<p><strong>“ 八大生命原力  ”</strong>** ——Drew Eric Whitman**</p>
-<p><strong>&gt; 1 &lt;</strong></p>
-<p>** 生存、享受生活、延长寿命（生存欲） **</p>
-<p>大多数保健养成产品都充分运用了这一原则，当你看他们的广告甚至会自发的联想到自己或者家人的健康问题。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-fabe17897534a8cc?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><strong>&gt; 2 &lt;</strong><br>
-<strong>享受食物和饮料（食欲）</strong></p>
-<hr>
-<p>食物和饮料广告通常用极具摄影效果的充满诱惑力的红黄色，科学研究表明，这种会刺激视觉使人更加有进食的欲望。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-cb45f52e4caeab69?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><strong>&gt; 3 &lt;</strong><br>
-**免于恐惧、痛苦和危险（安全感） **</p>
-<hr>
-<p>洗手液广告巧妙地利用人们对细菌和灰尘的恐惧</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-bbe1beef6135dd37?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p>神州专车的广告巧妙的利用了人们对于黑车的恐惧</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2e5cf53bc2a5fa73?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><strong>&gt; 4 &lt;</strong><br>
-** 寻求性伴侣（性欲）**</p>
-<hr>
-<p>联合利华的广告充分刺激了人们在购买产品时对性的潜意识的欲望</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-3f2d066938c5dbe7?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><strong>&gt; 5 &lt;</strong><br>
-**追求舒适的生活条件（舒服） **</p>
-<p>“璀璨盛夏，沉醉在800米水岸线里”<br>
-在高端地产广告中，常常利用人们渴望舒适生活环境，享受生活的心理</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-be4ca267c3bb6566?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><strong>&gt; 6 &lt;</strong><br>
-<strong>与人攀比（成就感）</strong></p>
-<hr>
-<p>脑白金的广告充份利用了人们过节送礼时从众和攀比的心理</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-74b874b570dceee9?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><strong>&gt; 7 &lt;</strong><br>
-**照顾和保护自己所爱的人（保护欲） **</p>
-<hr>
-<p>很明显，激发母亲对孩子的保护欲望，为了孩子，我想你看到这样的广告不会舍不得花钱。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-26cb8a1a8a56e474?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></p>
-<p><strong>&gt; 8 &lt;</strong><br>
-** 获得社会认同（归属感） **</p>
-<p>奢侈品广告向来采用精致的摄影，没有一句广告语，广告中的人物大多为优雅美丽的上层社会人士，将产品和身份、地位、阶层连接在一起，购买奢侈品变成了自我心理满足和认同的行为。</p>
-<p><strong><img src="http://upload-images.jianshu.io/upload_images/1346433-59be0443c0a2837d?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""></strong><br>
-聪明的广告人总能通过广告的内容唤起人们内心的欲望。</p>
-<p>当你创造的广告是依照这八大原力的任何一个来吸引人们，也就等于接入了大自然的力量，因为这些正是<strong>生命的动力</strong>。</p>
-<p><strong>好的文案不是一天练成的，只有多实践，从生活中挖掘，从人性中思考。你才能写出让人感到惊艳的金句。</strong></p>
-<hr>
-<p><strong>向那些</strong><br>
-<strong>还在苦逼奋斗中的文案狗们</strong><br>
-<strong>致敬！</strong></p>
-<hr>
+        <updated>2019-09-10T12:53:53.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/1346433-f7360a9151fa37dc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="销售"><br>
+<strong>1、应用市场，应用雷达</strong><br>
+通过应用市场，应用雷达等工具可以了解客户的产品信息，深入了解客户公司目前的发展状况。也能够找到对应市场负责人的联系方式。</p>
+<p><strong>2、垂直招聘网站/职场社交工具。</strong><br>
+通过职场社交工具，比如领英，可以找到对方公司市场或者运营负责人的联系方式。并且可以知晓对方的从业经历，这样在和对方交谈的时候可以有更多的谈资，以便运筹帷幄。</p>
+<p><strong>3、行业媒体，如IT桔子，36氪。</strong><br>
+通过行业媒体可以及时查询到客户的融资信息，了解其公司运作状态，是否有足够的资金投入等。</p>
+<p><strong>4、微博-私信</strong><br>
+通过微博可直接私信客户公司的业务负责人，要注意话术，首先要告诉对方你是谁，你是做什么的，你为什么要联系他。摆出真诚的态度，也能有所收获。</p>
+<p><strong>5、QQ群</strong><br>
+加群，观察，响应，单聊，微信群。<br>
+可通过关键词搜索相关的QQ群，不管是微信群还是QQ群，直接发广告会被踢出去。所以要多多在群里发言，找到合适的客户进行单聊。</p>
+<p><strong>6、第三方机构。</strong><br>
+很多第三方创业空间，例如3W创业空间，他们会有创业的论坛，会议等。可以和他们多接触，以便认识更多的公司创始人。获得销售机会。</p>
+<p><strong>7、行业峰会/业界会议/路演</strong><br>
+学习，收集，背书，同行交流。<br>
+通过参加行业峰会，一方面是自身不断学习专业知识，加深行业了解。另一方面，将自己的参与分享到社交媒体，也是为自己进行品牌背书。同时还可以与同行进行深入的交流，互通有无。</p>
+<p><strong>8、搜索引擎</strong><br>
+通过搜索引擎可以很直观的找到很多在PC上推广的客户，他们同样会有在移动端推广的需求。另外通过关键词可以直接找到客户的广告信息，从而与其沟通。</p>
+<p><strong>9、自媒体</strong><br>
+让客户自己上门。<br>
+通过在自媒体上输出优质行业洞见的文章，树立专业形象。这样别人看到文章后也会主动联系你。并且能够不断提升自己的影响力，可谓一举多得。</p>
+<p><strong>10、企业信息查询平台</strong></p>
+<blockquote>
+<p>1、全国企业信息公示网（http://www.gsxt.gov.cn/index.html）<br>
+2、企信宝（http://www.qixin.com/）<br>
+3、企查查（http://www.qichacha.com/）</p>
+</blockquote>
+<p>通过企业信息查询平台，可以查看企业的创始人或者财务的联系方式，从而进行下一步的沟通。</p>
 ]]></content>
     </entry>
 </feed>
