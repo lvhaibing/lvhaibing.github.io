@@ -1,18 +1,15 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>浅谈控制项目进度 | 南宫七洛</title>
 <meta name="description" content="一个有趣的互联网创业者">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568119669761">
+<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568119801626">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://lvhaibing.github.io/styles/main.css">
 
@@ -27,82 +24,85 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 
 
   </head>
   <body>
     <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://lvhaibing.github.io">
-        <img class="avatar" src="https://lvhaibing.github.io/images/avatar.png?v=1568119669761" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://lvhaibing.github.io">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://lvhaibing.github.io">
+        <img src="https://lvhaibing.github.io/images/avatar.png?v=1568119801626" class="site-logo">
         <h1 class="site-title">南宫七洛</h1>
       </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
+    <div>
       
         
-          <a href="/" class="menu purple-link">
+          <a href="/" class="site-nav">
             首页
           </a>
         
       
         
-          <a href="/archives" class="menu purple-link">
+          <a href="/archives" class="site-nav">
             归档
           </a>
         
       
         
-          <a href="/tags" class="menu purple-link">
+          <a href="/tags" class="site-nav">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="menu purple-link">
+          <a href="/post/about" class="site-nav">
             关于
           </a>
         
       
     </div>
   </div>
-</transition>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      一个有趣的互联网创业者
+    </div>
+    <div class="site-footer">
+      sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">浅谈控制项目进度</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2019-09-10</span>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">浅谈控制项目进度</h2>
+            <div class="post-date">2019-09-10</div>
             
-              <span>
-                <i class="icon-pricetags-outline"></i>
-                
-                  <a href="https://lvhaibing.github.io/tag/89utepV5ts">
-                    产品经理
-                    
-                  </a>
-                
-              </span>
-            
-          </div>
-          <div class="post-content">
-            <p><img src="http://upload-images.jianshu.io/upload_images/1346433-fbe40459bdb365df.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="项目管理"><br>
+            <div class="post-content">
+              <p><img src="http://upload-images.jianshu.io/upload_images/1346433-fbe40459bdb365df.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="项目管理"><br>
 在互联网项目开发过程中，产品经理不光要做产品功能的设计，更重要的是要跟进开发进度，保证需求转变为产品，也就是让正确的事情相继发生。这个时候控制项目进度就非常重要了，那么控制项目最重要的要素是什么呢？</p>
 <p>####1）时间<br>
 那么如何控制时间呢？</p>
@@ -123,49 +123,46 @@
 <p><img src="http://upload-images.jianshu.io/upload_images/1346433-6bb6c0ab4d6a3bf2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="项目流程"><br>
 项目不同于产品，项目是project，产品是product。项目是一次性完成的任务，而产品会经过多次的迭代。项目管理过程：<strong>启动、计划、控制、实施、收尾</strong>。</p>
 
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://lvhaibing.github.io/tag/89utepV5ts" class="tag">
+                    产品经理
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://lvhaibing.github.io/post/teng-xun-mian-shi-ji-qiao">
+                  <h3 class="post-title">
+                    腾讯面试技巧
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
-
-        
-          <div class="next-post">
-            <a class="purple-link" href="https://lvhaibing.github.io/post/teng-xun-mian-shi-ji-qiao">
-              <h3 class="post-title">
-                下一篇：腾讯面试技巧
-              </h3>
-            </a>
-          </div>
-          
       </div>
-
-      
-        
-          <div id="gitalk-container"></div>
-        
-
-        
-      
-
-      <div class="site-footer">
-  <div class="slogan">一个有趣的互联网创业者</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-
     </div>
-    <script type="application/javascript">
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
 
 hljs.initHighlightingOnLoad()
 

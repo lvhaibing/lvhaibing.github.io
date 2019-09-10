@@ -1,18 +1,15 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>在西安电子科技大学就读是怎样一番体验？ | 南宫七洛</title>
 <meta name="description" content="一个有趣的互联网创业者">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568119669761">
+<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568119801626">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://lvhaibing.github.io/styles/main.css">
 
@@ -27,82 +24,85 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 
 
   </head>
   <body>
     <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://lvhaibing.github.io">
-        <img class="avatar" src="https://lvhaibing.github.io/images/avatar.png?v=1568119669761" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://lvhaibing.github.io">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://lvhaibing.github.io">
+        <img src="https://lvhaibing.github.io/images/avatar.png?v=1568119801626" class="site-logo">
         <h1 class="site-title">南宫七洛</h1>
       </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
+    <div>
       
         
-          <a href="/" class="menu purple-link">
+          <a href="/" class="site-nav">
             首页
           </a>
         
       
         
-          <a href="/archives" class="menu purple-link">
+          <a href="/archives" class="site-nav">
             归档
           </a>
         
       
         
-          <a href="/tags" class="menu purple-link">
+          <a href="/tags" class="site-nav">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="menu purple-link">
+          <a href="/post/about" class="site-nav">
             关于
           </a>
         
       
     </div>
   </div>
-</transition>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      一个有趣的互联网创业者
+    </div>
+    <div class="site-footer">
+      sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">在西安电子科技大学就读是怎样一番体验？</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2019-09-10</span>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">在西安电子科技大学就读是怎样一番体验？</h2>
+            <div class="post-date">2019-09-10</div>
             
-              <span>
-                <i class="icon-pricetags-outline"></i>
-                
-                  <a href="https://lvhaibing.github.io/tag/yw_Bk6Waw4">
-                    杂文
-                    
-                  </a>
-                
-              </span>
-            
-          </div>
-          <div class="post-content">
-            <p>最近遇到一个跟我一级毕业的xidianer，他恨西电入骨，我虽然对西电也没那么爱，但也不至于恨，于是上知乎看看大家对西电的印象都是什么样的，看完后才发现，毕业后80%的xidianer都是在黑西电，我也不知道该说什么好了。就说说我自己的一点经历吧，希望能改变点什么吧！</p>
+            <div class="post-content">
+              <p>最近遇到一个跟我一级毕业的xidianer，他恨西电入骨，我虽然对西电也没那么爱，但也不至于恨，于是上知乎看看大家对西电的印象都是什么样的，看完后才发现，毕业后80%的xidianer都是在黑西电，我也不知道该说什么好了。就说说我自己的一点经历吧，希望能改变点什么吧！</p>
 <p>看了这么多黑我电的，大多是说西电闭塞，环境不行，西电学生格局不行，领导管理不行，学校不为学生着想，学生没有归属感。我要说以上基本属实，不过你最终的发展并不取决于学校，环境差对自己不也是一种锻炼么？既然学校氛围不行，我们不应该更加努力为环境的变好而做出一点点努力么？西电限制学生发展，也基本属实，在学校上课基本没有什么归属感，感觉是交钱上补习班一样。不过只要你能够认识到以上这些不足，不要被环境所局限，凭借自己的努力，我相信你还是可以赶上清北的学生。</p>
 <p>我先说下我的情况吧，16年，也就是今年7月刚刚从西电毕业。找到的工作是互联网产品经理，在西电四年的专业是机械设计制造及其自动化。我们专业和互联网一点关系都没有，但是还是有机会进入了自己喜欢的互联网行业，并且找到了自己所热爱的工作。其中的原因有很多，等我继续说完我的经历。大一的时候什么都不懂，就上课学习考试，没有规划也没有梦想。大二的时候在我电找到了女朋友并且在那时候开始接触互联网，自学设计、前端相关的知识，大三上学期的时候成立了一个校企合作的俱乐部，大三下学期的时候组织团队开发了一个安卓APP，在校内影响度还不错，后来还接了一个外包项目。大三暑假的时候加入了学校里的一个工作室，学到了很多创业相关的知识。工作室的项目拿到了天使轮投资，现在项目还在运营中。在那里我的收获很大，后来毕业设计也是跟着工作室的老师一起做的。后来参加校招，找工作磕磕绊绊，终究还是实现了自己当初的目标，进入互联网公司做产品经理。很幸运，也很心酸。</p>
 <p>总的来说，本专业对我就业也要，学习也好，基本没有任何作用。因为一点兴趣都没有，但是并不能转专业，所以只能浪费时间去准备考试。还要担心挂科后背留级和退学。大学四年对我影响最大的竟然是我自己自学的那些知识以及带团队做的那个APP还有工作室的经历，如果说学校给了我什么，那就是在这里让我认识了我的女朋友，认识了团队中的好兄弟，一些优秀的小伙伴。</p>
@@ -113,49 +113,46 @@
 <p>最后想说的一点是，如果你是还没毕业的xidianer，我要对你说，大胆的去实践吧，西电就是告诉你的理论太多，给你实践的机会太少。多去公司实习，去北上广看看一线的互联网公司，多去做一些项目，哪怕是出于情怀，只要是真正出于自己的兴趣，给你的收获比你考试拿100分要多的多。不要被学校的条条框框限制，不要被身边庸碌无为的同学所影响，找到自己真正的兴趣，做一些能够证明自己、改变世界，让这个世界更美好的事情！毕竟，那是多么酷！</p>
 <p><a href="https://www.zhihu.com/question/24394226/answer/117228456?from=profile_answer_card">知乎问题链接</a></p>
 
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://lvhaibing.github.io/tag/yw_Bk6Waw4" class="tag">
+                    杂文
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://lvhaibing.github.io/post/hua-liao-9-kuai-9-jin-liao-yi-ge-se-qing-qun-zhi-hou">
+                  <h3 class="post-title">
+                    花了9块9进了一个色情群之后
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
-
-        
-          <div class="next-post">
-            <a class="purple-link" href="https://lvhaibing.github.io/post/hua-liao-9-kuai-9-jin-liao-yi-ge-se-qing-qun-zhi-hou">
-              <h3 class="post-title">
-                下一篇：花了9块9进了一个色情群之后
-              </h3>
-            </a>
-          </div>
-          
       </div>
-
-      
-        
-          <div id="gitalk-container"></div>
-        
-
-        
-      
-
-      <div class="site-footer">
-  <div class="slogan">一个有趣的互联网创业者</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-
     </div>
-    <script type="application/javascript">
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
 
 hljs.initHighlightingOnLoad()
 

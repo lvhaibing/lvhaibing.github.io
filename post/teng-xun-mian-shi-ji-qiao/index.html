@@ -1,18 +1,15 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>腾讯面试技巧 | 南宫七洛</title>
 <meta name="description" content="一个有趣的互联网创业者">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568119669761">
+<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568119801626">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://lvhaibing.github.io/styles/main.css">
 
@@ -27,72 +24,85 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 
 
   </head>
   <body>
     <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://lvhaibing.github.io">
-        <img class="avatar" src="https://lvhaibing.github.io/images/avatar.png?v=1568119669761" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://lvhaibing.github.io">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://lvhaibing.github.io">
+        <img src="https://lvhaibing.github.io/images/avatar.png?v=1568119801626" class="site-logo">
         <h1 class="site-title">南宫七洛</h1>
       </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
+    <div>
       
         
-          <a href="/" class="menu purple-link">
+          <a href="/" class="site-nav">
             首页
           </a>
         
       
         
-          <a href="/archives" class="menu purple-link">
+          <a href="/archives" class="site-nav">
             归档
           </a>
         
       
         
-          <a href="/tags" class="menu purple-link">
+          <a href="/tags" class="site-nav">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="menu purple-link">
+          <a href="/post/about" class="site-nav">
             关于
           </a>
         
       
     </div>
   </div>
-</transition>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      一个有趣的互联网创业者
+    </div>
+    <div class="site-footer">
+      sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">腾讯面试技巧</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2019-09-10</span>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">腾讯面试技巧</h2>
+            <div class="post-date">2019-09-10</div>
             
-          </div>
-          <div class="post-content">
-            <p>最近有学弟学妹问我面试技巧，其实我也没什么面试技巧，只能是给他们分享一些失败的经验了。如果能避免这些失败，那么应该能在面试中表现的不错吧。</p>
+            <div class="post-content">
+              <p>最近有学弟学妹问我面试技巧，其实我也没什么面试技巧，只能是给他们分享一些失败的经验了。如果能避免这些失败，那么应该能在面试中表现的不错吧。</p>
 <p>既然你们最想去的公司是腾讯，那我就讲讲我的腾讯面试经历吧。</p>
 <p>腾讯群面刷人最多，我们那次群面的时候是分组讨论设计新颖的鼠标和键盘。然后给出设计亮点以及市场推广方案，功能说明这些。一共是15分钟，一组讨论设计键盘，一组讨论设计鼠标，最终派一个代表总结讨论结果汇报给面试官。</p>
 <p>这里面主要考察的是思考能力和沟通能力吧~不要说废话，言之有物，说到点上，然后有大局观，一般都会过。具体就是要有人记时间什么的，分工明确，引导团队给出一个统一的结果，然后非常有逻辑性的陈述就好了。我记得我们当时是设计鼠标，我就想了一个触控鼠标的主意，就是就是类似于触摸板控制，最后居然也过了一面。记住群面不要撕逼，说的每一句话都要言之有物，不然宁可不说，有时候你可能就说了一两句话，但是就过了。如果团队中出现爱撕逼又没什么水平的人，那一定要格外小心，尽量引导团队讨论出最终的方案也会加分。</p>
@@ -110,49 +120,38 @@
 <p>如果能霸面，一定要去，我很多同学都是通过霸面拿到了bat，360，小米的offer，毕竟一个公司，笔试加3轮面试，一共4轮，你只有1次机会，只要你四次中有一次没发挥好，你就GG了。</p>
 <p>好了就先写这么多吧，改天再继续补充，大家有什么疑问可以在文章下面留言，我看到了会及时回复的。</p>
 
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://lvhaibing.github.io/post/chan-pin-jing-li-yao-dong-de-she-ji-chi-cun">
+                  <h3 class="post-title">
+                    产品经理要懂的设计尺寸
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
-
-        
-          <div class="next-post">
-            <a class="purple-link" href="https://lvhaibing.github.io/post/chan-pin-jing-li-yao-dong-de-she-ji-chi-cun">
-              <h3 class="post-title">
-                下一篇：产品经理要懂的设计尺寸
-              </h3>
-            </a>
-          </div>
-          
       </div>
-
-      
-        
-          <div id="gitalk-container"></div>
-        
-
-        
-      
-
-      <div class="site-footer">
-  <div class="slogan">一个有趣的互联网创业者</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-
     </div>
-    <script type="application/javascript">
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
 
 hljs.initHighlightingOnLoad()
 

@@ -1,18 +1,15 @@
-
 <!DOCTYPE html>
 <html>
   <head>
-    
-<meta charset="utf-8" >
+    <meta charset="utf-8" >
 
 <title>给想做产品经理的你 | 南宫七洛</title>
 <meta name="description" content="一个有趣的互联网创业者">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568119669761">
+<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1568119801626">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://lvhaibing.github.io/styles/main.css">
 
@@ -27,82 +24,85 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
 
 
   </head>
   <body>
     <div id="app" class="main">
-      <div class="site-header-container">
-  <div class="site-header">
-    <div class="left">
-      <a href="https://lvhaibing.github.io">
-        <img class="avatar" src="https://lvhaibing.github.io/images/avatar.png?v=1568119669761" alt="" width="32px" height="32px">
-      </a>
-      <a href="https://lvhaibing.github.io">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://lvhaibing.github.io">
+        <img src="https://lvhaibing.github.io/images/avatar.png?v=1568119801626" class="site-logo">
         <h1 class="site-title">南宫七洛</h1>
       </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
     </div>
-    <div class="right">
-      <transition name="fade">
-        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
-      </transition>
-    </div>
-  </div>
-</div>
-
-<transition name="fade">
-  <div class="menu-container" style="display: none;" v-show="menuVisible">
-    <div class="menu-list">
+    <div>
       
         
-          <a href="/" class="menu purple-link">
+          <a href="/" class="site-nav">
             首页
           </a>
         
       
         
-          <a href="/archives" class="menu purple-link">
+          <a href="/archives" class="site-nav">
             归档
           </a>
         
       
         
-          <a href="/tags" class="menu purple-link">
+          <a href="/tags" class="site-nav">
             标签
           </a>
         
       
         
-          <a href="/post/about" class="menu purple-link">
+          <a href="/post/about" class="site-nav">
             关于
           </a>
         
       
     </div>
   </div>
-</transition>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      一个有趣的互联网创业者
+    </div>
+    <div class="site-footer">
+      sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
 
 
-      <div class="content-container">
-        <div class="post-detail">
-          
-          <h2 class="post-title">给想做产品经理的你</h2>
-          <div class="post-info post-detail-info">
-            <span><i class="icon-calendar-outline"></i> 2019-09-10</span>
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">给想做产品经理的你</h2>
+            <div class="post-date">2019-09-10</div>
             
-              <span>
-                <i class="icon-pricetags-outline"></i>
-                
-                  <a href="https://lvhaibing.github.io/tag/89utepV5ts">
-                    产品经理
-                    
-                  </a>
-                
-              </span>
-            
-          </div>
-          <div class="post-content">
-            <p>近几年，产品经理被炒得很热，很多人可能连产品经理具体是干嘛的都不知道，但一样想找一份产品经理的工作。对于应届毕业生来说，这种情况更是数不胜数，那么你应该如何准备好做一个产品经理呢？</p>
+            <div class="post-content">
+              <p>近几年，产品经理被炒得很热，很多人可能连产品经理具体是干嘛的都不知道，但一样想找一份产品经理的工作。对于应届毕业生来说，这种情况更是数不胜数，那么你应该如何准备好做一个产品经理呢？</p>
 <p>产品经理是干嘛的？</p>
 <p>首页我要说的是产品经理的职责，你要明白，在小公司或者创业公司和大公司的产品经理是完全不同的。这也是因为产品经理的工作并没有一个统一的规范，整个互联网行业在中国也就只有二十多年的历史。而产品经理则是这个新兴行业中新兴的职位，所以很多规范都没有建立，人们对于产品经理的定位都很模糊。大公司因为相对来说已经发展的比较成熟，有比较完善的职业规范和文化积淀，所以产品经理的工作一般比较具体化，产品经理被细分为很多个类别，像平台型产品经理，用户产品经理，商业化产品经理，技术型产品经理，数据型产品经理等。</p>
 <p>在产品的整个生命周期中，对应着不同的产品需求，产品经理的工作也就在这个时候体现出来。比如在一个产品从零到一的过程，就需要架构型产品，能够完成产品功能策划，需求分析，可用性分析，市场调查，产品文档攥写，产品原型图等产品开发之前的准备工作。这些直接决定了产品发展的一个大方向，因此公司对这个岗位人选的要求都是特别高的，一般社会招聘都会要求有3年以上相关经验，应届生的话，进入公司之后也是需求培养2到3年才有机会做相关工作。</p>
@@ -161,49 +161,46 @@ BLUES<br>
 不同的开发模式有不同的侧重点，更是适应不同的公司和团队，因此在产品开发之前，应该根据实际情况选择最合理的开发模式。<br>
 （先写到这里吧，之后再把剩下的写完，产品菜鸟，不足之处还望见谅。）</p>
 
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://lvhaibing.github.io/tag/89utepV5ts" class="tag">
+                    产品经理
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://lvhaibing.github.io/post/chong-bang-fu-li-chan-pin-jing-li-bi-du-shu-mu-dian-zi-shu-fen-xiang">
+                  <h3 class="post-title">
+                    【重磅福利】产品经理必读书目电子书分享
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
+
         </div>
-
-        
-          <div class="next-post">
-            <a class="purple-link" href="https://lvhaibing.github.io/post/chong-bang-fu-li-chan-pin-jing-li-bi-du-shu-mu-dian-zi-shu-fen-xiang">
-              <h3 class="post-title">
-                下一篇：【重磅福利】产品经理必读书目电子书分享
-              </h3>
-            </a>
-          </div>
-          
       </div>
-
-      
-        
-          <div id="gitalk-container"></div>
-        
-
-        
-      
-
-      <div class="site-footer">
-  <div class="slogan">一个有趣的互联网创业者</div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-  sevenlown | <a class="rss" href="https://lvhaibing.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-
     </div>
-    <script type="application/javascript">
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
 
 hljs.initHighlightingOnLoad()
 
