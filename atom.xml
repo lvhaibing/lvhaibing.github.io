@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-09-13T04:42:54.139Z</updated>
+    <updated>2019-09-14T14:44:23.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[开心就好]]></title>
+        <id>https://lvhaibing.github.io/post/nYYjezET4</id>
+        <link href="https://lvhaibing.github.io/post/nYYjezET4">
+        </link>
+        <updated>2019-09-14T14:43:20.000Z</updated>
+        <content type="html"><![CDATA[<p>人的一生就是这么短暂的几十年，何必让自己不快乐呢。</p>
+<p>不必迎合任何人，该拒绝的时候就拒绝。</p>
+<p>也不必害怕什么，该往前的就往前走吧。</p>
+<p>开心就好。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中秋快乐]]></title>
         <id>https://lvhaibing.github.io/post/YafhhRDUZ</id>
@@ -225,23 +237,6 @@
 就让它随风飘散<br>
 说一声再见<br>
 再也不见</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全世界是不是只有你]]></title>
-        <id>https://lvhaibing.github.io/post/ES4GHnVgw</id>
-        <link href="https://lvhaibing.github.io/post/ES4GHnVgw">
-        </link>
-        <updated>2019-09-10T13:12:24.000Z</updated>
-        <content type="html"><![CDATA[<p>失眠了？</p>
-<p>这个时候的我，总是有一种焦虑，时间流逝的太快，而自己要做的事情太多；马上要面临的事情太多，而自己太过渺小，不够强大；总是觉得自己太渣，很多时候信心不足；感情上马上要异地，不断告诉自己不要太粘人；很多愿望都还没实现，大学马上就要毕业了；时间安排的满满当当还要担心下个月没生活费不得不去兼职；还有计划中要看的好多书都还没看；还有要写的好多篇文章，好多文档，策划都还没写；还有几千行代码等着我；还要好好学习摄影和p图；还要担心还没开始的毕业设计；还在胡思乱想要不要去那家创业公司；还有马上毕业了好多朋友都没有去见一面聊一聊；好久都没静静地看一场电影或者独自发呆了；总是怀疑自己否定自己，要做的事情进展很慢；逼迫自己干什么事情的时候总是会心烦意乱；最近几个月过得一塌糊涂；</p>
-<p>自己也不知道到底怎么了。</p>
-<p>我想我还是写点什么记录下这段焦躁不安的时光。</p>
-<p>总是在逃避生活的阴暗面，负面情绪总是在夜深人静的时候剧烈爆发；好久都没找个人好好谈心；突然感觉以前规划的所有事情都只是想起来那么简单；总是会感觉每天过的太快，在夜晚来临的时候久久不愿意睡去；怕蹉跎时光，却又陷在生活的泥沼；和同学朋友的联系越来越少，越来越感觉自己是个loser，害怕和他们谈论未来；想要做点什么证明自己却发现自己的耐心越来越少；不是天生的乐观主义者，总是害怕失败；有时候把未来分析的特别透彻，明明就是那样自己却没有改变的勇气；越来越习惯于独自一人，内心不用再有别的依靠；明白了很多很残忍的事实，永远也没办法去揭穿；明明有一种自己想要的生活，却不知道这种生活是什么；</p>
-<p>就像你有很多力气，你想找个人打一架，却找不到那个人；</p>
-<p>你终于找到一个人，却发现你打出的每一拳都像打在棉花上毫无感觉；</p>
-<p>你会渴望交流，却慢慢发现自己交流的能力越来越差；你渴望内心的平静，却总是发现内心的欲望越来越多...</p>
-<p>夜晚总是能让人想很多白天想不到的事情，就算睡着了，那些思绪却一直醒着。</p>
 ]]></content>
     </entry>
 </feed>
