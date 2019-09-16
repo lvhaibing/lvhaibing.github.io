@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-09-14T14:44:37.575Z</updated>
+    <updated>2019-09-16T09:39:02.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[我以为]]></title>
+        <id>https://lvhaibing.github.io/post/m4coGinji</id>
+        <link href="https://lvhaibing.github.io/post/m4coGinji">
+        </link>
+        <updated>2019-09-16T09:37:54.000Z</updated>
+        <content type="html"><![CDATA[<p>我以为自己可以妥协；</p>
+<p>我以为自己可以不再相信感情；</p>
+<p>我以为我都无所谓了；</p>
+<p>其实做不到。</p>
+<p>那么坏人就由我来当。</p>
+<p>对不起，</p>
+<p>感谢你带给我的。</p>
+<p>过去的就让它过去吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开心就好]]></title>
         <id>https://lvhaibing.github.io/post/nYYjezET4</id>
@@ -209,34 +225,6 @@
 不知道为啥，没有那么强的斗志。不知道是因为自己现在做的工作没有和现象中一样充实，还是因为自己没有去创业公司做自己的事业。心里总是乱乱的，不知道这样的日子什么时候是一个头。希望时间过得快点快点再快点。希望所有的美好都能够不期而遇，希望可以早点和小娟娟见面，希望早点可以让自己有一份归属感。<br>
 可能是因为自己想的太多，不停地劝自己还是踏踏实实的在这一两年中好好学习，先做一点积累。毕竟是自己选择的路，跪着也要走完，不是么？<br>
 生活本来就是需要你持续付出，没有什么光鲜亮丽是与生俱来的。你需要好好想想自己究竟可以做些什么，可以把哪些事做的更好。最后，记得永远坚持自己的梦想。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纵舍也离]]></title>
-        <id>https://lvhaibing.github.io/post/6tIf7NcqU</id>
-        <link href="https://lvhaibing.github.io/post/6tIf7NcqU">
-        </link>
-        <updated>2019-09-10T13:12:41.000Z</updated>
-        <content type="html"><![CDATA[<p>才发现<br>
-要毕业了还有好多的心愿没实现<br>
-那个暗恋的女孩儿<br>
-多想再看你一眼<br>
-陪你待在综合楼的咖啡店<br>
-才明白<br>
-这世界没有永远<br>
-聚散离合，欢喜悲惨<br>
-才是人间<br>
-你我之间<br>
-从不曾走远<br>
-只盼望着下一次见面<br>
-我们微笑依然<br>
-错过的那些时光<br>
-都变成怀念时的不安<br>
-爱是眷恋<br>
-是我无法到达的彼岸<br>
-就让它随风飘散<br>
-说一声再见<br>
-再也不见</p>
 ]]></content>
     </entry>
 </feed>
