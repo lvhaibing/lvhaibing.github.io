@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-09-26T15:50:17.986Z</updated>
+    <updated>2019-10-01T03:23:43.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[十一假期计划]]></title>
+        <id>https://lvhaibing.github.io/post/iP8_AuMX4</id>
+        <link href="https://lvhaibing.github.io/post/iP8_AuMX4">
+        </link>
+        <updated>2019-10-01T03:15:48.000Z</updated>
+        <content type="html"><![CDATA[<p>快看小说漫画每日更新<br>
+写一个短篇小说<br>
+南宫公众号更新2篇<br>
+去爬1次梧桐山<br>
+漫画网站<br>
+小说APP更新<br>
+激励视频下游对接<br>
+亚马逊店铺运营<br>
+看完10个亚马逊运营的教程视频<br>
+回答知乎30个问题</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要浮躁]]></title>
         <id>https://lvhaibing.github.io/post/bIhUdO0_G</id>
@@ -176,27 +194,6 @@ yy漫画韩国漫画大全<br>
 <p>但是当你真正想明白了，就没什么可怕的了。</p>
 <p>想开了就没什么可留恋的了，生活是自己的，不能依赖任何人。能给你希望和快乐的只有自己，也只有自己才能完全理解自己。</p>
 <p>所以其他的一切，就让他们随风而去吧！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何面对傻逼老板的傻逼需求]]></title>
-        <id>https://lvhaibing.github.io/post/K1qnygt28</id>
-        <link href="https://lvhaibing.github.io/post/K1qnygt28">
-        </link>
-        <updated>2019-09-11T14:40:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>公司产品线很乱，老板又不懂业务，但是喜欢瞎指挥，人员分工不明确，产品经理究竟应该怎么办？</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>公司产品线很乱，老板又不懂业务，但是喜欢瞎指挥，人员分工不明确，产品经理究竟应该怎么办？</p>
-<!-- more -->
-<p>首先，要把现有的产品功能理清楚，建立思维导图。看看哪里需要优化，补充完整的产品逻辑。</p>
-<p>其次，找到核心KPI指标，建立数据模型分析，所有的需求均以KPI为导向。</p>
-<p>建立完善的需求排期表和项目进度表，严格控制需求排期和人员分工。</p>
-<p>做到这些就可以将需求暂时理清楚。</p>
-<p>说的简单，但做起来就很困难了。还是要多跟老板沟通，沟通不是告诉他有多傻逼，而且让他明白自己傻逼还不能说你。</p>
-<p>不管在哪里都会遇到傻逼的老板和同事，改变不了环境就改变自己吧，让自己成为那个引领团队发展的人。</p>
-<p>这也是产品经理的一种成就吧。</p>
-<p>想到这里，心情豁然开朗了很多。</p>
-<p>23333333</p>
 ]]></content>
     </entry>
 </feed>
