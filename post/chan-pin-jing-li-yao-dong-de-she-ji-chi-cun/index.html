@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1570009988680">
+<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1570010597124">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://lvhaibing.github.io/styles/main.css">
 
@@ -45,7 +45,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://lvhaibing.github.io">
-        <img src="https://lvhaibing.github.io/images/avatar.png?v=1570009988680" class="site-logo">
+        <img src="https://lvhaibing.github.io/images/avatar.png?v=1570010597124" class="site-logo">
         <h1 class="site-title">南宫七洛</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -148,10 +148,10 @@
 ###2）倍率与逻辑像素</p>
 <p>在解释这个概念前？我想问问大家有没有想过为什么不同分辨率的手机，像iphone6plus和iphone6的显示内容会相同，比如同样一个邮件列表，两个屏幕显示的邮件数是相同的。按理说iphone6plus的分辨率更高，同样一张图片的话，在iphone6plus上不是应该看起来更小，所以显示的邮件数更多么？<br>
 这里就牵扯到一个概念也就是逻辑像素。如上图，iphone6plus的逻辑像素是414x736，它的分辨率是它的逻辑像素的3倍，也就是说它把3x3个像素当成一个像素来用，原本1个像素中显示的内容，现在用9个像素来显示，自然显示效果就非常细腻逼真了。同样iphone6的逻辑像素是375x667，它的分辨率是它的逻辑像素的2倍，也就是说在iphone6中，原本一个像素的内容用了2*2个像素点来显示。只要两个屏幕的逻辑像素相同，显示的画面就是相同的，屏幕分辨率不同的问题就用倍率解决了。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-2813547e3af9d214.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种iphone屏幕尺寸"></p>
+<figure data-type="image" tabindex="1"><img src="http://upload-images.jianshu.io/upload_images/1346433-2813547e3af9d214.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种iphone屏幕尺寸"></figure>
 <p>安卓把不同像素密度的设备划分了好几个范围，给不同范围的设备定义了不同的倍率，来保证不同设备显示效果的相同。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-eef325040e07d077.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种安卓屏幕尺寸.png"></p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-9ae06a955ea150c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安卓市场尺寸规范"></p>
+<figure data-type="image" tabindex="2"><img src="http://upload-images.jianshu.io/upload_images/1346433-eef325040e07d077.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种安卓屏幕尺寸.png"></figure>
+<figure data-type="image" tabindex="3"><img src="http://upload-images.jianshu.io/upload_images/1346433-9ae06a955ea150c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安卓市场尺寸规范"></figure>
 <p>如图所示，像素密度在120左右的屏幕归为ldpi，160左右的归为mdpi，以此类推。这样，所有的Android屏幕都找到了自己的位置，并赋予了相应的倍率：</p>
 <blockquote>
 <p>ldpi [0.75倍]<br>

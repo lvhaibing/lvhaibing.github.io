@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-10-02T09:54:04.593Z</updated>
+    <updated>2019-10-02T10:03:29.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[痛苦的根源]]></title>
+        <id>https://lvhaibing.github.io/post/ADeXgflkM</id>
+        <link href="https://lvhaibing.github.io/post/ADeXgflkM">
+        </link>
+        <updated>2019-10-02T09:58:06.000Z</updated>
+        <content type="html"><![CDATA[<p>当你认识到人生的无聊时，并不可怕。</p>
+<p>当你认识到人生的无聊，却又无可奈何时，才最可怕。</p>
+<p>对什么都不感兴趣，对别人建议的方向又不愿努力。只知道抱怨，满足于现状，然后又抱怨平凡。</p>
+<p>没有坚持下去的勇气，却有着非凡的欲望，这就是你痛苦的根源。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隔壁女孩儿]]></title>
         <id>https://lvhaibing.github.io/post/c7t6r-Nim</id>
@@ -235,23 +247,6 @@ yy漫画韩国漫画大全<br>
 <p>不必迎合任何人，该拒绝的时候就拒绝。</p>
 <p>也不必害怕什么，该往前的就往前走吧。</p>
 <p>开心就好。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中秋快乐]]></title>
-        <id>https://lvhaibing.github.io/post/YafhhRDUZ</id>
-        <link href="https://lvhaibing.github.io/post/YafhhRDUZ">
-        </link>
-        <updated>2019-09-13T04:34:26.000Z</updated>
-        <content type="html"><![CDATA[<p>今天是中秋节，过完中秋节还有十一假期，过完十一还有元旦，过完元旦还有过年，过完年2019就结束了。</p>
-<p>时间过得真快啊，去年的中秋节是在珠海过的，转眼已过去一年，物是人非。</p>
-<p>过去的事情不值得感伤，而是更应该给予你走向未来的勇气。即使伤痕累累，也要面朝阳光。</p>
-<p>跟姐姐聊了聊，每个人都有自己的围城。过得开心不开心只有自己知道。或许是别人羡慕的生活，但背后的艰辛又有几个人能明白。</p>
-<p>有时候我很想回到古代去生活，去唐朝，去明朝。</p>
-<p>一日三餐，看日出日落。</p>
-<p>不用担心买房买车，娶妻生子这些烦恼。走遍山河，潇洒畅意。</p>
-<p>中秋快乐！</p>
-<p>祝所有努力活着的人。</p>
 ]]></content>
     </entry>
 </feed>
