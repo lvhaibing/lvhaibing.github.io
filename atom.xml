@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-10-02T10:03:44.599Z</updated>
+    <updated>2019-10-04T05:29:36.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[十月了]]></title>
+        <id>https://lvhaibing.github.io/post/JYxZLgZlT</id>
+        <link href="https://lvhaibing.github.io/post/JYxZLgZlT">
+        </link>
+        <updated>2019-10-04T05:26:03.000Z</updated>
+        <content type="html"><![CDATA[<p>不知不觉就2019年10月了，分手1年了。</p>
+<p>不知道你是否还记得吗？</p>
+<p>依旧还是很想你，不过这种思念已经不再痛苦，能想起来的都是美好的一面。未来不知道是否还会再见到你，也不知道你是怎么想的，还在等我吗？</p>
+<p>岁月无痕，时间过得真快，感觉生活的很麻木，很无趣，很没有目标。努力活着本身就是一种勇气了，想想真是挺可悲的。</p>
+<p>一个人需要责任，需要使命，需要理想，才能充满激情的去过好每一天。</p>
+<p>如果你不知道你该往哪里去？你该怎么办？</p>
+<p>也许时间会给你答案，至少现在不要娱乐至死，做些有意义的事情吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[痛苦的根源]]></title>
         <id>https://lvhaibing.github.io/post/ADeXgflkM</id>
@@ -235,18 +250,6 @@ yy漫画韩国漫画大全<br>
 <p>对不起，</p>
 <p>感谢你带给我的。</p>
 <p>过去的就让它过去吧。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开心就好]]></title>
-        <id>https://lvhaibing.github.io/post/nYYjezET4</id>
-        <link href="https://lvhaibing.github.io/post/nYYjezET4">
-        </link>
-        <updated>2019-09-14T14:43:20.000Z</updated>
-        <content type="html"><![CDATA[<p>人的一生就是这么短暂的几十年，何必让自己不快乐呢。</p>
-<p>不必迎合任何人，该拒绝的时候就拒绝。</p>
-<p>也不必害怕什么，该往前的就往前走吧。</p>
-<p>开心就好。</p>
 ]]></content>
     </entry>
 </feed>
