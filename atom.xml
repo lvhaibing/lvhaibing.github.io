@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-10-04T05:29:54.610Z</updated>
+    <updated>2019-10-05T16:05:57.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[倒计时：2天]]></title>
+        <id>https://lvhaibing.github.io/post/YoKSLaKmz</id>
+        <link href="https://lvhaibing.github.io/post/YoKSLaKmz">
+        </link>
+        <updated>2019-10-05T16:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天是10月5号，距离假期结束还有2天。</p>
+<p>看了2部电影，《攀登者》和《中国机长》。2部电影都非常精彩，拍的很真实，有纪录片的感觉，但故事性也很强。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天是10月5号，距离假期结束还有2天。</p>
+<p>看了2部电影，《攀登者》和《中国机长》。2部电影都非常精彩，拍的很真实，有纪录片的感觉，但故事性也很强。</p>
+<!-- more -->
+<p>看到刘正娟发的朋友圈了，她可能找到喜欢的人了吧。没有太多触动，分手一年了，只能祝福她了。</p>
+<p>假期让我感受到了孤独，彻头彻尾的孤独，不知道干什么的孤独，很难静下心来去学习，去做一些事情。同时还带给我很深的焦虑感。25岁了还没有什么成就的焦虑感。</p>
+<p>网站的访问量逐渐稳定，每天有2000左右的UV，这是唯一值得高兴的一件事情。</p>
+<p>假期过完再过1个星期就到了发工资的日子了，这也是值得高兴的一件事情。我现在就期盼着每个月发工资，努力攒钱，想早点买个房子。</p>
+<p>有了房子，至少有了一点安全感。</p>
+<p>飘在深圳，真的有时候不知道为了什么，有时候觉得好没意义，有时候觉得自己好惨一男的。</p>
+<p>还是要鼓励自己，告诉自己这个世界还有很多地方等着你去，还有很多风景等着你看，你要相信未来会越来越好。要相信总会遇到那个对的人。</p>
+<p>忍受完这段孤独的旅程，一定会有最美的风景。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[十月了]]></title>
         <id>https://lvhaibing.github.io/post/JYxZLgZlT</id>
@@ -234,22 +256,6 @@ yy漫画韩国漫画大全<br>
 <p>活着，就必须要活的伟大。真正做出一些让世人铭记的事情，让自己骄傲的事情。</p>
 <p>别消极，用文字影响他人，提升自己的影响力。</p>
 <p>相信自己。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我以为]]></title>
-        <id>https://lvhaibing.github.io/post/m4coGinji</id>
-        <link href="https://lvhaibing.github.io/post/m4coGinji">
-        </link>
-        <updated>2019-09-16T09:37:54.000Z</updated>
-        <content type="html"><![CDATA[<p>我以为自己可以妥协；</p>
-<p>我以为自己可以不再相信感情；</p>
-<p>我以为我都无所谓了；</p>
-<p>其实做不到。</p>
-<p>那么坏人就由我来当。</p>
-<p>对不起，</p>
-<p>感谢你带给我的。</p>
-<p>过去的就让它过去吧。</p>
 ]]></content>
     </entry>
 </feed>
