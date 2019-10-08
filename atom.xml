@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-10-07T15:13:42.402Z</updated>
+    <updated>2019-10-08T13:55:28.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[假期后上班第一天]]></title>
+        <id>https://lvhaibing.github.io/post/elXN-GLEC</id>
+        <link href="https://lvhaibing.github.io/post/elXN-GLEC">
+        </link>
+        <updated>2019-10-08T13:46:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>今天是假期后上班第一天，昨晚3点才睡，今天有点昏昏沉沉，好在一切还算顺利，应该会逐渐找回状态吧。</p>
+<p>今天了解到了一个新的乐队-野外合作社。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>今天是假期后上班第一天，昨晚3点才睡，今天有点昏昏沉沉，好在一切还算顺利，应该会逐渐找回状态吧。</p>
+<p>今天了解到了一个新的乐队-野外合作社。</p>
+<!-- more -->
+<p>听了他们的一首歌《八十九》</p>
+<p>我很喜欢歌词，很有反叛精神。</p>
+<p>我想倒在你的怀里睡上一觉，我那不足挂齿的秘密。</p>
+<p>......</p>
+<p>可惜只有1把手枪，所以你先用了。连同我无处安放的名声，一起用了。</p>
+<p>今天坐在办公室里，突然想着，如果一直这么平凡下去，该是多么可悲的一件事情啊，人生这么短暂，却要这么无聊的消磨掉。</p>
+<p>只是为了金钱，为了生活。必须要彻底摆脱这个牢笼，才能真正做一些自己喜欢做的事情。</p>
+<p>在此之前，赚钱仍是重中之重。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的银河，不远]]></title>
         <id>https://lvhaibing.github.io/post/1VcHvc5oH</id>
@@ -220,22 +242,6 @@
 <p>其他工作目前也在推进过程中，很多事情，做了也不一定有结果，但是不做一定没有结果。</p>
 <p>不去尝试，你怎么知道最终会是什么样子呢？</p>
 <p>努力尝试，给自己创造多种可能，生活就会充满希望。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自律才能自由]]></title>
-        <id>https://lvhaibing.github.io/post/A3duTv_AP</id>
-        <link href="https://lvhaibing.github.io/post/A3duTv_AP">
-        </link>
-        <updated>2019-09-23T15:58:46.000Z</updated>
-        <content type="html"><![CDATA[<p>感觉自己还是不够自律呀，回到家忍不住看了2集电视剧。</p>
-<p>没有看产品经理相关的文章，也没有去知乎回答问题整理思路。</p>
-<p>什么都没做就不知不觉12点了，真是浪费时间。</p>
-<p>今天网站的流量下降了不少，不知道是什么原因。希望明天能有所好转吧。</p>
-<p>小说漫画的资源还是挺难找的，虽然H小说漫画有很多，但是我还是决定坚持内心的底线，不去碰这些东西。</p>
-<p>我相信凭借我自己，也一定能够把这网站做起来的。</p>
-<p>SEO也不是很难，重在坚持，持续的输出一定会有收获。</p>
-<p>加油！</p>
 ]]></content>
     </entry>
 </feed>
