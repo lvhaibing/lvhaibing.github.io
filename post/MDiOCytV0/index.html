@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>产品经理 | 南宫七洛</title>
+<title>孤单 | 南宫七洛</title>
 <meta name="description" content="一个有趣的互联网创业者">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -13,6 +13,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://lvhaibing.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -120,75 +126,42 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: 产品经理</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://lvhaibing.github.io/post/jie-zhi-yi-bai-wan-de-yong-hu-ti-yan-bao-gao-shu-chu-mi-ji">
-                  <h2 class="post-title">价值一百万的用户体验报告输出秘技</h2>
-                </a>
-                <div class="post-date">
-                  2019-09-10
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://lvhaibing.github.io/post/zai-xi-dian-song-wai-mai-shi-zen-yang-de-yi-chong-ti-yan">
-                  <h2 class="post-title">在西电送外卖是怎样的一种体验？</h2>
-                </a>
-                <div class="post-date">
-                  2019-09-10
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://lvhaibing.github.io/post/gei-xiang-zuo-chan-pin-jing-li-de-ni">
-                  <h2 class="post-title">给想做产品经理的你</h2>
-                </a>
-                <div class="post-date">
-                  2019-09-10
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://lvhaibing.github.io/post/chong-bang-fu-li-chan-pin-jing-li-bi-du-shu-mu-dian-zi-shu-fen-xiang">
-                  <h2 class="post-title">【重磅福利】产品经理必读书目电子书分享</h2>
-                </a>
-                <div class="post-date">
-                  2019-09-10
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
+          <div class="post-detail">
+            <h2 class="post-title">孤单</h2>
+            <div class="post-date">2019-10-13</div>
+            
+            <div class="post-content">
+              <p>头很痛，心里空空落落的也没人能说说话，不知道该怎么坚持下去。<br>
+感觉我有点抑郁了。<br>
+最近各方面事情都挺不顺利的，可能是遇到瓶颈了吧，睡觉的时候也睡不踏实，老是会梦到以前的事情。<br>
+似乎习惯了一个人生活，又似乎永远活在回忆里。<br>
+很不喜欢现在的状态，怎么才能让自己踏实一点，一个人也能开开心心。<br>
+成年人要忍受的孤独太多，你还有很长的路要走。<br>
+深圳还是那么热，热的像过了一年的夏天，时间静止在了2018年10月。<br>
+就这样没心没肺的活着吧，真是一种痛苦。</p>
 
-          <div class="pagination-container">
-  
-    <a href="https://lvhaibing.github.io/tag/89utepV5ts//page/2/" class="prev"><i class="icon-arrow-ios-back-outline"></i> 上一页</a>
-  
-  
-</div>
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://lvhaibing.github.io/post/elXN-GLEC">
+                  <h3 class="post-title">
+                    假期后上班第一天
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -210,6 +183,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'aa418fc4d0af90118f54',
+        clientSecret: '7dfbef4fa60d2d505351422faa16514452d8b731',
+        repo: 'lvhaibing.github.io',
+        owner: 'lvhaibing',
+        admin: ['lvhaibing'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 

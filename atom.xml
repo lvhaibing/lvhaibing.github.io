@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-10-08T13:55:42.465Z</updated>
+    <updated>2019-10-13T10:00:40.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[孤单]]></title>
+        <id>https://lvhaibing.github.io/post/MDiOCytV0</id>
+        <link href="https://lvhaibing.github.io/post/MDiOCytV0">
+        </link>
+        <updated>2019-10-13T09:57:10.000Z</updated>
+        <content type="html"><![CDATA[<p>头很痛，心里空空落落的也没人能说说话，不知道该怎么坚持下去。<br>
+感觉我有点抑郁了。<br>
+最近各方面事情都挺不顺利的，可能是遇到瓶颈了吧，睡觉的时候也睡不踏实，老是会梦到以前的事情。<br>
+似乎习惯了一个人生活，又似乎永远活在回忆里。<br>
+很不喜欢现在的状态，怎么才能让自己踏实一点，一个人也能开开心心。<br>
+成年人要忍受的孤独太多，你还有很长的路要走。<br>
+深圳还是那么热，热的像过了一年的夏天，时间静止在了2018年10月。<br>
+就这样没心没肺的活着吧，真是一种痛苦。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[假期后上班第一天]]></title>
         <id>https://lvhaibing.github.io/post/elXN-GLEC</id>
@@ -225,23 +241,6 @@
 <p>好好做亚马逊吧，需要每天多花一些时间，尽快把库存清掉。</p>
 <p>沉淀自己，积攒力量。这就是接下来1年的目标。</p>
 <p>加油！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启迪]]></title>
-        <id>https://lvhaibing.github.io/post/tU7WuSSLL</id>
-        <link href="https://lvhaibing.github.io/post/tU7WuSSLL">
-        </link>
-        <updated>2019-09-24T15:27:24.000Z</updated>
-        <content type="html"><![CDATA[<p>逐渐掌握了更多SEO的知识，开心。</p>
-<p>每个关键词都有周期性的搜索趋势变化，能带来的流量也是周期性变化的。</p>
-<p>很多词看着很难，其实优化起来并不难，重点就在于需要持续提交优质内容。</p>
-<p>是金子迟早会发光。优质的内容是不缺流量的。</p>
-<p>你要重点做好内容建设，把网站的内容做好，流量就会自然而然的来了。</p>
-<p>很多长尾词的确可以带来不少流量，通过分析竞品网站，大有启发，目前移动权重已经4了，相信再过不久，一定可以再上一个台阶。</p>
-<p>其他工作目前也在推进过程中，很多事情，做了也不一定有结果，但是不做一定没有结果。</p>
-<p>不去尝试，你怎么知道最终会是什么样子呢？</p>
-<p>努力尝试，给自己创造多种可能，生活就会充满希望。</p>
 ]]></content>
     </entry>
 </feed>
