@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-10-13T10:00:40.450Z</updated>
+    <updated>2019-10-17T15:22:09.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[我希望你过的好]]></title>
+        <id>https://lvhaibing.github.io/post/5TA53gTEx</id>
+        <link href="https://lvhaibing.github.io/post/5TA53gTEx">
+        </link>
+        <updated>2019-10-17T15:20:54.000Z</updated>
+        <content type="html"><![CDATA[<p>我希望你过得好，但是希望我不知道；</p>
+<p>你会遇到一个很好很好的人，因为你值得。</p>
+<p>你会拥有你想要的一切，</p>
+<p>因为你可以。</p>
+<p>我希望你过得好，</p>
+<p>我希望你的世界永远五彩斑斑，</p>
+<p>即使那与我无关。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[循序渐进]]></title>
+        <id>https://lvhaibing.github.io/post/P-4al1kMi</id>
+        <link href="https://lvhaibing.github.io/post/P-4al1kMi">
+        </link>
+        <updated>2019-10-14T14:04:28.000Z</updated>
+        <content type="html"><![CDATA[<p>今天终于把工作理顺了一点，需求其实很多，但要分清楚优先级，才能做出正确的选择。</p>
+<p>不用着急，坚持每天都做正确的事情即可。</p>
+<p>要有全盘的规划，资源会越来越多的。</p>
+<p>自己的业务进度缓慢，一时半会儿也很难解决，暂时没有更好的办法。争取把网站尽快做出成绩吧！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[孤单]]></title>
         <id>https://lvhaibing.github.io/post/MDiOCytV0</id>
@@ -207,40 +234,6 @@
 <p>很多心事也无人诉说，只能自己一个人默默消化。在梦里，阿伦回到了自己的老家，那个小山村，那里的天蓝的像染过一般，四季分明，春夏秋冬都有自己的色彩，不像深圳仿佛时间静止在了夏天，又仿佛去到了未来。</p>
 <p>就这样，阿伦睡着了。当他睡醒后，不会刻意回想这个夜晚。因为第二天早上，他还要早早的起来，挤上地铁，穿过汹涌的人流，去上班，为虚无缥缈的未来积攒一丝的力量。</p>
 <p>毕竟，活着，总得给自己一点希望，不是吗？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十一假期计划]]></title>
-        <id>https://lvhaibing.github.io/post/iP8_AuMX4</id>
-        <link href="https://lvhaibing.github.io/post/iP8_AuMX4">
-        </link>
-        <updated>2019-10-01T03:15:48.000Z</updated>
-        <content type="html"><![CDATA[<p>快看小说漫画每日更新<br>
-写一个短篇小说<br>
-南宫公众号更新2篇<br>
-去爬1次梧桐山<br>
-漫画网站<br>
-小说APP更新<br>
-激励视频下游对接<br>
-亚马逊店铺运营<br>
-看完10个亚马逊运营的教程视频<br>
-回答知乎30个问题</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要浮躁]]></title>
-        <id>https://lvhaibing.github.io/post/bIhUdO0_G</id>
-        <link href="https://lvhaibing.github.io/post/bIhUdO0_G">
-        </link>
-        <updated>2019-09-26T15:47:14.000Z</updated>
-        <content type="html"><![CDATA[<p>听到志鸿要离职的消息，其实我并没有觉得意外。</p>
-<p>毕竟他平时也不怎么上心，真正做的事情并不多。</p>
-<p>感觉自己有点着急了，最近这段时间有点浮躁。</p>
-<p>可能是因为很多想做的事情，像激励视频，酷头条APP，游戏APP，一直迟迟做不出来，所以很忧虑吧。</p>
-<p>想来还是得先靠自己一个人赚一笔钱，才能有稳定可靠的开发团队。</p>
-<p>好好做亚马逊吧，需要每天多花一些时间，尽快把库存清掉。</p>
-<p>沉淀自己，积攒力量。这就是接下来1年的目标。</p>
-<p>加油！</p>
 ]]></content>
     </entry>
 </feed>
