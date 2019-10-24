@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-10-21T14:24:46.342Z</updated>
+    <updated>2019-10-24T13:42:16.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[丧丧的一天]]></title>
+        <id>https://lvhaibing.github.io/post/cRYHo7MOV</id>
+        <link href="https://lvhaibing.github.io/post/cRYHo7MOV">
+        </link>
+        <updated>2019-10-24T13:38:31.000Z</updated>
+        <content type="html"><![CDATA[<p>李善菊的婚礼定在了11月18号，吴琼也和她对象领证了，曾经的小伙伴终于一个个都结婚了。</p>
+<p>我还是一个人。</p>
+<p>想想有点惨，有一种失落感。</p>
+<p>加上最近项目一直推进不顺利，李超实在是太忙了。</p>
+<p>无力感。</p>
+<p>不知道什么时候才能过的舒心一点，想要做的事情都可以做成。</p>
+<p>丧丧的一天，希望明天可以更好吧。</p>
+<p>很多好的习惯可以让你变得优秀，比如坚持一件事情几年，学会一个技能，坚持健身。</p>
+<p>你要用这些有意义的事情填满你的时间，甚至写小说，也不要虚度光阴无限娱乐。</p>
+<p>娱乐至死，最可怕。</p>
+<p>找到你的位置，改变自己吧！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梧桐山之旅]]></title>
         <id>https://lvhaibing.github.io/post/Py-ba9YM3</id>
@@ -173,18 +192,6 @@
 <p>一个人需要责任，需要使命，需要理想，才能充满激情的去过好每一天。</p>
 <p>如果你不知道你该往哪里去？你该怎么办？</p>
 <p>也许时间会给你答案，至少现在不要娱乐至死，做些有意义的事情吧。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[痛苦的根源]]></title>
-        <id>https://lvhaibing.github.io/post/ADeXgflkM</id>
-        <link href="https://lvhaibing.github.io/post/ADeXgflkM">
-        </link>
-        <updated>2019-10-02T09:58:06.000Z</updated>
-        <content type="html"><![CDATA[<p>当你认识到人生的无聊时，并不可怕。</p>
-<p>当你认识到人生的无聊，却又无可奈何时，才最可怕。</p>
-<p>对什么都不感兴趣，对别人建议的方向又不愿努力。只知道抱怨，满足于现状，然后又抱怨平凡。</p>
-<p>没有坚持下去的勇气，却有着非凡的欲望，这就是你痛苦的根源。</p>
 ]]></content>
     </entry>
 </feed>
