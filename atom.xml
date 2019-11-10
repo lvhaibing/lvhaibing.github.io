@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-10-24T13:42:53.597Z</updated>
+    <updated>2019-11-10T07:06:24.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[孤独的感觉]]></title>
+        <id>https://lvhaibing.github.io/post/Ailosl3_A</id>
+        <link href="https://lvhaibing.github.io/post/Ailosl3_A">
+        </link>
+        <updated>2019-11-10T06:59:54.000Z</updated>
+        <content type="html"><![CDATA[<p>真的很孤独，是一种彻彻底底的孤独；</p>
+<p>所有的车水马龙，所有的喧嚣吵闹都与自己无关。</p>
+<p>思念的人永远在远方，没什么欲望去认识新的朋友。</p>
+<p>羡慕别人能有一个喜欢的人陪伴在身边，而这对我来说，应该很难。</p>
+<p>金钱的确可以买来快乐，但是金钱买不走的是空虚无力的感觉。这种感觉，是最让人痛苦的。</p>
+<p>王小波说过，人的痛苦，往往来自对无能的愤怒。</p>
+<p>对自己希望越大，就会越痛苦吧。</p>
+<p>无论如何，不要让自己的头脑停止思考，停止运转。</p>
+<p>不要试图享受当下的片刻欢愉。</p>
+<p>一切都是假象，你会看到绝情的鸟儿一路向南。</p>
+<p>北方的大雪纷飞，终究是千里无人的寂寞。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丧丧的一天]]></title>
         <id>https://lvhaibing.github.io/post/cRYHo7MOV</id>
@@ -177,21 +196,6 @@
 <p>飘在深圳，真的有时候不知道为了什么，有时候觉得好没意义，有时候觉得自己好惨一男的。</p>
 <p>还是要鼓励自己，告诉自己这个世界还有很多地方等着你去，还有很多风景等着你看，你要相信未来会越来越好。要相信总会遇到那个对的人。</p>
 <p>忍受完这段孤独的旅程，一定会有最美的风景。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十月了]]></title>
-        <id>https://lvhaibing.github.io/post/JYxZLgZlT</id>
-        <link href="https://lvhaibing.github.io/post/JYxZLgZlT">
-        </link>
-        <updated>2019-10-04T05:26:03.000Z</updated>
-        <content type="html"><![CDATA[<p>不知不觉就2019年10月了，分手1年了。</p>
-<p>不知道你是否还记得吗？</p>
-<p>依旧还是很想你，不过这种思念已经不再痛苦，能想起来的都是美好的一面。未来不知道是否还会再见到你，也不知道你是怎么想的，还在等我吗？</p>
-<p>岁月无痕，时间过得真快，感觉生活的很麻木，很无趣，很没有目标。努力活着本身就是一种勇气了，想想真是挺可悲的。</p>
-<p>一个人需要责任，需要使命，需要理想，才能充满激情的去过好每一天。</p>
-<p>如果你不知道你该往哪里去？你该怎么办？</p>
-<p>也许时间会给你答案，至少现在不要娱乐至死，做些有意义的事情吧。</p>
 ]]></content>
     </entry>
 </feed>
