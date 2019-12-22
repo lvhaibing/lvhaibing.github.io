@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-11-24T14:43:59.748Z</updated>
+    <updated>2019-12-22T09:02:17.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[庆余年]]></title>
+        <id>https://lvhaibing.github.io/post/G3fuG1VrZ</id>
+        <link href="https://lvhaibing.github.io/post/G3fuG1VrZ">
+        </link>
+        <updated>2019-12-22T08:54:08.000Z</updated>
+        <content type="html"><![CDATA[<p>过了一个极其魔幻的周末。</p>
+<p>睡得迷迷糊糊，不知觉间看完了《庆余年》，跟小熊猫还有LZJ都有了深入的沟通，终于让自己的心绪有一丝安宁。</p>
+<p>人啊，最怕闲下来的时候不知道该做些什么。最怕纷纷扰扰心绪不宁。以后的日子里，还是尽量让岁月静好，努力去追寻你想要的生活罢。</p>
+<p>凡事都不会那么顺利，要想取得意想不到的结果，就必须要有意料之外的筹谋。控制住自己，时间会给每一个人写出最好的结局。</p>
+<p>范闲只求一生无忧，奈何从出生起，命运就被他人掌控。看似自由无拘无束，实则每一步都被人指引，成为了权谋的棋子。</p>
+<p>但他仍能坚守心中正义，为平凡人物发声。即使生命受到威胁亦不曾屈服，在他眼中家人朋友胜过一切，，有仇必报，所求不过一生无忧罢了，却也变为一种奢侈。</p>
+<p>他在一个不属于他的世界里驰骋，原本以为可以很轻松的打怪升级，却没想到的是江湖还是那个江湖，人心还是深不可测的人心。权谋心机，为了利益的争斗，在任何时代都是相同。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人间失格]]></title>
         <id>https://lvhaibing.github.io/post/4NXU1XEMk</id>
@@ -227,28 +242,6 @@
 成年人要忍受的孤独太多，你还有很长的路要走。<br>
 深圳还是那么热，热的像过了一年的夏天，时间静止在了2018年10月。<br>
 就这样没心没肺的活着吧，真是一种痛苦。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假期后上班第一天]]></title>
-        <id>https://lvhaibing.github.io/post/elXN-GLEC</id>
-        <link href="https://lvhaibing.github.io/post/elXN-GLEC">
-        </link>
-        <updated>2019-10-08T13:46:17.000Z</updated>
-        <summary type="html"><![CDATA[<p>今天是假期后上班第一天，昨晚3点才睡，今天有点昏昏沉沉，好在一切还算顺利，应该会逐渐找回状态吧。</p>
-<p>今天了解到了一个新的乐队-野外合作社。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>今天是假期后上班第一天，昨晚3点才睡，今天有点昏昏沉沉，好在一切还算顺利，应该会逐渐找回状态吧。</p>
-<p>今天了解到了一个新的乐队-野外合作社。</p>
-<!-- more -->
-<p>听了他们的一首歌《八十九》</p>
-<p>我很喜欢歌词，很有反叛精神。</p>
-<p>我想倒在你的怀里睡上一觉，我那不足挂齿的秘密。</p>
-<p>......</p>
-<p>可惜只有1把手枪，所以你先用了。连同我无处安放的名声，一起用了。</p>
-<p>今天坐在办公室里，突然想着，如果一直这么平凡下去，该是多么可悲的一件事情啊，人生这么短暂，却要这么无聊的消磨掉。</p>
-<p>只是为了金钱，为了生活。必须要彻底摆脱这个牢笼，才能真正做一些自己喜欢做的事情。</p>
-<p>在此之前，赚钱仍是重中之重。</p>
 ]]></content>
     </entry>
 </feed>
