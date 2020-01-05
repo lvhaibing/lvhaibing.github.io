@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2019-12-22T09:02:33.242Z</updated>
+    <updated>2020-01-05T03:54:04.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
     <subtitle>一个有趣的互联网创业者</subtitle>
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, 南宫七洛</rights>
+    <rights>All rights reserved 2020, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[囚笼]]></title>
+        <id>https://lvhaibing.github.io/post/XhJyaemP-</id>
+        <link href="https://lvhaibing.github.io/post/XhJyaemP-">
+        </link>
+        <updated>2020-01-05T03:48:41.000Z</updated>
+        <content type="html"><![CDATA[<p>心里有点乱乱的，可能是因为没赚到什么钱，十分焦虑。<br>
+这世界对穷人太残忍了。<br>
+另外就是LZJ回来找我突然让我的心底起了波澜，不知道该做出什么样的选择。<br>
+你还喜欢她吗？其实我也不知道。<br>
+但是我知道不能对不起小熊猫，她人那么温柔，对我也很好，也很懂事。<br>
+甚至找不到她的缺点。<br>
+那我为什么还会纠结呢？<br>
+因为还是没有彻底忘掉吗？因为没有归属感，没有想要一个家的冲动吗？<br>
+唉，我都深深的鄙视自己了。<br>
+珍惜你拥有的一切吧，珍惜那些爱你的人。<br>
+爱情其实是靠不住的，唯有自己内心强大，才能活的不那么痛苦。<br>
+不要让任何人制造指导你的情绪。<br>
+自己把控，所有的生活。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[庆余年]]></title>
         <id>https://lvhaibing.github.io/post/G3fuG1VrZ</id>
@@ -226,22 +247,6 @@
 <p>不用着急，坚持每天都做正确的事情即可。</p>
 <p>要有全盘的规划，资源会越来越多的。</p>
 <p>自己的业务进度缓慢，一时半会儿也很难解决，暂时没有更好的办法。争取把网站尽快做出成绩吧！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孤单]]></title>
-        <id>https://lvhaibing.github.io/post/MDiOCytV0</id>
-        <link href="https://lvhaibing.github.io/post/MDiOCytV0">
-        </link>
-        <updated>2019-10-13T09:57:10.000Z</updated>
-        <content type="html"><![CDATA[<p>头很痛，心里空空落落的也没人能说说话，不知道该怎么坚持下去。<br>
-感觉我有点抑郁了。<br>
-最近各方面事情都挺不顺利的，可能是遇到瓶颈了吧，睡觉的时候也睡不踏实，老是会梦到以前的事情。<br>
-似乎习惯了一个人生活，又似乎永远活在回忆里。<br>
-很不喜欢现在的状态，怎么才能让自己踏实一点，一个人也能开开心心。<br>
-成年人要忍受的孤独太多，你还有很长的路要走。<br>
-深圳还是那么热，热的像过了一年的夏天，时间静止在了2018年10月。<br>
-就这样没心没肺的活着吧，真是一种痛苦。</p>
 ]]></content>
     </entry>
 </feed>
