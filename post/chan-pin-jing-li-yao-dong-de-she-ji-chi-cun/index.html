@@ -9,7 +9,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1578196435057">
+<link rel="shortcut icon" href="https://lvhaibing.github.io/favicon.ico?v=1579535143401">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://lvhaibing.github.io/styles/main.css">
 
@@ -45,7 +45,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://lvhaibing.github.io">
-        <img src="https://lvhaibing.github.io/images/avatar.png?v=1578196435057" class="site-logo">
+        <img src="https://lvhaibing.github.io/images/avatar.png?v=1579535143401" class="site-logo">
         <h1 class="site-title">南宫七洛</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -140,18 +140,18 @@
 要回答这个问题，我要先科普几个概念。</p>
 <p>###1）像素密度PPI<br>
 首先是像素密度也就是PPI（Pixels per inch）。要知道屏幕是由很多个像素点构成的，这些像素点的个数也就是屏幕的分辨率构成屏幕的像素尺寸。而手机屏幕的物理尺寸和像素尺寸是不成比例的。如下图：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ab96f465157425b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="iphone主流型号尺寸"><br>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-ab96f465157425b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="iphone主流型号尺寸" loading="lazy"><br>
 可以看出，虽然iphone4和iphone3GS的物理尺寸都是3.5英寸，但是iphone4的屏幕分辨率为640x960px,而iphone3GS的分辨率为320x480px,刚好是iphone4的1/4。这也就是iphone3gs和iphone4的物理尺寸相同，但是像素尺寸不同，这个不同我们用一个概念来表述，也就是上面提到的像素密度。那么这个像素密度是怎么计算的呢？如下图：</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-0699546fec4bb0b2.jpg?imageMogr2/auto-orient/strip" alt="ppi.jpg"><br>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-0699546fec4bb0b2.jpg?imageMogr2/auto-orient/strip" alt="ppi.jpg" loading="lazy"><br>
 如果你能够理解下面这个计算，我相信你就理解了iphone各个分辨率与参数之间的关系。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-38250d2366958a69.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="计算范例"><br>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-38250d2366958a69.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="计算范例" loading="lazy"><br>
 ###2）倍率与逻辑像素</p>
 <p>在解释这个概念前？我想问问大家有没有想过为什么不同分辨率的手机，像iphone6plus和iphone6的显示内容会相同，比如同样一个邮件列表，两个屏幕显示的邮件数是相同的。按理说iphone6plus的分辨率更高，同样一张图片的话，在iphone6plus上不是应该看起来更小，所以显示的邮件数更多么？<br>
 这里就牵扯到一个概念也就是逻辑像素。如上图，iphone6plus的逻辑像素是414x736，它的分辨率是它的逻辑像素的3倍，也就是说它把3x3个像素当成一个像素来用，原本1个像素中显示的内容，现在用9个像素来显示，自然显示效果就非常细腻逼真了。同样iphone6的逻辑像素是375x667，它的分辨率是它的逻辑像素的2倍，也就是说在iphone6中，原本一个像素的内容用了2*2个像素点来显示。只要两个屏幕的逻辑像素相同，显示的画面就是相同的，屏幕分辨率不同的问题就用倍率解决了。</p>
-<figure data-type="image" tabindex="1"><img src="http://upload-images.jianshu.io/upload_images/1346433-2813547e3af9d214.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种iphone屏幕尺寸"></figure>
+<figure data-type="image" tabindex="1"><img src="http://upload-images.jianshu.io/upload_images/1346433-2813547e3af9d214.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种iphone屏幕尺寸" loading="lazy"></figure>
 <p>安卓把不同像素密度的设备划分了好几个范围，给不同范围的设备定义了不同的倍率，来保证不同设备显示效果的相同。</p>
-<figure data-type="image" tabindex="2"><img src="http://upload-images.jianshu.io/upload_images/1346433-eef325040e07d077.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种安卓屏幕尺寸.png"></figure>
-<figure data-type="image" tabindex="3"><img src="http://upload-images.jianshu.io/upload_images/1346433-9ae06a955ea150c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安卓市场尺寸规范"></figure>
+<figure data-type="image" tabindex="2"><img src="http://upload-images.jianshu.io/upload_images/1346433-eef325040e07d077.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="几种安卓屏幕尺寸.png" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://upload-images.jianshu.io/upload_images/1346433-9ae06a955ea150c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="安卓市场尺寸规范" loading="lazy"></figure>
 <p>如图所示，像素密度在120左右的屏幕归为ldpi，160左右的归为mdpi，以此类推。这样，所有的Android屏幕都找到了自己的位置，并赋予了相应的倍率：</p>
 <blockquote>
 <p>ldpi [0.75倍]<br>
@@ -182,7 +182,7 @@ xxxhdpi [1440x2560]（极少数2K屏手机，比如Google Nexus 6）<br>
 4倍：1pt=1dp=4px（xxxhdpi）</p>
 <p>单位决定了我们的思考方式。在设计和开发过程中，应该尽量使用逻辑像素尺寸来思考界面。Android的最小点击区域尺寸是48x48dp，这就意味着在xhdpi的设备上，按钮尺寸至少是96x96px。而在xxhdpi设备上，则是144x144px。</p>
 <p>无论画布设成多大，我们设计的是基准倍率的界面样式，而且开发人员需要的单位都是逻辑像素。</p>
-<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c5e62fad215f9af6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="常用逻辑像素"><br>
+<p><img src="http://upload-images.jianshu.io/upload_images/1346433-c5e62fad215f9af6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="常用逻辑像素" loading="lazy"><br>
 移动端web的单位是px，使用代码可以实现让浏览器用APP的渲染方式来显示页面，根据像素密度，按照相应倍率缩放。<br>
 制作页面时按照基准倍率制作，按照逻辑像素来设计和开发页面就好了。在准备图的时候可以准备逻辑像素2倍大小的图，通过代码缩成一倍，这样就会比较清晰了。<br>
 最后补充一点，电脑屏幕的分辨率一般为72px,因此在作图的时候，可以在PS中把分辨率设置为144Px,这样就是倍率为2的屏幕了。在ps中通常是控制DPI的大小，其实就是PPI，像素密度来控制设计倍率。<br>
