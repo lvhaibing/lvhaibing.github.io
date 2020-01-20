@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2020-01-20T15:47:48.558Z</updated>
+    <updated>2020-01-20T15:48:14.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[把小事做好]]></title>
+        <id>https://lvhaibing.github.io/post/-KdGGmAb0</id>
+        <link href="https://lvhaibing.github.io/post/-KdGGmAb0">
+        </link>
+        <updated>2020-01-20T15:31:27.000Z</updated>
+        <content type="html"><![CDATA[<p>很多时候，看似我们已经把事情做的很好了。</p>
+<p>自以为是100分，其实可能只到了80分，之所以还差20分，是因为我们不愿意踏出最后一步，不愿意去尝试。没有100%把握的事情，就不愿意迈出第一步。</p>
+<p>但这世界上又有什么事情是100%把握的呢？</p>
+<p>就连买个方便面也会过期，好几年的爱情也会不值一提，工作可能会被裁员，家庭可能会分崩离析。马云说的对，唯一不变的就是变化，跟不上变化的人就会被淘汰。</p>
+<p>当一件事情你有50%的把握，甚至40%的把握时，就可以拼尽全力去尝试了。不要给自己留后路，把每一件小时做好，坚持下去，你就会做出成绩。</p>
+<p>每个人都喜欢待在自己的舒适区，因为安逸因为舒服。没有挑战也没有不安，但这样只会让你丧失活力。没有挑战的生活静如死水没有波澜，只有让自己的生命迎接一个又一个目标时，你才会真实的感受到自己在活着。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公众号写作计划]]></title>
         <id>https://lvhaibing.github.io/post/zOEj7Tiws</id>
@@ -238,21 +252,6 @@
 <p>那些不属于自己的，告诉自己不要再奢望。</p>
 <p>那些属于自己的，告诉自己，要努力争取。</p>
 <p>不羡慕别人，只告诉自己，每一天都要努力，要耐得住寂寞。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望你过的好]]></title>
-        <id>https://lvhaibing.github.io/post/5TA53gTEx</id>
-        <link href="https://lvhaibing.github.io/post/5TA53gTEx">
-        </link>
-        <updated>2019-10-17T15:20:54.000Z</updated>
-        <content type="html"><![CDATA[<p>我希望你过得好，但是希望我不知道；</p>
-<p>你会遇到一个很好很好的人，因为你值得。</p>
-<p>你会拥有你想要的一切，</p>
-<p>因为你可以。</p>
-<p>我希望你过得好，</p>
-<p>我希望你的世界永远五彩斑斑，</p>
-<p>即使那与我无关。</p>
 ]]></content>
     </entry>
 </feed>
