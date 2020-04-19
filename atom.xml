@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvhaibing.github.io</id>
     <title>南宫七洛</title>
-    <updated>2020-01-20T15:56:03.045Z</updated>
+    <updated>2020-04-19T07:39:08.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lvhaibing.github.io"/>
     <link rel="self" href="https://lvhaibing.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://lvhaibing.github.io/images/avatar.png</logo>
     <icon>https://lvhaibing.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 南宫七洛</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年的一些项目]]></title>
+        <id>https://lvhaibing.github.io/post/cgi3nRY88</id>
+        <link href="https://lvhaibing.github.io/post/cgi3nRY88">
+        </link>
+        <updated>2020-04-19T07:37:11.000Z</updated>
+        <content type="html"><![CDATA[<p>做了一个书单推荐网站：什么值得读。域名是http://www.shenmezhidedu.com<br>
+做了一个DEAL站，900DEALS，域名是http://www.900deals.com</p>
+<p>网站的流量在缓慢的增加，目前主要是通过SEO获取流量。希望今年能有所成就，将流量做上去。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回家2020]]></title>
         <id>https://lvhaibing.github.io/post/84XPmJPKx</id>
@@ -220,25 +231,6 @@
 <p>不要试图享受当下的片刻欢愉。</p>
 <p>一切都是假象，你会看到绝情的鸟儿一路向南。</p>
 <p>北方的大雪纷飞，终究是千里无人的寂寞。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丧丧的一天]]></title>
-        <id>https://lvhaibing.github.io/post/cRYHo7MOV</id>
-        <link href="https://lvhaibing.github.io/post/cRYHo7MOV">
-        </link>
-        <updated>2019-10-24T13:38:31.000Z</updated>
-        <content type="html"><![CDATA[<p>李善菊的婚礼定在了11月18号，吴琼也和她对象领证了，曾经的小伙伴终于一个个都结婚了。</p>
-<p>我还是一个人。</p>
-<p>想想有点惨，有一种失落感。</p>
-<p>加上最近项目一直推进不顺利，李超实在是太忙了。</p>
-<p>无力感。</p>
-<p>不知道什么时候才能过的舒心一点，想要做的事情都可以做成。</p>
-<p>丧丧的一天，希望明天可以更好吧。</p>
-<p>很多好的习惯可以让你变得优秀，比如坚持一件事情几年，学会一个技能，坚持健身。</p>
-<p>你要用这些有意义的事情填满你的时间，甚至写小说，也不要虚度光阴无限娱乐。</p>
-<p>娱乐至死，最可怕。</p>
-<p>找到你的位置，改变自己吧！</p>
 ]]></content>
     </entry>
 </feed>
